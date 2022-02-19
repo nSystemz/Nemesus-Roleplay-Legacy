@@ -4,7 +4,9 @@ Altes NRP-Forum: https://nrpforum.nemesus.de
 
 Youtube: https://yt.nemesus.de
 
-Support gibt es auf Discord: https://discord.nemesus.de
+Forum: https://forum.nemesus.de
+
+Discord: https://discord.nemesus.de
 
 Nemesus-Roleplay.net ist ein einzigartiger, neuartiger, dynamischer San Andreas: Multiplayer Server. Wir legen viel Wert auf ein freundliches Miteinander und professioneller Unterhaltung unserer Spieler. Wir haben uns darauf spezialisiert der San Andreas: Multiplayer Community etwas neues, noch nie da gewesenes zu bieten. Dies verwirklichen wir durch unser über 7 Jahre lang entwickeltes Script, mit neuartigen dynamischen Elementen. Nach den bereits von uns geleiteten Servern, Dark Trigardon, Dark Trigardon Reloaded und Bayside Roleplay, wollen wir dieses mal die Messlatte noch höher legen und endlich erreichen was wir erreichen wollten. Wir wollen der "beste" deutsche SA:MP Roleplay Server werden! Ständig wird unser Server durch neue Ideen, Maps, Systeme und anderweitigen Dingen erweitert und nun möchten wir beweisen dass hinter all diesen Dingen noch mehr steckt. Unser Server hat in seiner sechsjährigen Geschichte verschiedene Höhen und Tiefen durchlebt, trotz dessen können wir stolz behaupten führend im deutschen SA:MP Roleplay Bereich zu sein. Diese Vorrangstellung wollen wir ausbauen und verbessern um möglichst vielen Spielern Zugang zu gutem Roleplay zu ermöglichen.
 
