@@ -12,6 +12,8 @@ Nemesus-Roleplay.net ist ein einzigartiger, neuartiger, dynamischer San Andreas:
 
 Das Script von Nemesus-Roleplay wurde zwischen 2012 und 2013 entwickelt, der Release fand 2013 statt und war mit knapp 250 Spieler ein voller Erfolg. Das Script wurde bis zum September 2020 aktiv, d.H mehr als 7 Jahre mit Updates unterstützt. Das Script umfasst mittlerweile knapp: 250.000 Zeilen Code, mehr als 50.000 Zeilen Mapcode und selbsterstellten Filterscriptes, Includes, Plugins oder auch APIs.
 
+Hier und da gibt es natürlich noch ein paar Unschönheiten, Bugs und Unklarheiten. Diese dürfte man aber mit relativ wenig Zeit entfernen können.
+
 Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nennen:
 
     Ein Fimensystem mit der Möglichkeit verschiedenen Lizenzen zu besitzen wie z.B: Speditionslizenz, Mechatronikerlizenz etc.
