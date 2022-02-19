@@ -1,5 +1,7 @@
 Nemesus-Roleplay Revision 126 (Erstellt durch https://nemesus.de, 2021 gekauft durch Artur und 2022 released für alle!)
 
+Info: Der Gamemode war für Linux ausgelegt, ich kann den Gamemode nur in Verwendung mit einem Linux Server empfehlen. Auf Windows könnten einige Fehler auftreten, welche bei Linux nicht auftreten können. Die Windows Plugins liegen bei.
+
 Altes NRP-Forum: https://nrpforum.nemesus.de
 
 Youtube: https://yt.nemesus.de
