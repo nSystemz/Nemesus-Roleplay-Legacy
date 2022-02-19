@@ -1,4 +1,4 @@
-Nemesus-Roleplay Revision 125
+Nemesus-Roleplay Revision 126
 
 Altes NRP-Forum: https://nrpforum.nemesus.de
 
@@ -27,3 +27,5 @@ Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nenn
     Rucksack, Koffer, Duffle-Bag System
     Einzigartiges Drogensystem
     und vieles mehr ...
+    
+Weitere Infos gibt es auf https://nemesus.de
