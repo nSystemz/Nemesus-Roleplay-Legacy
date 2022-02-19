@@ -30,4 +30,6 @@ Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nenn
     Einzigartiges Drogensystem
     und vieles mehr ...
     
+Models Download: https://bit.ly/3LHByQ2
+
 Weitere Infos gibt es auf https://nemesus.de
