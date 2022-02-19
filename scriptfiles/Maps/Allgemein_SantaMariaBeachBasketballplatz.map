@@ -1,0 +1,64 @@
+obj = CreateDynamicObject(19377, 699.7577, -1877.5310, 4.2389, 0.0000, 90.0000, 0.0000, -1, -1); //wall025
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "plaintarmac1", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 689.0560, -1869.1484, 1.8965, 0.0000, 0.0000, 0.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 9515, "bigboxtemp1", "redbrickground256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 689.2567, -1877.5310, 4.2389, 0.0000, 90.0000, 0.0000, -1, -1); //wall025
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "plaintarmac1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 699.7770, -1874.4608, 4.2397, 0.0000, 90.0000, 0.0000, -1, -1); //wall025
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "plaintarmac1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 689.2767, -1874.4608, 4.2397, 0.0000, 90.0000, 0.0000, -1, -1); //wall025
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "plaintarmac1", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 699.0374, -1869.1484, 1.8965, 0.0000, 0.0000, 0.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 9515, "bigboxtemp1", "redbrickground256", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 683.5558, -1873.6492, 1.8965, 0.0000, 0.0000, 90.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 9515, "bigboxtemp1", "redbrickground256", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 683.5545, -1878.3316, 1.8954, 0.0000, 0.0000, 90.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 9515, "bigboxtemp1", "redbrickground256", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 689.0560, -1882.8383, 1.8965, 0.0000, 0.0000, 0.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 9515, "bigboxtemp1", "redbrickground256", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 699.0559, -1882.8383, 1.8965, 0.0000, 0.0000, 0.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 9515, "bigboxtemp1", "redbrickground256", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 704.5543, -1878.3316, 1.8954, 0.0000, 0.0000, 90.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 9515, "bigboxtemp1", "redbrickground256", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 704.5466, -1873.6492, 1.8965, 0.0000, 0.0000, 90.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 9515, "bigboxtemp1", "redbrickground256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19463, 689.2681, -1869.9653, 2.5855, 0.0000, 0.0000, 90.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 684.5381, -1874.8659, 2.5855, 0.0000, 0.0000, 0.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 698.8876, -1869.9653, 2.5855, 0.0000, 0.0000, 90.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 703.6184, -1874.8659, 2.5855, 0.0000, 0.0000, 0.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 694.0581, -1874.8560, 2.5855, 0.0000, 0.0000, 0.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 689.2681, -1882.0766, 2.5855, 0.0000, 0.0000, 90.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 698.8876, -1882.0755, 2.5855, 0.0000, 0.0000, 90.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 703.6184, -1877.3465, 2.5855, 0.0000, 0.0000, 0.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 694.0581, -1877.2260, 2.5855, 0.0000, 0.0000, 0.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19463, 684.5381, -1877.2763, 2.5855, 0.0000, 0.0000, 0.0000, -1, -1); //wall103
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19464, 701.0028, -1877.1779, 4.2021, 0.0000, 90.0000, 180.0000, -1, -1); //wall104
+SetDynamicObjectMaterialText(obj, 0, "o", 60, "Segoe UI Light", 200, 0, 0xFFD78E10, 0x0, 2);
+obj = CreateDynamicObject(19464, 687.1624, -1875.1575, 4.2021, 0.0000, 90.0000, 0.0000, -1, -1); //wall104
+SetDynamicObjectMaterialText(obj, 0, "o", 60, "Segoe UI Light", 200, 0, 0xFFD78E10, 0x0, 2);
+obj = CreateDynamicObject(946, 702.7381, -1876.1512, 6.4899, 0.0000, 0.0000, 90.0000, -1, -1); //bskball_lax
+SetDynamicObjectMaterial(obj, 1, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(946, 685.3876, -1876.1512, 6.4899, 0.0000, 0.0000, -90.0000, -1, -1); //bskball_lax
+SetDynamicObjectMaterial(obj, 1, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(8674, 688.8154, -1882.7897, 5.8168, 0.0000, 0.0000, 0.0000, -1, -1); //csrsfence02_lvs
+obj = CreateDynamicObject(8674, 699.1854, -1882.7897, 5.8168, 0.0000, 0.0000, 0.0000, -1, -1); //csrsfence02_lvs
+obj = CreateDynamicObject(8674, 704.3754, -1877.6091, 5.8168, 0.0000, 0.0000, 90.0000, -1, -1); //csrsfence02_lvs
+obj = CreateDynamicObject(8674, 683.6448, -1877.6091, 5.8168, 0.0000, 0.0000, 90.0000, -1, -1); //csrsfence02_lvs
+obj = CreateDynamicObject(8674, 683.6448, -1875.0375, 5.8168, 0.0000, 0.0000, 90.0000, -1, -1); //csrsfence02_lvs
+obj = CreateDynamicObject(8674, 704.3748, -1875.0375, 5.8168, 0.0000, 0.0000, 90.0000, -1, -1); //csrsfence02_lvs
+obj = CreateDynamicObject(1226, 703.8313, -1882.3735, 8.2492, 0.0000, 0.0000, -45.0000, -1, -1); //lamppost3
+obj = CreateDynamicObject(1226, 684.1522, -1882.0686, 8.2492, 0.0000, 0.0000, -135.0000, -1, -1); //lamppost3
+obj = CreateDynamicObject(19464, 695.0324, -1876.1977, 4.2021, 0.0000, 90.0000, 0.0000, -1, -1); //wall104
+SetDynamicObjectMaterialText(obj, 0, "o", 60, "Segoe UI Light", 200, 0, 0xFFD78E10, 0x0, 1);

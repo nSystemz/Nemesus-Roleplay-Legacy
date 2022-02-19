@@ -1,0 +1,603 @@
+obj = CreateDynamicObject(2434, -2350.6220, -233.9535, 676.7401, 0.0000, 0.0000, 90.0000, -1, 12); //CJ_FF_CONTER_2b
+obj = CreateDynamicObject(1522, -2362.8085, -236.7698, 676.7351, 0.0000, 0.0000, 90.0000, -1, 12); //Gen_doorSHOP3
+obj = CreateDynamicObject(19810, -2344.6713, -228.1918, 679.4711, 0.0000, 0.0000, 90.0000, -1, 12); //StaffOnlySign1
+obj = CreateDynamicObject(2435, -2356.3959, -233.7863, 676.7401, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2434, -2357.3239, -233.7837, 676.7401, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_FF_CONTER_2b
+obj = CreateDynamicObject(2435, -2357.4870, -234.9120, 676.7401, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2435, -2357.4870, -235.8421, 676.7401, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2435, -2357.4870, -236.7720, 676.7401, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2435, -2355.4650, -233.7863, 676.7401, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2435, -2354.5346, -233.7863, 676.7401, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2435, -2353.6137, -233.7863, 676.7401, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2435, -2352.6835, -233.7863, 676.7401, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2435, -2351.7534, -233.7863, 676.7401, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2493, -2349.3491, -236.8701, 677.6845, 0.0000, 0.0000, 18.1998, -1, 12); //VICE_TOY2_1
+obj = CreateDynamicObject(2435, -2350.6230, -234.8822, 676.7401, 0.0000, 0.0000, 90.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2435, -2350.6230, -236.7922, 676.7401, 0.0000, 0.0000, 90.0000, -1, 12); //CJ_FF_CONTER_2
+obj = CreateDynamicObject(2582, -2347.7163, -236.7391, 677.6096, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_SEX_VIDEO_1
+SetDynamicObjectMaterial(obj, 0, 1273, "icons3", "greengrad32", 0x00000000);
+SetDynamicObjectMaterial(obj, 1, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(2254, -2344.6875, -234.1445, 677.6616, 0.0000, 0.0000, -90.0000, -1, 12); //Frame_Clip_1
+SetDynamicObjectMaterialText(obj, 0, "PS4", 100, "Arial", 35, 1, 0xFF0000FF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2583, -2344.9179, -235.1036, 677.6096, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_SEX_VIDEO_2
+SetDynamicObjectMaterial(obj, 0, 1975, "texttest", "kb_blue", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 2577, "cj_sex", "CJ_PORN_SIGNS2", 0x00000000);
+SetDynamicObjectMaterial(obj, 3, 1346, "roadside", "CJ_PHONESEXADD", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(2582, -2344.9150, -233.5993, 677.6096, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_SEX_VIDEO_1
+SetDynamicObjectMaterial(obj, 0, 1975, "texttest", "kb_blue", 0x00000000);
+SetDynamicObjectMaterial(obj, 1, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(2583, -2348.3415, -233.5937, 677.6096, 0.0000, 0.0000, 90.0000, -1, 12); //CJ_SEX_VIDEO_2
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 6, 4004, "civic07_lan", "downtsign9_LA", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(2583, -2346.2492, -236.7335, 677.6096, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_SEX_VIDEO_2
+SetDynamicObjectMaterial(obj, 0, 1273, "icons3", "greengrad32", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 2577, "cj_sex", "CJ_PORN_SIGNS2", 0x00000000);
+SetDynamicObjectMaterial(obj, 3, 1346, "roadside", "CJ_PHONESEXADD", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(1438, -2340.8879, -227.7071, 676.9293, 0.0000, 0.0000, -93.5000, -1, 12); //DYN_BOX_PILE_2
+obj = CreateDynamicObject(2254, -2348.2209, -236.9541, 677.6416, 0.0000, 0.0000, 180.0000, -1, 12); //Frame_Clip_1
+SetDynamicObjectMaterialText(obj, 0, "XBOX", 100, "Arial", 31, 1, 0xFF32CD32, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2593, -2357.5454, -235.4882, 678.0557, 0.0000, 0.0000, 51.2999, -1, 12); //roleplay_rack
+obj = CreateDynamicObject(2583, -2346.9699, -233.5735, 677.6096, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_SEX_VIDEO_2
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 14802, "lee_bdupsflat", "Bdup_Poster", 0x00000000);
+SetDynamicObjectMaterial(obj, 6, 4004, "civic07_lan", "downtsign9_LA", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(19422, -2361.6591, -226.9696, 677.8767, 89.5998, 4.8997, -61.2999, -1, 12); //headphones02
+obj = CreateDynamicObject(2583, -2346.4604, -233.5937, 677.6096, 0.0000, 0.0000, 90.0000, -1, 12); //CJ_SEX_VIDEO_2
+SetDynamicObjectMaterial(obj, 0, 1963, "estateprops", "red_cyl_32", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 2464, "rc_shop_acc", "CJ_RC_13", 0x00000000);
+SetDynamicObjectMaterial(obj, 6, 4004, "civic07_lan", "downtsign9_LA", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(19981, -2348.6035, -233.3305, 675.5003, 0.0000, 0.0000, 90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Filme", 80, "Arial", 45, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2348.5734, -233.6004, 675.5203, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2348.5834, -233.8504, 675.5003, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Filme", 80, "Arial", 45, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(2583, -2348.8518, -233.5735, 677.6096, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_SEX_VIDEO_2
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 14539, "pdomes_logo", "pdomes_jizzys", 0x00000000);
+SetDynamicObjectMaterial(obj, 6, 4004, "civic07_lan", "downtsign9_LA", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(2491, -2349.2316, -236.2924, 676.7352, 0.0000, 0.0000, 19.6000, -1, 12); //MODEL_STAND
+obj = CreateDynamicObject(2494, -2349.4724, -236.3533, 677.6904, 0.0000, 0.0000, -160.3000, -1, 12); //MANHUNT_TOY2_2
+obj = CreateDynamicObject(2492, -2349.6081, -236.6772, 677.6928, 0.0000, 0.0000, -70.3999, -1, 12); //MANHUNT_TOY2_1
+obj = CreateDynamicObject(2496, -2349.1511, -236.5169, 677.6879, 0.0000, 0.0000, 109.4000, -1, 12); //VICE_TOY2_2
+obj = CreateDynamicObject(2412, -2362.1518, -236.4427, 676.7495, 0.0000, 0.0000, 90.0000, -1, 12); //CJ_DETECTOR
+obj = CreateDynamicObject(19815, -2346.3471, -227.0070, 678.2045, -90.0000, 0.0000, 0.0000, -1, 12); //ToolBoard1
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(2238, -2346.3066, -227.2958, 678.6209, 0.0000, 0.0000, 0.0000, -1, 12); //CJ_LAVA_LAMP
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterial(obj, 1, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19786, -2346.3183, -227.2458, 679.0155, 0.0000, 0.0000, 0.0000, -1, 12); //LCDTVBig1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19835, -2361.9941, -231.7624, 677.3308, 0.0000, 0.0000, 0.0000, -1, 12); //CoffeeCup1
+obj = CreateDynamicObject(19815, -2349.8574, -227.0070, 678.2045, -90.0000, 0.0000, 0.0000, -1, 12); //ToolBoard1
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(19810, -2347.2438, -227.3816, 679.4711, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(2593, -2361.4797, -226.9324, 677.6054, 0.0000, 0.0000, 20.7000, -1, 12); //roleplay_rack
+obj = CreateDynamicObject(19810, -2347.1738, -227.3916, 679.4011, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterialText(obj, 0, "1999", 90, "Arial", 35, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19810, -2350.7365, -227.3916, 679.4011, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterialText(obj, 0, "1499", 90, "Arial", 35, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19810, -2350.7973, -227.3816, 679.4711, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -2344.3391, -229.9434, 678.6273, 0.0000, 4.1999, 90.0000, -1, 12); //7_11_sign03
+obj = CreateDynamicObject(1302, -2359.0649, -236.7068, 676.6447, 0.0000, 0.0000, 180.0000, -1, 12); //vendmachfd
+obj = CreateDynamicObject(1702, -2362.2531, -234.2595, 676.7459, 0.0000, 0.0000, 90.0000, -1, 12); //kb_couch06
+obj = CreateDynamicObject(1702, -2362.2985, -230.8589, 676.7459, 0.0000, 0.0000, 90.0000, -1, 12); //kb_couch06
+obj = CreateDynamicObject(1820, -2362.7473, -232.0877, 676.7379, 0.0000, 0.0000, 0.0000, -1, 12); //COFFEE_LOW_4
+obj = CreateDynamicObject(2365, -2361.7858, -234.9582, 676.7368, 0.0000, 0.0000, -89.9999, -1, 12); //SHOPPING_BASKET
+obj = CreateDynamicObject(2613, -2359.5600, -235.9293, 676.7238, 0.0000, 0.0000, 0.0000, -1, 12); //POLICE_WASTEBIN
+obj = CreateDynamicObject(19981, -2346.7016, -233.6004, 675.5203, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(1719, -2347.5019, -229.3898, 678.2954, 0.0000, 0.0000, 84.7994, -1, 12); //LOW_CONSOLE
+SetDynamicObjectMaterial(obj, 1, 10765, "airportgnd_sfse", "white", 0xFF000000);
+obj = CreateDynamicObject(19981, -2346.7121, -233.8504, 675.5003, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Filme", 80, "Arial", 45, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2346.7321, -233.5704, 675.5003, 0.0000, 0.0000, 90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Nintendo Switch", 80, "Arial", 36, 1, 0xFF8B0000, 0x0, 0);
+obj = CreateDynamicObject(19814, -2362.8537, -231.5932, 677.4744, 0.0000, 0.0000, 90.0000, -1, 12); //ElectricalOutlet2
+obj = CreateDynamicObject(2552, -2347.4208, -230.2613, 676.7338, 0.0000, 0.0000, 0.0000, -1, 12); //CJ_SS_8_R
+SetDynamicObjectMaterial(obj, 0, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(19916, -2352.3854, -226.5265, 676.7222, 0.0000, 0.0000, 0.0000, -1, 12); //CutsceneFridge1
+obj = CreateDynamicObject(2852, -2362.3554, -231.5478, 677.2312, 0.0000, 0.0000, -28.0000, -1, 12); //gb_bedmags02
+obj = CreateDynamicObject(2552, -2348.4018, -229.2516, 676.7338, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_SS_8_R
+SetDynamicObjectMaterial(obj, 0, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2553, -2348.4213, -230.2655, 676.7340, 0.0000, 0.0000, 0.0000, -1, 12); //CJ_SS_8_L
+SetDynamicObjectMaterial(obj, 0, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2553, -2347.4003, -229.2554, 676.7340, 0.0000, 0.0000, 180.0000, -1, 12); //CJ_SS_8_L
+SetDynamicObjectMaterial(obj, 0, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2412, -2362.1518, -234.8825, 676.7495, 0.0000, 0.0000, 90.0000, -1, 12); //CJ_DETECTOR
+obj = CreateDynamicObject(2100, -2348.1027, -230.7825, 676.7437, 0.0000, 0.0000, 0.0000, -1, 12); //MED_HI_FI_2
+obj = CreateDynamicObject(2103, -2348.3359, -229.7686, 678.2410, 0.0000, 0.0000, -91.0000, -1, 12); //LOW_HI_FI_1
+obj = CreateDynamicObject(2226, -2348.1958, -229.3374, 677.8272, 0.0000, 0.0000, -90.0000, -1, 12); //LOW_HI_FI_3
+obj = CreateDynamicObject(19792, -2348.5534, -230.4346, 678.2600, 40.5998, 174.4002, -86.0998, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "299", 30, "Arial", 20, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(2226, -2348.1818, -230.2131, 677.8272, -0.4999, 0.0000, -87.8000, -1, 12); //LOW_HI_FI_3
+obj = CreateDynamicObject(19792, -2348.5395, -230.4217, 678.2583, 40.5998, 0.0000, -86.0998, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2348.5070, -230.4194, 678.2506, -57.9197, 0.0000, -86.0998, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(2226, -2348.5322, -230.2265, 677.8297, -0.4999, 0.0000, -87.8000, -1, 12); //LOW_HI_FI_3
+obj = CreateDynamicObject(2226, -2348.4960, -229.3374, 677.8272, 0.0000, 0.0000, -90.0000, -1, 12); //LOW_HI_FI_3
+obj = CreateDynamicObject(2102, -2348.1997, -229.3213, 677.4378, 0.0000, 0.0000, -90.0000, -1, 12); //LOW_HI_FI_2
+obj = CreateDynamicObject(2102, -2348.5200, -229.3213, 677.4378, 0.0000, 0.0000, -90.0000, -1, 12); //LOW_HI_FI_2
+obj = CreateDynamicObject(2102, -2348.3198, -230.1938, 677.4378, 0.0000, 0.0000, -93.2994, -1, 12); //LOW_HI_FI_2
+obj = CreateDynamicObject(2028, -2347.5270, -229.9629, 677.5219, 0.0000, 0.0000, 0.6000, -1, 12); //SWANK_CONSOLE
+obj = CreateDynamicObject(1719, -2347.5224, -230.1493, 677.8751, 0.0000, 0.0000, 88.8000, -1, 12); //LOW_CONSOLE
+SetDynamicObjectMaterial(obj, 1, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(1719, -2347.5173, -230.2494, 678.2849, 0.0000, 0.0000, 89.1996, -1, 12); //LOW_CONSOLE
+SetDynamicObjectMaterial(obj, 1, 10765, "airportgnd_sfse", "white", 0xFF000000);
+obj = CreateDynamicObject(2028, -2347.5249, -229.2129, 677.1218, 0.0000, 0.0000, -0.2998, -1, 12); //SWANK_CONSOLE
+obj = CreateDynamicObject(19893, -2350.5568, -228.8753, 677.7811, 0.0000, 0.0000, 90.0000, -1, 12); //LaptopSAMP1
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(2028, -2347.5312, -229.8233, 677.1218, 0.0000, 0.0000, 0.0000, -1, 12); //SWANK_CONSOLE
+obj = CreateDynamicObject(2028, -2347.5312, -230.3730, 677.1218, 0.0000, 0.0000, -0.2998, -1, 12); //SWANK_CONSOLE
+obj = CreateDynamicObject(1719, -2347.4968, -229.3795, 677.8751, 0.0000, 0.0000, 87.5998, -1, 12); //LOW_CONSOLE
+SetDynamicObjectMaterial(obj, 1, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(2028, -2347.5312, -229.2436, 677.5119, 0.0000, 0.0000, -4.8000, -1, 12); //SWANK_CONSOLE
+SetDynamicObjectMaterial(obj, 1, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(1514, -2356.1599, -233.8403, 678.0238, 0.0000, 0.0000, 180.0000, -1, 12); //DYN_FF_TILL
+obj = CreateDynamicObject(1230, -2339.8061, -228.5193, 679.7368, 0.0000, 0.0000, -90.0998, -1, 12); //cardboardbox
+obj = CreateDynamicObject(1514, -2352.2065, -233.8403, 678.0238, 0.0000, 0.0000, 180.0000, -1, 12); //DYN_FF_TILL
+obj = CreateDynamicObject(2356, -2356.8137, -234.9364, 676.7385, 0.0000, 0.0000, -57.3997, -1, 12); //police_OFF_CHAIR
+obj = CreateDynamicObject(1714, -2340.6623, -229.7720, 676.9381, 0.0000, 0.0000, -14.2999, -1, 12); //kb_swivelchair1
+obj = CreateDynamicObject(2583, -2344.9179, -232.1132, 677.6096, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_SEX_VIDEO_2
+SetDynamicObjectMaterial(obj, 0, 1975, "texttest", "kb_blue", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 2464, "rc_shop_acc", "CJ_RC_4", 0x00000000);
+SetDynamicObjectMaterial(obj, 6, 4004, "civic07_lan", "downtsign9_LA", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0x00000000);
+obj = CreateDynamicObject(19874, -2341.1608, -231.1434, 677.8590, 180.0000, 0.0000, -88.1996, -1, 12); //SoapBar1
+obj = CreateDynamicObject(1749, -2340.3913, -231.9264, 679.3463, 0.0000, 0.0000, -169.6000, -1, 12); //MED_TV_3
+obj = CreateDynamicObject(1220, -2339.7524, -227.6020, 679.7053, 0.0000, 0.0000, -3.1998, -1, 12); //cardboardbox2
+obj = CreateDynamicObject(1230, -2339.8061, -229.3692, 679.7368, 0.0000, 0.0000, -90.2994, -1, 12); //cardboardbox
+obj = CreateDynamicObject(1221, -2339.6279, -230.3414, 679.7844, 0.0000, 0.0000, 0.0000, -1, 12); //cardboardbox4
+obj = CreateDynamicObject(1220, -2341.9069, -231.6293, 679.6754, 0.0000, 0.0000, 0.0000, -1, 12); //cardboardbox2
+obj = CreateDynamicObject(1230, -2341.2014, -231.6369, 679.7368, 0.0000, 0.0000, -90.0998, -1, 12); //cardboardbox
+obj = CreateDynamicObject(19894, -2358.8642, -229.3338, 677.7208, 0.0000, 0.0000, 89.5998, -1, 12); //LaptopSAMP2
+obj = CreateDynamicObject(19808, -2340.7192, -231.0406, 677.8532, 0.0000, 0.0000, -172.4998, -1, 12); //Keyboard1
+obj = CreateDynamicObject(2238, -2349.8884, -227.2958, 678.6209, 0.0000, 0.0000, 0.0000, -1, 12); //CJ_LAVA_LAMP
+obj = CreateDynamicObject(19786, -2349.8710, -227.2458, 679.0155, 0.0000, 0.0000, 0.0000, -1, 12); //LCDTVBig1
+obj = CreateDynamicObject(2225, -2339.6638, -229.7232, 676.9517, 0.0000, 0.0000, -89.8999, -1, 12); //SWANK_HI_FI_2
+obj = CreateDynamicObject(1719, -2341.8110, -231.3332, 677.8750, 0.0000, 0.0000, 168.3999, -1, 12); //LOW_CONSOLE
+obj = CreateDynamicObject(18644, -2341.8393, -231.0110, 677.8532, 89.7994, 0.0000, -78.1996, -1, 12); //Screwdriver1
+obj = CreateDynamicObject(18635, -2341.4780, -231.1849, 677.8178, 91.0998, -69.0998, 90.0998, -1, 12); //GTASAHammer1
+obj = CreateDynamicObject(11743, -2340.8420, -231.5402, 677.7894, 0.0000, 0.0000, -179.3000, -1, 12); //MCoffeeMachine1
+obj = CreateDynamicObject(19835, -2341.1452, -231.6331, 677.9293, 0.0000, 0.0000, 0.0000, -1, 12); //CoffeeCup1
+obj = CreateDynamicObject(14556, -2343.1892, -230.8022, 678.4038, 0.0000, 0.0000, 0.0000, -1, 12); //ZEROWARDROBE
+obj = CreateDynamicObject(1792, -2342.9555, -231.1481, 676.8991, -36.5000, 0.0000, -151.5000, -1, 12); //SWANK_TV_1
+obj = CreateDynamicObject(1778, -2344.1091, -227.5054, 676.9503, 0.0000, 0.0000, -178.2998, -1, 12); //CJ_MOP_PAIL
+obj = CreateDynamicObject(19622, -2343.4331, -227.1454, 677.6466, -9.3999, 0.0000, 0.0000, -1, 12); //Broom1
+obj = CreateDynamicObject(1230, -2344.0541, -231.3721, 677.3562, 0.0000, 0.0000, -0.1993, -1, 12); //cardboardbox
+obj = CreateDynamicObject(19426, -2354.0971, -236.9971, 680.1959, -90.0000, 0.0000, 90.0000, -1, 12); //wall066
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(2256, -2353.6237, -236.9010, 679.4650, 0.0000, 0.0000, 180.0000, -1, 12); //Frame_Clip_3
+SetDynamicObjectMaterialText(obj, 0, "Electric", 60, "Arial", 35, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2256, -2355.1953, -236.9010, 679.4650, 0.0000, 0.0000, 180.0000, -1, 12); //Frame_Clip_3
+SetDynamicObjectMaterialText(obj, 0, "Stop", 60, "Arial", 35, 1, 0xFFFF0000, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2460, -2351.4072, -228.9664, 676.7072, 0.0000, 0.0000, -90.0000, -1, 12); //CJ_HOBBY_C_1
+SetDynamicObjectMaterial(obj, 0, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterial(obj, 1, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+obj = CreateDynamicObject(19981, -2347.9228, -229.7704, 676.0808, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19893, -2350.5568, -229.4152, 677.7811, 0.0000, 0.0000, 90.0000, -1, 12); //LaptopSAMP1
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(19981, -2350.8149, -230.8605, 674.7398, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Laptop", 40, "Arial", 24, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19893, -2350.5568, -230.4851, 677.7811, 0.0000, 0.0000, 90.0000, -1, 12); //LaptopSAMP1
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(2599, -2362.2326, -227.8412, 677.1544, 0.0000, 0.0000, 72.2994, -1, 12); //CJ_SEX_SHOP_SIGN
+obj = CreateDynamicObject(19894, -2351.5422, -228.8746, 677.7951, 0.0000, 0.0000, -90.0000, -1, 12); //LaptopSAMP2
+obj = CreateDynamicObject(19893, -2351.5478, -229.4152, 677.7811, 0.0000, 0.0000, -90.0000, -1, 12); //LaptopSAMP1
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(19894, -2350.5612, -229.9546, 677.7951, 0.0000, 0.0000, 90.0000, -1, 12); //LaptopSAMP2
+obj = CreateDynamicObject(19893, -2351.5478, -229.9851, 677.7811, 0.0000, 0.0000, -90.0000, -1, 12); //LaptopSAMP1
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(19981, -2351.0151, -230.8506, 674.7598, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19893, -2351.5478, -230.5148, 677.7811, 0.0000, 0.0000, -90.0000, -1, 12); //LaptopSAMP1
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(2257, -2359.3085, -226.1759, 678.6749, 0.0000, -90.0000, 0.0000, -1, 12); //Frame_Clip_4
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 3119, "cs_ry_props", "lightgrey", 0x00000000);
+obj = CreateDynamicObject(19981, -2347.9128, -229.7704, 676.0808, 0.0000, 0.0000, 90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(2460, -2350.6464, -230.3764, 676.7072, 0.0000, 0.0000, 90.0000, -1, 12); //CJ_HOBBY_C_1
+SetDynamicObjectMaterial(obj, 0, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterial(obj, 1, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+obj = CreateDynamicObject(19981, -2347.9033, -229.5807, 676.0407, 0.0000, 0.0000, 90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Konsole", 80, "Arial", 40, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2347.9233, -230.0104, 676.0407, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Musik", 80, "Arial", 40, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(1974, -2345.1989, -227.3636, 678.4307, 0.0000, 0.0000, 85.7994, -1, 12); //kb_golfball
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFF0000);
+obj = CreateDynamicObject(2332, -2341.7543, -231.4010, 677.2993, 0.0000, 0.0000, 180.0000, -1, 12); //KEV_SAFE
+obj = CreateDynamicObject(19981, -2359.9379, -226.1504, 676.8706, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2358.7167, -226.1504, 676.8706, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2358.7167, -226.1504, 675.8496, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2359.9279, -226.1504, 675.8496, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2359.8178, -226.1605, 676.8505, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Samsung", 80, "Arial", 45, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2359.7778, -226.1605, 675.8203, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Huawei", 80, "Arial", 50, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2358.4165, -226.1605, 675.8303, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "LG", 80, "Arial", 60, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2358.4765, -226.1605, 676.8609, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "HTC", 80, "Arial", 60, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2359.2390, -229.4944, 675.1596, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Apple", 80, "Arial", 50, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19948, -2359.2324, -229.2727, 675.0722, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(18866, -2360.3039, -226.1667, 679.2556, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone2
+obj = CreateDynamicObject(18868, -2360.1455, -226.1670, 679.2551, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18870, -2359.9711, -226.1584, 679.2553, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone6
+obj = CreateDynamicObject(18872, -2359.7905, -226.1544, 679.2550, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone8
+obj = CreateDynamicObject(18868, -2359.6250, -226.1670, 679.2551, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(11710, -2362.6745, -227.1914, 679.4738, 0.0000, 0.0000, 90.0000, -1, 12); //FireExitSign1
+obj = CreateDynamicObject(2131, -2356.8137, -226.6177, 676.7484, 0.0000, 0.0000, 0.0000, -1, 12); //CJ_KITCH2_FRIDGE
+SetDynamicObjectMaterial(obj, 1, 3119, "cs_ry_props", "lightgrey", 0x00000000);
+obj = CreateDynamicObject(19916, -2353.4665, -226.5265, 676.7222, 0.0000, 0.0000, 0.0000, -1, 12); //CutsceneFridge1
+obj = CreateDynamicObject(19916, -2354.5275, -226.5265, 676.7222, 0.0000, 0.0000, 0.0000, -1, 12); //CutsceneFridge1
+obj = CreateDynamicObject(1208, -2354.3293, -230.6022, 676.7462, 0.0000, 0.0000, -90.0000, -1, 12); //washer
+obj = CreateDynamicObject(19810, -2352.3786, -227.0316, 678.6309, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(1208, -2354.3293, -229.1723, 676.7462, 0.0000, 0.0000, -90.0000, -1, 12); //washer
+obj = CreateDynamicObject(1208, -2354.3293, -228.4624, 676.7462, 0.0000, 0.0000, -90.0000, -1, 12); //washer
+obj = CreateDynamicObject(1208, -2354.9499, -230.6123, 676.7462, 0.0000, 0.0000, 90.0000, -1, 12); //washer
+obj = CreateDynamicObject(1208, -2354.9499, -229.1920, 676.7462, 0.0000, 0.0000, 90.0000, -1, 12); //washer
+obj = CreateDynamicObject(1208, -2354.9499, -228.4723, 676.7462, 0.0000, 0.0000, 90.0000, -1, 12); //washer
+obj = CreateDynamicObject(1208, -2354.3293, -229.8824, 676.7462, 0.0000, 0.0000, -90.0000, -1, 12); //washer
+obj = CreateDynamicObject(19981, -2354.6384, -229.5104, 675.4003, 0.0000, 0.0000, 90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2354.6284, -229.5204, 675.3602, 0.0000, 0.0000, 90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Waschmaschinen", 80, "Arial", 35, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2354.6384, -229.5303, 675.4003, 0.0000, 0.0000, 90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2354.6484, -229.5303, 675.4003, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2354.6584, -229.5404, 675.3602, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Waschmaschinen", 80, "Arial", 35, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(2553, -2345.1481, -230.2655, 676.7340, 0.0000, 0.0000, 0.0000, -1, 12); //CJ_SS_8_L
+SetDynamicObjectMaterial(obj, 0, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2552, -2345.1296, -229.2516, 676.7338, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_SS_8_R
+SetDynamicObjectMaterial(obj, 0, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(19981, -2344.6706, -229.7805, 676.0106, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "DVD / Bluray", 80, "Arial", 45, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19981, -2344.6606, -229.7505, 676.0407, 0.0000, 0.0000, -90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2351.3476, -230.4062, 678.0147, 110.6996, -180.0000, 90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(18865, -2360.3005, -226.1522, 678.9934, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone1
+obj = CreateDynamicObject(19981, -2353.4631, -226.1504, 676.6403, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19810, -2352.2685, -227.0417, 678.5709, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterialText(obj, 0, "299", 90, "Arial", 30, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19810, -2353.3295, -227.0417, 678.5709, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterialText(obj, 0, "599", 90, "Arial", 30, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19810, -2353.4396, -227.0316, 678.6309, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19810, -2354.5305, -227.0316, 678.6309, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19810, -2355.7414, -226.8717, 678.5208, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19810, -2354.4196, -227.0417, 678.5709, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterialText(obj, 0, "599", 90, "Arial", 30, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19810, -2355.6308, -226.8818, 678.4708, 0.0000, 0.0000, 180.0000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterialText(obj, 0, "899", 90, "Arial", 30, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19920, -2349.3200, -227.3491, 678.2318, 1.7999, 0.0000, 59.1999, -1, 12); //CutsceneRemote1
+obj = CreateDynamicObject(2344, -2345.8903, -227.2749, 678.2307, -5.7999, 0.0000, -148.4998, -1, 12); //CJ_REMOTE
+obj = CreateDynamicObject(1788, -2345.0014, -229.3392, 678.3107, 0.0000, 0.0000, -90.0000, -1, 12); //SWANK_VIDEO_1
+obj = CreateDynamicObject(1788, -2345.0012, -230.1192, 678.3107, 0.0000, 0.0000, -91.1996, -1, 12); //SWANK_VIDEO_1
+obj = CreateDynamicObject(1782, -2345.0471, -230.1069, 677.9199, 0.0000, 0.0000, -93.3000, -1, 12); //MED_VIDEO_2
+obj = CreateDynamicObject(1782, -2345.0568, -229.3683, 677.9199, 0.0000, 0.0000, -90.0000, -1, 12); //MED_VIDEO_2
+obj = CreateDynamicObject(1790, -2345.0227, -229.3699, 677.5117, 0.0000, 0.0000, -86.0998, -1, 12); //SWANK_VIDEO_3
+obj = CreateDynamicObject(1790, -2345.0227, -230.0699, 677.5117, 0.0000, 0.0000, -90.0000, -1, 12); //SWANK_VIDEO_3
+obj = CreateDynamicObject(1785, -2345.0434, -229.3842, 677.1185, 0.0000, 0.0000, 89.4000, -1, 12); //LOW_VIDEO_1
+obj = CreateDynamicObject(19792, -2350.7492, -230.5756, 678.0247, 113.6996, 0.0000, -90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "399", 90, "Arial", 65, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19792, -2350.7592, -229.5256, 678.0206, 113.6996, -180.0000, -90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2350.7592, -228.9859, 678.0206, 113.6996, -180.0000, -90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2350.7492, -229.5057, 678.0247, 113.6996, 0.0000, -90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "449", 90, "Arial", 65, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19792, -2350.7492, -228.9759, 678.0247, 113.6996, 0.0000, -90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "499", 90, "Arial", 65, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19792, -2351.3569, -230.4263, 678.0183, 110.6996, 0.0000, 90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "599", 90, "Arial", 65, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19792, -2351.3476, -229.8764, 678.0147, 110.6996, -180.0000, 90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2351.3569, -229.8963, 678.0183, 110.6996, 0.0000, 90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "849", 90, "Arial", 65, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19792, -2351.3476, -229.3065, 678.0147, 110.6996, -180.0000, 90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2351.3569, -229.3265, 678.0183, 110.6996, 0.0000, 90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "999", 90, "Arial", 65, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19792, -2350.7592, -230.5957, 678.0206, 113.6996, -180.0000, -90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2345.3796, -230.3191, 678.2075, 71.8999, 0.0000, -90.3999, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2345.3837, -230.3191, 677.8087, 71.8999, 0.0000, -90.3999, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2345.3923, -230.3390, 678.2011, 71.9197, 180.0000, -90.3999, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "49", 60, "Arial", 40, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19792, -2345.3818, -229.1992, 677.4097, 71.8999, 0.0000, -90.3999, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19792, -2345.3962, -230.3388, 677.8020, 71.9197, 180.0000, -90.3999, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "89", 60, "Arial", 40, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19792, -2345.3923, -229.2189, 677.4027, 71.9197, 180.0000, -90.3999, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "89", 60, "Arial", 40, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(2413, -2358.9479, -229.6109, 676.7003, 0.0000, 0.0000, 90.0000, -1, 12); //Shop_counter_3a
+SetDynamicObjectMaterial(obj, 2, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterial(obj, 3, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+obj = CreateDynamicObject(2413, -2359.5886, -228.9709, 676.7003, 0.0000, 0.0000, -90.0000, -1, 12); //Shop_counter_3a
+SetDynamicObjectMaterial(obj, 2, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+SetDynamicObjectMaterial(obj, 3, 3881, "apsecurity_sfxrf", "CJ_WOOD1", 0x00000000);
+obj = CreateDynamicObject(19981, -2359.2690, -229.0545, 675.1596, 0.0000, 0.0000, 90.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Apple", 80, "Arial", 50, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(2599, -2362.4191, -227.0289, 677.1544, 0.0000, 0.0000, 92.0998, -1, 12); //CJ_SEX_SHOP_SIGN
+SetDynamicObjectMaterial(obj, 0, 1248, "bonus", "gta3l", 0x00000000);
+obj = CreateDynamicObject(1208, -2354.9499, -229.9022, 676.7462, 0.0000, 0.0000, 90.0000, -1, 12); //washer
+obj = CreateDynamicObject(19792, -2359.0634, -229.9057, 677.9589, 110.9997, -180.0000, -90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0x00000000);
+obj = CreateDynamicObject(19981, -2353.4624, -226.1605, 676.6104, 0.0000, 0.0000, 0.0000, -1, 12); //SAMPRoadSign34
+SetDynamicObjectMaterialText(obj, 0, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, "Kühlschränke", 80, "Arial", 45, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(18869, -2360.1516, -226.1540, 678.9895, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone5
+obj = CreateDynamicObject(18871, -2359.9777, -226.1515, 678.9910, 91.5998, 0.0000, 0.0000, -1, 12); //MobilePhone7
+obj = CreateDynamicObject(18868, -2359.7951, -226.1670, 678.9851, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18870, -2359.6308, -226.1584, 678.9849, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone6
+obj = CreateDynamicObject(18874, -2359.0720, -226.1609, 679.2686, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18868, -2358.9042, -226.1670, 679.2650, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18872, -2358.7197, -226.1544, 679.2650, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone8
+obj = CreateDynamicObject(18874, -2358.5715, -226.1609, 679.2686, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18870, -2358.4096, -226.1584, 679.2653, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone6
+obj = CreateDynamicObject(18874, -2358.7216, -226.1609, 679.0286, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18868, -2358.5739, -226.1670, 679.0250, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18872, -2358.8999, -226.1544, 679.0244, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone8
+obj = CreateDynamicObject(18871, -2358.4067, -226.1522, 679.0211, 91.5998, 0.0000, 0.0000, -1, 12); //MobilePhone7
+obj = CreateDynamicObject(18870, -2359.0700, -226.1584, 679.0250, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone6
+obj = CreateDynamicObject(18868, -2360.2856, -226.1670, 678.2238, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18874, -2360.1430, -226.1609, 678.2180, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18874, -2359.9829, -226.1609, 678.2180, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18870, -2359.8110, -226.1584, 678.2152, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone6
+obj = CreateDynamicObject(18868, -2359.6550, -226.1670, 678.2150, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18865, -2360.2805, -226.1522, 677.9630, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone1
+obj = CreateDynamicObject(18871, -2360.1479, -226.1524, 677.9603, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone7
+obj = CreateDynamicObject(18868, -2359.9753, -226.1670, 677.9636, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18874, -2359.8127, -226.1609, 677.9577, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18870, -2359.6608, -226.1584, 677.9547, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone6
+obj = CreateDynamicObject(18868, -2359.0446, -226.1670, 678.2150, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18868, -2358.8945, -226.1670, 678.2150, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18874, -2358.7324, -226.1609, 678.2180, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18872, -2358.5695, -226.1544, 678.2144, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone8
+obj = CreateDynamicObject(18871, -2358.4067, -226.1495, 678.2116, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone7
+obj = CreateDynamicObject(18870, -2359.0502, -226.1584, 677.9547, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone6
+obj = CreateDynamicObject(18871, -2358.8867, -226.1524, 677.9603, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone7
+obj = CreateDynamicObject(18868, -2358.7243, -226.1670, 677.9547, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18874, -2358.5615, -226.1609, 677.9577, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18870, -2358.4096, -226.1584, 677.9547, 90.0000, 0.0000, 0.0000, -1, 12); //MobilePhone6
+obj = CreateDynamicObject(1954, -2348.2568, -230.2174, 677.1309, 0.0000, 0.0000, -88.8000, -1, 12); //turn_table_R
+obj = CreateDynamicObject(1957, -2348.2651, -229.3571, 677.1259, 0.0000, 0.0000, -89.9000, -1, 12); //turn_tableL
+obj = CreateDynamicObject(18868, -2359.7053, -228.7077, 677.7232, 0.0000, 0.0000, -89.9999, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(19040, -2358.8481, -228.9835, 677.7434, -18.2999, 0.0000, -50.7000, -1, 12); //WatchType2
+obj = CreateDynamicObject(18868, -2359.7053, -229.0276, 677.7232, 0.0000, 0.0000, -89.9999, -1, 12); //MobilePhone4
+obj = CreateDynamicObject(18874, -2359.7048, -229.3919, 677.7260, 0.0000, 0.0000, -89.1996, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(18874, -2359.6965, -229.7619, 677.7260, 0.0000, 0.0000, -89.1996, -1, 12); //MobilePhone10
+obj = CreateDynamicObject(2190, -2340.4475, -231.6746, 677.7987, 0.0000, 0.0000, -178.4996, -1, 12); //PC_1
+obj = CreateDynamicObject(19893, -2358.8635, -229.8007, 677.7255, 0.0000, 0.0000, 90.0000, -1, 12); //LaptopSAMP1
+SetDynamicObjectMaterial(obj, 1, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(19792, -2359.0539, -229.8954, 677.9699, 113.6996, 0.0000, -90.0000, -1, 12); //SAMPKeycard1
+SetDynamicObjectMaterialText(obj, 0, "1299", 90, "Arial", 65, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19046, -2358.8320, -228.7713, 677.7481, -19.2000, 0.0000, -73.2996, -1, 12); //WatchType8
+obj = CreateDynamicObject(19421, -2361.4582, -226.9873, 677.8626, 85.1997, 34.1999, 0.0000, -1, 12); //headphones01
+obj = CreateDynamicObject(19421, -2361.2434, -226.8105, 678.2316, 93.1997, 0.0000, -69.7996, -1, 12); //headphones01
+obj = CreateDynamicObject(19421, -2361.3940, -226.8860, 677.5029, 85.1997, 116.0998, 0.0000, -1, 12); //headphones01
+obj = CreateDynamicObject(19424, -2361.4399, -226.9615, 678.2194, 97.4999, 0.0000, 0.0000, -1, 12); //headphones04
+obj = CreateDynamicObject(19422, -2361.3969, -227.0693, 677.5023, 93.5998, 50.7000, -7.0998, -1, 12); //headphones02
+obj = CreateDynamicObject(19423, -2361.4145, -227.0480, 677.8640, 88.5998, 18.6000, 0.0000, -1, 12); //headphones03
+obj = CreateDynamicObject(19423, -2361.5625, -226.9163, 677.5017, 82.7996, 0.0000, -71.2996, -1, 12); //headphones03
+obj = CreateDynamicObject(19424, -2361.6967, -226.9956, 677.5103, 72.9000, 0.0000, -62.9999, -1, 12); //headphones04
+obj = CreateDynamicObject(19424, -2361.3898, -226.8672, 677.8662, 83.8000, 0.0000, 111.3999, -1, 12); //headphones04
+obj = CreateDynamicObject(19422, -2361.3554, -226.8515, 678.2219, 92.4999, 0.0000, 111.6996, -1, 12); //headphones02
+obj = CreateDynamicObject(19421, -2361.2687, -226.8392, 677.8599, 85.1997, 116.0998, 0.0000, -1, 12); //headphones01
+obj = CreateDynamicObject(19810, -2361.4750, -226.8986, 678.5407, 0.7997, 0.0000, -159.3000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19938, -2353.6584, -233.8506, 677.8847, 0.0000, 90.0000, 178.7998, -1, 12); //MKShelf1
+obj = CreateDynamicObject(19810, -2361.4531, -226.9017, 678.4807, 0.7997, 0.0000, -159.3000, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterialText(obj, 0, "Kopfhörer", 90, "Arial", 28, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19938, -2353.2871, -233.8585, 677.8847, 0.0000, 90.0000, 178.7998, -1, 12); //MKShelf1
+obj = CreateDynamicObject(19939, -2353.4746, -234.0841, 677.6931, -89.3999, 0.0000, 0.0000, -1, 12); //MKShelf2
+obj = CreateDynamicObject(2491, -2356.5708, -229.9104, 676.7352, 0.0000, 0.0000, -1.4996, -1, 12); //MODEL_STAND
+obj = CreateDynamicObject(2491, -2356.5610, -228.3002, 676.7352, 0.0000, 0.0000, -11.5999, -1, 12); //MODEL_STAND
+obj = CreateDynamicObject(2467, -2351.5388, -236.8437, 676.7476, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_HOBBY_C_5
+obj = CreateDynamicObject(2496, -2357.0856, -228.4367, 677.6845, 0.0000, 0.0000, -100.9999, -1, 12); //VICE_TOY2_2
+obj = CreateDynamicObject(2494, -2356.8276, -229.8894, 677.6904, 0.0000, 0.0000, -180.0000, -1, 12); //MANHUNT_TOY2_2
+obj = CreateDynamicObject(2492, -2356.5839, -230.1524, 677.6928, 0.0000, 0.0000, 90.0000, -1, 12); //MANHUNT_TOY2_1
+obj = CreateDynamicObject(2496, -2356.8178, -230.3811, 677.6879, 0.0000, 0.0000, 0.0000, -1, 12); //VICE_TOY2_2
+obj = CreateDynamicObject(2494, -2356.8957, -228.7420, 677.6904, 0.0000, 0.0000, -13.1000, -1, 12); //MANHUNT_TOY2_2
+obj = CreateDynamicObject(2493, -2357.0903, -230.1278, 677.6845, 0.0000, 0.0000, -89.3002, -1, 12); //VICE_TOY2_1
+obj = CreateDynamicObject(2492, -2356.6076, -228.5484, 677.6928, 0.0000, 0.0000, 78.4000, -1, 12); //MANHUNT_TOY2_1
+obj = CreateDynamicObject(2496, -2356.8098, -228.2512, 677.6845, 0.0000, 0.0000, 168.0000, -1, 12); //VICE_TOY2_2
+obj = CreateDynamicObject(2855, -2350.7719, -234.0335, 677.7294, 0.0000, 0.0000, 0.0000, -1, 12); //gb_bedmags05
+obj = CreateDynamicObject(2463, -2351.5109, -237.0845, 676.2393, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_HOBBY_SHELF_2
+obj = CreateDynamicObject(19893, -2357.1689, -233.8706, 677.7941, 0.0000, 0.0000, 28.2999, -1, 12); //LaptopSAMP1
+obj = CreateDynamicObject(2467, -2356.0830, -236.8437, 676.7476, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_HOBBY_C_5
+obj = CreateDynamicObject(2586, -2354.0415, -236.5384, 677.2639, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_SEX_COUNTER2
+SetDynamicObjectMaterialText(obj, 2, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 8, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 9, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 10, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 11, "Example Text", 90, "Arial", 24, 1, 0xFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2463, -2356.0854, -237.0845, 676.2393, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_HOBBY_SHELF_2
+obj = CreateDynamicObject(2578, -2353.4333, -236.9019, 678.2927, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_SEX_SHELF_1
+SetDynamicObjectMaterial(obj, 2, 14581, "ab_mafiasuitea", "ab_pic_bridge", 0x00000000);
+SetDynamicObjectMaterial(obj, 4, 10249, "ottos2_sfw", "ottos_pics_sfe", 0x00000000);
+SetDynamicObjectMaterial(obj, 5, 14489, "carlspics", "AH_picture2", 0x00000000);
+SetDynamicObjectMaterial(obj, 6, 14489, "carlspics", "AH_picture3", 0x00000000);
+obj = CreateDynamicObject(19894, -2352.1447, -236.8616, 677.7479, 0.0000, 0.0000, 0.0000, -1, 12); //LaptopSAMP2
+obj = CreateDynamicObject(2479, -2351.8315, -236.6755, 677.1635, 0.0000, 0.0000, 0.0000, -1, 12); //MODEL_BOX8
+SetDynamicObjectMaterial(obj, 0, 5132, "imstuff_las2", "cardbrdirty128", 0x00000000);
+obj = CreateDynamicObject(2578, -2354.6645, -236.9019, 678.2927, 0.0000, 0.0000, -180.0000, -1, 12); //CJ_SEX_SHELF_1
+SetDynamicObjectMaterial(obj, 2, 1248, "bonus", "gta3l", 0x00000000);
+SetDynamicObjectMaterial(obj, 5, 1346, "roadside", "CJ_PHONESEXADD", 0x00000000);
+obj = CreateDynamicObject(2479, -2351.8916, -236.9454, 677.5139, 0.0000, 0.0000, 0.0000, -1, 12); //MODEL_BOX8
+SetDynamicObjectMaterial(obj, 0, 5132, "imstuff_las2", "cardbrdirty128", 0x00000000);
+obj = CreateDynamicObject(2028, -2354.7839, -236.5901, 677.6240, 0.0000, 0.0000, 177.5997, -1, 12); //SWANK_CONSOLE
+obj = CreateDynamicObject(2478, -2353.6801, -236.4640, 676.9069, 0.0000, 0.0000, 0.0000, -1, 12); //MODEL_BOX6
+SetDynamicObjectMaterial(obj, 0, 5132, "imstuff_las2", "cardbrdirty128", 0x00000000);
+obj = CreateDynamicObject(367, -2354.2451, -236.8574, 677.5770, 0.0000, 0.0000, 47.4999, -1, 12); //camera
+obj = CreateDynamicObject(367, -2353.8852, -236.6531, 677.5770, 0.0000, 0.0000, 169.7001, -1, 12); //camera
+obj = CreateDynamicObject(19808, -2353.2744, -236.6815, 677.7794, 0.0000, 0.0000, -168.3999, -1, 12); //Keyboard1
+obj = CreateDynamicObject(19808, -2353.2189, -236.3719, 677.7794, 0.0000, 0.0000, -177.3002, -1, 12); //Keyboard1
+obj = CreateDynamicObject(19623, -2351.3769, -236.8791, 678.1544, 0.0000, 0.0000, 179.6000, -1, 12); //Camera1
+obj = CreateDynamicObject(19894, -2352.1247, -236.8600, 677.7880, 0.0000, 0.0000, 4.4998, -1, 12); //LaptopSAMP2
+obj = CreateDynamicObject(19894, -2352.1647, -236.8600, 677.8179, 0.0000, 0.0000, -2.0000, -1, 12); //LaptopSAMP2
+obj = CreateDynamicObject(18641, -2351.8918, -236.9317, 677.8369, 0.0000, 0.0000, 0.0000, -1, 12); //Flashlight1
+obj = CreateDynamicObject(18641, -2351.8017, -236.9317, 677.8369, 0.0000, 0.0000, 0.0000, -1, 12); //Flashlight1
+obj = CreateDynamicObject(18641, -2351.8051, -236.8318, 677.7670, 0.0000, 93.2998, 0.0000, -1, 12); //Flashlight1
+obj = CreateDynamicObject(2505, -2357.8115, -235.3547, 678.2509, 0.0000, 0.0000, -128.1999, -1, 12); //MODEL_toy_1
+obj = CreateDynamicObject(19623, -2351.6496, -236.8589, 678.1544, 0.0000, 0.0000, 156.3000, -1, 12); //Camera1
+obj = CreateDynamicObject(367, -2352.1081, -236.9989, 678.1165, 0.0000, 1.7999, 22.3999, -1, 12); //camera
+obj = CreateDynamicObject(367, -2352.4174, -236.9855, 678.1251, 0.0000, 1.7999, 22.3999, -1, 12); //camera
+obj = CreateDynamicObject(19610, -2351.3876, -236.8981, 678.4539, 0.0000, 0.0000, -52.2000, -1, 12); //Microphone1
+obj = CreateDynamicObject(19610, -2351.5556, -236.8769, 678.4539, 0.0000, 0.0000, -52.2000, -1, 12); //Microphone1
+obj = CreateDynamicObject(19610, -2351.4956, -236.8854, 678.4938, 0.0000, 0.0000, -98.1999, -1, 12); //Microphone1
+obj = CreateDynamicObject(19942, -2351.1574, -236.8842, 677.8370, 0.0000, 0.0000, -169.8999, -1, 12); //PoliceRadio1
+obj = CreateDynamicObject(19942, -2351.2656, -236.9008, 677.8370, 0.0000, 0.0000, -175.1999, -1, 12); //PoliceRadio1
+obj = CreateDynamicObject(19942, -2351.3872, -236.8910, 677.8370, 0.0000, 0.0000, 162.0001, -1, 12); //PoliceRadio1
+obj = CreateDynamicObject(19942, -2351.3205, -236.8177, 677.8370, 0.0000, 0.0000, -178.4998, -1, 12); //PoliceRadio1
+obj = CreateDynamicObject(19942, -2351.1772, -236.8020, 677.7689, -89.3000, 0.0000, -104.7998, -1, 12); //PoliceRadio1
+obj = CreateDynamicObject(19894, -2353.6162, -236.5919, 677.5581, 0.0000, 0.0000, 0.0000, -1, 12); //LaptopSAMP2
+obj = CreateDynamicObject(19894, -2353.6162, -236.5919, 677.5980, 0.0000, 0.0000, 19.1000, -1, 12); //LaptopSAMP2
+obj = CreateDynamicObject(1719, -2354.7878, -236.4980, 677.0043, 0.0000, 0.0000, -0.4999, -1, 12); //LOW_CONSOLE
+obj = CreateDynamicObject(2468, -2356.1611, -237.2283, 677.3795, 0.0000, 0.0000, 179.3999, -1, 12); //MODEL_BOX4
+obj = CreateDynamicObject(2505, -2357.4365, -235.1459, 678.2509, 0.0000, 0.0000, 141.8000, -1, 12); //MODEL_toy_1
+obj = CreateDynamicObject(2505, -2357.2727, -235.5787, 678.2509, 0.0000, 0.0000, 48.2999, -1, 12); //MODEL_toy_1
+obj = CreateDynamicObject(2505, -2357.6823, -235.7510, 678.2509, 0.0000, 0.0000, -39.4999, -1, 12); //MODEL_toy_1
+obj = CreateDynamicObject(2464, -2356.3305, -236.6878, 677.1901, 0.0000, 0.0000, 0.0000, -1, 12); //MODEL_BOX1
+obj = CreateDynamicObject(2466, -2356.4780, -236.9461, 678.5601, 0.0000, 0.0000, -167.3999, -1, 12); //MODEL_BOX3
+obj = CreateDynamicObject(18641, -2353.5732, -233.9734, 678.0230, 0.0000, 90.0000, 0.0000, -1, 12); //Flashlight1
+obj = CreateDynamicObject(2479, -2356.3420, -236.9555, 678.2249, 0.0000, 0.0000, 0.0000, -1, 12); //MODEL_BOX8
+SetDynamicObjectMaterial(obj, 0, 5132, "imstuff_las2", "cardbrdirty128", 0x00000000);
+obj = CreateDynamicObject(2513, -2356.6157, -236.8377, 677.8442, 0.0000, 0.0000, -179.7998, -1, 12); //MODEL_TRAINS3
+obj = CreateDynamicObject(1893, -2359.1999, -229.5330, 680.9262, 0.0000, 0.0000, 90.0000, -1, 12); //shoplight1
+obj = CreateDynamicObject(18641, -2353.3730, -233.9734, 678.0230, 0.0000, 90.0000, 180.0000, -1, 12); //Flashlight1
+obj = CreateDynamicObject(18641, -2353.5732, -233.8535, 677.9329, 0.0000, 90.0000, 0.0000, -1, 12); //Flashlight1
+obj = CreateDynamicObject(19810, -2353.6098, -234.0473, 678.0606, 0.0000, 0.0000, 1.2999, -1, 12); //StaffOnlySign1
+SetDynamicObjectMaterialText(obj, 0, "Uhren", 90, "Arial", 20, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(18641, -2353.3730, -233.8535, 677.9329, 0.0000, 90.0000, 180.0000, -1, 12); //Flashlight1
+obj = CreateDynamicObject(19039, -2353.3696, -233.8394, 677.9215, -10.8999, -88.0000, -23.1998, -1, 12); //WatchType1
+obj = CreateDynamicObject(19039, -2353.4707, -233.8175, 677.9290, -10.8999, -88.0000, -23.1998, -1, 12); //WatchType1
+obj = CreateDynamicObject(19039, -2353.4204, -233.8285, 677.9252, -10.8999, -88.0000, -23.1998, -1, 12); //WatchType1
+obj = CreateDynamicObject(19039, -2353.5749, -233.8047, 677.9384, -10.8999, -88.0000, -23.1998, -1, 12); //WatchType1
+obj = CreateDynamicObject(19044, -2353.3706, -233.9673, 678.0189, 41.2999, 81.0000, 12.8000, -1, 12); //WatchType6
+obj = CreateDynamicObject(19044, -2353.4360, -233.9600, 678.0228, 35.2000, 79.2998, 28.3999, -1, 12); //WatchType6
+obj = CreateDynamicObject(19044, -2353.4943, -233.9752, 678.0194, 35.2000, 79.2998, 28.3999, -1, 12); //WatchType6
+obj = CreateDynamicObject(19044, -2353.5708, -233.9739, 678.0178, 35.2000, 79.2998, 28.3999, -1, 12); //WatchType6
+obj = CreateDynamicObject(2816, -2350.7014, -234.8497, 677.7916, 0.0000, 0.0000, -55.4999, -1, 12); //gb_bedmags01
+obj = CreateDynamicObject(2894, -2357.4851, -234.5245, 677.7946, 0.0000, 0.0000, 72.5000, -1, 12); //kmb_rhymesbook
+obj = CreateDynamicObject(1893, -2354.9267, -229.5330, 680.9262, 0.0000, 0.0000, 90.0000, -1, 12); //shoplight1
+obj = CreateDynamicObject(1893, -2348.4626, -229.5330, 680.9262, 0.0000, 0.0000, 90.0000, -1, 12); //shoplight1
+obj = CreateDynamicObject(1893, -2348.4626, -235.1329, 680.9262, 0.0000, 0.0000, 90.0000, -1, 12); //shoplight1
+obj = CreateDynamicObject(1893, -2354.9267, -235.1327, 680.9262, 0.0000, 0.0000, 90.0000, -1, 12); //shoplight1
+obj = CreateDynamicObject(1893, -2359.1999, -235.1329, 680.9262, 0.0000, 0.0000, 90.0000, -1, 12); //shoplight1
+obj = CreateDynamicObject(1893, -2341.7741, -228.7357, 680.5457, 0.0000, 0.0000, 179.4998, -1, 12); //shoplight1
+obj = CreateDynamicObject(19827, -2344.3627, -228.9949, 678.1696, 0.0000, 0.0000, 89.4000, -1, 12); //LightSwitch2
+obj = CreateDynamicObject(2362, -2355.5725, -234.0924, 677.7954, 0.0000, 0.0000, -179.8997, -1, 12); //CJ_SWEETIE_TRAY_1
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "black", 0x00000000);
+obj = CreateDynamicObject(14531, -2351.0288, -231.5919, 680.3618, 0.0000, 0.0000, 0.0000, -1, 12); //int_zerosrc01
+SetDynamicObjectMaterial(obj, 0, 18065, "ab_sfammumain", "shelf_glas", 0x00000000);
+SetDynamicObjectMaterial(obj, 1, 12946, "ce_bankalley1", "sw_door09", 0x00000000);
+SetDynamicObjectMaterial(obj, 7, 3178, "counthousmisc", "shackwood01", 0x00000000);
+SetDynamicObjectMaterial(obj, 8, 18081, "cj_barb", "cj_white_wall", 0x00000000);
+SetDynamicObjectMaterialText(obj, 9, ".", 140, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);

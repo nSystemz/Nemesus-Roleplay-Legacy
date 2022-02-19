@@ -1,0 +1,982 @@
+obj = CreateDynamicObject(18765, 1276.7911, -1709.4414, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7761, -1709.4414, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7761, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.8060, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.8060, -1689.4819, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7956, -1689.4819, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1284.3487, -1714.7452, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1292.2502, -1698.3154, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1271.5095, -1710.5952, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(19462, 1282.1567, -1710.8425, 2853.8500, 0.0000, 0.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1567, -1709.4110, 2855.5117, 0.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1567, -1712.5141, 2855.5217, 0.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1283.8277, -1709.4112, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.4857, -1709.4112, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1277.4250, -1715.5732, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1286.8875, -1715.5732, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1551, -1704.6822, 2850.7783, 90.0000, 0.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19279, 1285.2719, -1713.8077, 2855.8220, 0.0000, 0.0000, 0.0000,-1,14); //LCSmallLight1
+obj = CreateDynamicObject(19279, 1278.7009, -1713.8077, 2855.8220, 0.0000, 0.0000, 0.0000,-1,14); //LCSmallLight1
+obj = CreateDynamicObject(19280, 1283.5914, -1704.6959, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1280.6795, -1704.6959, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8525, -1705.8369, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(18981, 1271.5095, -1676.8520, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(19280, 1280.4908, -1705.8369, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1282.1511, -1704.6959, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1280.4908, -1707.0377, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8614, -1707.0377, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8614, -1708.1585, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1280.4792, -1708.1585, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1280.4792, -1709.2397, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8503, -1709.2397, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8503, -1710.2702, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1280.4598, -1710.2702, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(18765, 1276.7912, -1709.4533, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7834, -1709.4533, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.7912, -1699.5108, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7446, -1699.5108, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1275.8902, -1694.1534, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1272.2154, -1703.2982, 2852.6909, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18090, 1273.7916, -1703.0803, 2857.7307, 0.0000, 0.0000, 180.0000,-1,14); //Bar_BAR1
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterial(obj, 1, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF515459);
+SetDynamicObjectMaterial(obj, 3, 14786, "ab_sfgymbeams", "knot_wood128", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterialText(obj, 6, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(14820, 1282.1242, -1695.8669, 2856.4035, 0.0000, 0.0000, 180.0000,-1,14); //dj_stuff
+obj = CreateDynamicObject(3503, 1283.4327, -1696.4023, 2855.4089, 0.0000, 0.0000, 25.8999,-1,14); //vgsNscffple
+obj = CreateDynamicObject(19437, 1274.7719, -1698.4743, 2854.5322, 0.0000, 0.0000, 90.0000,-1,14); //wall077
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF515459);
+obj = CreateDynamicObject(18765, 1272.4458, -1703.2982, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18765, 1272.2254, -1703.0980, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18765, 1272.2254, -1703.4782, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(19462, 1282.1567, -1691.5698, 2855.5109, 0.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.1595, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.3175, -1693.7896, 2850.7082, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.4698, 2851.6879, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.2998, 2851.6879, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1283.8181, -1694.8006, 2851.6892, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.4853, -1694.7806, 2850.7783, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.9793, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.7993, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.6291, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.1373, -1693.7896, 2850.6081, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.9670, -1693.7896, 2850.5080, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.7868, -1693.7896, 2850.4079, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.6168, -1693.7896, 2850.2878, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.4565, -1693.7896, 2850.1777, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.2863, -1693.7896, 2850.0676, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(1840, 1280.7575, -1696.0382, 2856.3427, 0.0000, 0.0000, 270.0000,-1,14); //speaker_2
+obj = CreateDynamicObject(19893, 1283.4355, -1696.3757, 2856.7551, 0.0000, 0.0000, -154.3999,-1,14); //LaptopSAMP1
+obj = CreateDynamicObject(19563, 1283.7614, -1696.4350, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.5273, -1696.5494, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6955, -1696.2995, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6297, -1696.1645, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6076, -1696.1192, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.4608, -1696.4127, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.3947, -1696.2772, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.3729, -1696.2320, 2856.7114, 90.0000, -63.9000, -0.8999,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1299.4707, -1711.2458, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1286.7446, -1689.5228, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1283.6589, -1681.2668, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1292.8387, -1690.0190, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1301.0986, -1705.9798, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1301.0986, -1700.7890, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(11685, 1291.2414, -1702.7700, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2414, -1709.3631, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2015, -1704.0903, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2414, -1708.0423, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(1827, 1289.2591, -1708.7159, 2854.6706, 0.0000, 0.0000, 40.7999,-1,14); //man_sdr_tables
+obj = CreateDynamicObject(1827, 1289.2591, -1703.4150, 2854.6706, 0.0000, 0.0000, -40.2999,-1,14); //man_sdr_tables
+obj = CreateDynamicObject(3503, 1282.1396, -1707.6058, 2856.8710, 0.0000, 0.0000, 0.0000,-1,14); //vgsNscffple
+obj = CreateDynamicObject(2725, 1280.6118, -1702.7263, 2855.1870, 0.0000, 0.0000, 25.8999,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2725, 1284.6129, -1703.1267, 2855.1870, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2776, 1281.4317, -1702.5339, 2855.2604, 0.0000, 0.0000, -22.2999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1279.6971, -1702.7557, 2855.2604, 0.0000, 0.0000, 26.5998,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1285.2746, -1703.5217, 2855.2604, 0.0000, 0.0000, -46.7999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1284.0395, -1702.6201, 2855.2604, 0.0000, 0.0000, -23.2999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2725, 1282.6773, -1700.4322, 2855.1870, 0.0000, 0.0000, 25.8999,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2776, 1283.4488, -1700.1258, 2855.2604, 0.0000, 0.0000, -8.6000,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1281.8664, -1700.1153, 2855.2604, 0.0000, 0.0000, 6.5998,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2726, 1280.6292, -1702.5423, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(14835, 1278.1307, -1691.2149, 2856.1604, 0.0000, 0.0000, 90.0000,-1,14); //LM_stripColumns
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(2726, 1284.7397, -1702.9226, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(2726, 1282.6893, -1700.1928, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(3632, 1278.7934, -1709.1330, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(2699, 1278.8011, -1709.1284, 2855.2163, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(2699, 1278.8011, -1705.9278, 2855.2163, 0.0000, 0.0000, -22.4999,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(3632, 1278.7934, -1705.9228, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(18765, 1266.8266, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1266.7906, -1707.0437, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1266.8266, -1699.4676, 2860.6459, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1258.6212, -1704.8181, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(1535, 1267.3144, -1701.9865, 2855.1770, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(1535, 1269.8254, -1704.3266, 2855.1770, 0.0000, 0.0000, 180.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(18980, 1267.0711, -1694.3797, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1275.8724, -1694.3797, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1284.2712, -1714.5617, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.6805, -1710.5988, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1292.0533, -1698.3272, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1700.6180, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1700.9483, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1705.8110, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1706.1413, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1299.4736, -1711.0611, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1300.9344, -1705.9804, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1300.9344, -1700.7906, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1299.3233, -1711.2403, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1295.2530, -1690.2292, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1275.8813, -1693.9398, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1276.0815, -1694.1500, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1258.5426, -1704.5407, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.3231, -1710.6003, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.5133, -1710.4300, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(11685, 1291.2414, -1692.1782, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(18765, 1276.7911, -1709.4414, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7761, -1709.4414, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7761, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.8060, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.8060, -1689.4819, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7956, -1689.4819, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1296.7681, -1709.4414, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1292.2502, -1698.3154, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1271.5095, -1710.5952, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(19462, 1282.1567, -1710.8425, 2853.8500, 0.0000, 0.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1567, -1709.4110, 2855.5117, 0.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1567, -1712.5141, 2855.5217, 0.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1283.8277, -1709.4112, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.4857, -1709.4112, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1277.4250, -1715.5732, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1286.8874, -1715.5732, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1551, -1704.6822, 2850.7783, 90.0000, 0.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19279, 1285.2718, -1713.8077, 2855.8220, 0.0000, 0.0000, 0.0000,-1,14); //LCSmallLight1
+obj = CreateDynamicObject(19279, 1278.7009, -1713.8077, 2855.8220, 0.0000, 0.0000, 0.0000,-1,14); //LCSmallLight1
+obj = CreateDynamicObject(19280, 1283.5914, -1704.6959, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1280.6794, -1704.6959, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1285.3105, -1710.7993, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(18981, 1271.5095, -1676.8520, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(19280, 1278.7180, -1710.7993, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(2282, 1272.4829, -1707.0676, 2856.7905, 0.0000, 12.7999, 90.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(19280, 1280.4908, -1707.0377, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8614, -1707.0377, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(2282, 1272.4829, -1699.3033, 2857.0510, 0.0000, 0.5999, 90.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1272.4829, -1698.7717, 2856.2473, 0.0000, -6.6999, 90.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(19280, 1280.4792, -1709.2397, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8503, -1709.2397, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(2282, 1272.4829, -1708.2170, 2855.9162, 0.0000, -3.0999, 90.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1272.4829, -1709.9188, 2856.7568, 0.0000, 2.8998, 90.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(18765, 1276.7912, -1709.4532, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7834, -1709.4532, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.7912, -1699.5107, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7446, -1699.5107, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1275.8902, -1694.1534, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1272.2154, -1703.2982, 2852.6909, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18090, 1273.7916, -1703.0803, 2857.7307, 0.0000, 0.0000, 180.0000,-1,14); //Bar_BAR1
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterial(obj, 1, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF515459);
+SetDynamicObjectMaterial(obj, 3, 14786, "ab_sfgymbeams", "knot_wood128", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterialText(obj, 6, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(14820, 1282.1241, -1695.8669, 2856.4035, 0.0000, 0.0000, 180.0000,-1,14); //dj_stuff
+obj = CreateDynamicObject(3503, 1283.4327, -1696.4023, 2855.4089, 0.0000, 0.0000, 25.8999,-1,14); //vgsNscffple
+obj = CreateDynamicObject(19437, 1274.7718, -1698.4742, 2854.5322, 0.0000, 0.0000, 90.0000,-1,14); //wall077
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF515459);
+obj = CreateDynamicObject(18765, 1272.4458, -1703.2982, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18765, 1272.2253, -1703.0980, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18765, 1272.2253, -1703.4781, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(19462, 1282.1567, -1691.5698, 2855.5109, 0.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.1595, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.3175, -1693.7895, 2850.7082, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.4698, 2851.6879, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.2998, 2851.6879, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1283.8181, -1694.8006, 2851.6892, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.4853, -1694.7806, 2850.7783, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.9792, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.7993, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.6291, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.1373, -1693.7895, 2850.6081, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.9670, -1693.7895, 2850.5080, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.7867, -1693.7895, 2850.4079, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.6168, -1693.7895, 2850.2878, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.4565, -1693.7895, 2850.1777, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.2862, -1693.7895, 2850.0676, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(1509, 1272.1361, -1704.2348, 2856.5295, 0.0000, 0.0000, 0.0000,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(19893, 1283.4355, -1696.3757, 2856.7551, 0.0000, 0.0000, -154.3999,-1,14); //LaptopSAMP1
+obj = CreateDynamicObject(19563, 1283.7613, -1696.4350, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.5273, -1696.5494, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6955, -1696.2995, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6297, -1696.1645, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6075, -1696.1191, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.4608, -1696.4127, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.3946, -1696.2772, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.3729, -1696.2320, 2856.7114, 90.0000, -63.9000, -0.8999,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1299.4707, -1711.2458, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1286.7446, -1689.5228, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1283.6589, -1681.2668, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1292.8387, -1690.0190, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1301.0986, -1705.9798, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1301.0986, -1700.7889, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(11685, 1291.2414, -1702.7700, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2414, -1709.3631, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2015, -1704.0903, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2414, -1708.0423, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(1827, 1289.2591, -1708.7159, 2854.6706, 0.0000, 0.0000, 40.7999,-1,14); //man_sdr_tables
+obj = CreateDynamicObject(1827, 1289.2591, -1703.4150, 2854.6706, 0.0000, 0.0000, -40.2999,-1,14); //man_sdr_tables
+obj = CreateDynamicObject(3503, 1282.1396, -1707.6058, 2856.8710, 0.0000, 0.0000, 0.0000,-1,14); //vgsNscffple
+obj = CreateDynamicObject(2725, 1280.6118, -1702.7263, 2855.1870, 0.0000, 0.0000, 25.8999,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2725, 1284.6129, -1703.1267, 2855.1870, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2776, 1281.4316, -1702.5339, 2855.2604, 0.0000, 0.0000, -22.2999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1279.6971, -1702.7557, 2855.2604, 0.0000, 0.0000, 26.5998,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1285.2746, -1703.5217, 2855.2604, 0.0000, 0.0000, -46.7999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1284.0395, -1702.6201, 2855.2604, 0.0000, 0.0000, -23.2999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2725, 1282.6772, -1700.4322, 2855.1870, 0.0000, 0.0000, 25.8999,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2776, 1283.4488, -1700.1258, 2855.2604, 0.0000, 0.0000, -8.6000,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1281.8664, -1700.1153, 2855.2604, 0.0000, 0.0000, 6.5998,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2726, 1280.6291, -1702.5423, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(14835, 1278.1307, -1691.2148, 2856.1604, 0.0000, 0.0000, 90.0000,-1,14); //LM_stripColumns
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(2726, 1284.7397, -1702.9226, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(2726, 1282.6893, -1700.1927, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(3632, 1278.7934, -1709.1330, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(2699, 1278.8011, -1709.1284, 2855.2163, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(2699, 1278.8011, -1705.9278, 2855.2163, 0.0000, 0.0000, -22.4999,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(3632, 1278.7934, -1705.9228, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(18765, 1266.8266, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1266.7906, -1707.0437, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1266.8266, -1699.4676, 2860.6459, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1258.6212, -1704.8181, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(1535, 1267.3144, -1701.9864, 2855.1770, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(1535, 1269.8254, -1704.3266, 2855.1770, 0.0000, 0.0000, 180.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(18980, 1267.0710, -1694.3797, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1275.8724, -1694.3797, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1284.2712, -1714.5616, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.6805, -1710.5987, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1292.0533, -1698.3271, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1700.6180, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1700.9482, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1705.8110, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1706.1413, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1299.4736, -1711.0611, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1300.9344, -1705.9803, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1300.9344, -1700.7906, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1299.3232, -1711.2403, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1295.2530, -1690.2292, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1275.8813, -1693.9398, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1276.0815, -1694.1500, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1258.5426, -1704.5406, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.3231, -1710.6003, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.5133, -1710.4300, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(1535, 1285.2550, -1690.5340, 2854.7744, 0.0000, 0.0000, 0.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(18980, 1283.8840, -1681.0074, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(1509, 1272.0959, -1704.0948, 2856.5295, 0.0000, 0.0000, 177.5998,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(18765, 1276.7911, -1709.4414, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7761, -1709.4414, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7761, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.8060, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.8060, -1689.4819, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7956, -1689.4819, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1292.1671, -1724.0860, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1292.2502, -1698.3154, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1271.5095, -1710.5952, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(19462, 1282.1567, -1710.8425, 2853.8500, 0.0000, 0.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1567, -1709.4110, 2855.5117, 0.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1567, -1712.5141, 2855.5217, 0.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1283.8277, -1709.4112, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.4857, -1709.4112, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1277.4250, -1715.5732, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1286.8874, -1715.5732, 2853.8500, 0.0000, 0.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1551, -1704.6822, 2850.7783, 90.0000, 0.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19279, 1285.2718, -1713.8077, 2855.8220, 0.0000, 0.0000, 0.0000,-1,14); //LCSmallLight1
+obj = CreateDynamicObject(19279, 1278.7009, -1713.8077, 2855.8220, 0.0000, 0.0000, 0.0000,-1,14); //LCSmallLight1
+obj = CreateDynamicObject(19280, 1283.5914, -1704.6959, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1280.6794, -1704.6959, 2855.6708, 0.0000, 0.0000, 180.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(2282, 1272.4829, -1711.0921, 2855.7326, 0.0000, 2.8998, 90.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(18981, 1271.5095, -1676.8520, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(2282, 1272.4829, -1712.6600, 2856.8132, 0.0000, -4.5999, 90.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2722, -1698.9719, 2856.8354, 0.0000, -0.5000, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(19280, 1280.4908, -1707.0377, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8614, -1707.0377, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(2282, 1291.2722, -1697.1300, 2855.8781, 0.0000, -3.0000, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2722, -1695.2824, 2856.9345, 0.0000, 12.0999, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(19280, 1280.4792, -1709.2397, 2855.6708, 0.0000, 0.0000, 270.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(19280, 1283.8503, -1709.2397, 2855.6708, 0.0000, 0.0000, 90.0000,-1,14); //CarRoofLight1
+obj = CreateDynamicObject(2282, 1291.2722, -1693.8637, 2855.3315, 0.0000, -6.4000, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2722, -1692.3488, 2856.8212, 0.0000, -6.4000, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(18765, 1276.7912, -1709.4532, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7834, -1709.4532, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1276.7912, -1699.5107, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18765, 1286.7446, -1699.5107, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1275.8902, -1694.1534, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1272.2154, -1703.2982, 2852.6909, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18090, 1273.7916, -1703.0803, 2857.7307, 0.0000, 0.0000, 180.0000,-1,14); //Bar_BAR1
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterial(obj, 1, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF515459);
+SetDynamicObjectMaterial(obj, 3, 14786, "ab_sfgymbeams", "knot_wood128", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFF601A23);
+SetDynamicObjectMaterialText(obj, 6, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(14820, 1282.1241, -1695.8669, 2856.4035, 0.0000, 0.0000, 180.0000,-1,14); //dj_stuff
+obj = CreateDynamicObject(3503, 1283.4327, -1696.4023, 2855.4089, 0.0000, 0.0000, 25.8999,-1,14); //vgsNscffple
+obj = CreateDynamicObject(19437, 1274.7718, -1698.4742, 2854.5322, 0.0000, 0.0000, 90.0000,-1,14); //wall077
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF515459);
+obj = CreateDynamicObject(18765, 1272.4458, -1703.2982, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18765, 1272.2253, -1703.0980, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(18765, 1272.2253, -1703.4781, 2852.4907, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF7C1C2A);
+obj = CreateDynamicObject(19462, 1282.1567, -1691.5698, 2855.5109, 0.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.1595, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.3175, -1693.7895, 2850.7082, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.4698, 2851.6879, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1696.2998, 2851.6879, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1283.8181, -1694.8006, 2851.6892, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.4853, -1694.7806, 2850.7783, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.9792, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.7993, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1282.1467, -1695.6291, 2851.5378, 90.0000, 90.0000, 0.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF58595A);
+obj = CreateDynamicObject(19462, 1280.1373, -1693.7895, 2850.6081, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.9670, -1693.7895, 2850.5080, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.7867, -1693.7895, 2850.4079, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.6168, -1693.7895, 2850.2878, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.4565, -1693.7895, 2850.1777, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1279.2862, -1693.7895, 2850.0676, 90.0000, 90.0000, 90.0000,-1,14); //wall102
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+obj = CreateDynamicObject(1509, 1272.2562, -1704.1014, 2856.5295, 0.0000, 0.0000, -130.8999,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(19893, 1283.4355, -1696.3757, 2856.7551, 0.0000, 0.0000, -154.3999,-1,14); //LaptopSAMP1
+obj = CreateDynamicObject(19563, 1283.7613, -1696.4350, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.5273, -1696.5494, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6955, -1696.2995, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6297, -1696.1645, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.6075, -1696.1191, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.4608, -1696.4127, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.3946, -1696.2772, 2856.7114, 90.0000, -63.9000, 0.0000,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19563, 1283.3729, -1696.2320, 2856.7114, 90.0000, -63.9000, -0.8999,-1,14); //JuiceBox1
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1299.4707, -1711.2458, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1286.7446, -1689.5228, 2860.6481, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1283.6589, -1681.2668, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1292.8387, -1690.0190, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1301.0986, -1705.9798, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18981, 1301.0986, -1700.7889, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(11685, 1291.2414, -1702.7700, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2414, -1709.3631, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2015, -1704.0903, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2414, -1708.0423, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(1827, 1289.2591, -1708.7159, 2854.6706, 0.0000, 0.0000, 40.7999,-1,14); //man_sdr_tables
+obj = CreateDynamicObject(1827, 1289.2591, -1703.4150, 2854.6706, 0.0000, 0.0000, -40.2999,-1,14); //man_sdr_tables
+obj = CreateDynamicObject(3503, 1282.1396, -1707.6058, 2856.8710, 0.0000, 0.0000, 0.0000,-1,14); //vgsNscffple
+obj = CreateDynamicObject(2725, 1280.6118, -1702.7263, 2855.1870, 0.0000, 0.0000, 25.8999,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2725, 1284.6129, -1703.1267, 2855.1870, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2776, 1281.4316, -1702.5339, 2855.2604, 0.0000, 0.0000, -22.2999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1279.6971, -1702.7557, 2855.2604, 0.0000, 0.0000, 26.5998,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1285.2746, -1703.5217, 2855.2604, 0.0000, 0.0000, -46.7999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1284.0395, -1702.6201, 2855.2604, 0.0000, 0.0000, -23.2999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2725, 1282.6772, -1700.4322, 2855.1870, 0.0000, 0.0000, 25.8999,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2776, 1283.4488, -1700.1258, 2855.2604, 0.0000, 0.0000, -8.6000,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2776, 1281.8664, -1700.1153, 2855.2604, 0.0000, 0.0000, 6.5998,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2726, 1280.6291, -1702.5423, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(14835, 1278.1307, -1691.2148, 2856.1604, 0.0000, 0.0000, 90.0000,-1,14); //LM_stripColumns
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(2726, 1284.7397, -1702.9226, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(2726, 1282.6893, -1700.1927, 2855.9721, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripLamp
+obj = CreateDynamicObject(3632, 1278.7934, -1709.1330, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(2699, 1278.8011, -1709.1284, 2855.2163, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(2699, 1278.8011, -1705.9278, 2855.2163, 0.0000, 0.0000, -22.4999,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(3632, 1278.7934, -1705.9228, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(18765, 1266.8266, -1699.4676, 2852.2805, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1266.7906, -1707.0437, 2853.7016, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(18765, 1266.8266, -1699.4676, 2860.6459, 0.0000, 0.0000, 0.0000,-1,14); //Concrete10mx10mx5m
+SetDynamicObjectMaterial(obj, 0, 9583, "bigshap_sfw", "shipfloor_sfw", 0xFF58595A);
+obj = CreateDynamicObject(18981, 1258.6212, -1704.8181, 2853.7016, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF991E1E);
+obj = CreateDynamicObject(1535, 1267.3144, -1701.9864, 2855.1770, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(1535, 1269.8254, -1704.3266, 2855.1770, 0.0000, 0.0000, 180.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(18980, 1267.0710, -1694.3797, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1275.8724, -1694.3797, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1284.2712, -1714.5616, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.6805, -1710.5987, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1292.0533, -1698.3271, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1700.6180, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1700.9482, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1705.8110, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1301.1047, -1706.1413, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1299.4736, -1711.0611, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1300.9344, -1705.9803, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1300.9344, -1700.7906, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1299.3232, -1711.2403, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1295.2530, -1690.2292, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1275.8813, -1693.9398, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1276.0815, -1694.1500, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1258.5426, -1704.5406, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.3231, -1710.6003, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1271.5133, -1710.4300, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(1535, 1285.2550, -1690.5340, 2854.7744, 0.0000, 0.0000, 0.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(18980, 1283.8840, -1681.0074, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(19822, 1289.4068, -1703.2309, 2855.0976, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle3
+obj = CreateDynamicObject(1509, 1272.3105, -1704.2678, 2856.5295, 0.0000, 0.0000, -130.8999,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(1509, 1272.4093, -1704.1541, 2856.5295, 0.0000, 0.0000, 153.8999,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(1509, 1272.0761, -1703.9466, 2856.5295, 0.0000, 0.0000, 153.8999,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(1509, 1272.2520, -1703.9638, 2856.5295, 0.0000, 0.0000, 179.0998,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(1509, 1272.3717, -1704.0151, 2856.5295, 0.0000, 0.0000, -156.3000,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(1509, 1272.4782, -1704.2928, 2856.5295, 0.0000, 0.0000, 137.3999,-1,14); //DYN_WINE_3
+obj = CreateDynamicObject(19823, 1272.0855, -1703.2772, 2856.3405, 0.0000, 0.0000, 90.1998,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19823, 1272.0849, -1703.0870, 2856.3405, 0.0000, 0.0000, 96.5998,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19823, 1272.1700, -1702.9547, 2856.3405, 0.0000, 0.0000, 87.9000,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19823, 1272.1727, -1703.1549, 2856.3405, 0.0000, 0.0000, 90.0998,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19823, 1272.2131, -1703.3449, 2856.3405, 0.0000, 0.0000, 90.0998,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19823, 1272.2832, -1703.2248, 2856.3405, 0.0000, 0.0000, 91.7998,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19823, 1272.2767, -1703.0346, 2856.3405, 0.0000, 0.0000, 88.1998,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19819, 1272.1090, -1703.8714, 2856.9206, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19819, 1272.1090, -1703.6812, 2856.9206, 0.0000, 0.0000, -24.7999,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19819, 1272.1065, -1703.4912, 2856.9206, 0.0000, 0.0000, 0.4999,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19819, 1272.2678, -1703.5893, 2856.9206, 0.0000, 0.0000, -29.8999,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19819, 1272.2657, -1703.7730, 2856.9206, 0.0000, 0.0000, -29.8999,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19819, 1272.2635, -1703.9569, 2856.9206, 0.0000, 0.0000, -29.8999,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19818, 1272.0981, -1702.9035, 2856.9189, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1272.0981, -1702.7735, 2856.9189, 0.0000, 0.0000, -44.0998,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1272.0959, -1702.6461, 2856.9189, 0.0000, 0.0000, -44.0998,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1272.0979, -1702.5179, 2856.9189, 0.0000, 0.0000, -92.9000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1272.2144, -1702.5937, 2856.9189, 0.0000, 0.0000, -92.9000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1272.2091, -1702.7132, 2856.9189, 0.0000, 0.0000, -58.9999,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1272.2193, -1702.8465, 2856.9189, 0.0000, 0.0000, -58.9999,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1272.3475, -1702.7696, 2856.9189, 0.0000, 0.0000, -58.9999,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1272.3552, -1702.6396, 2856.9189, 0.0000, 0.0000, -93.1998,-1,14); //WineGlass1
+obj = CreateDynamicObject(19572, 1272.3681, -1704.0328, 2857.3691, 0.0000, 0.0000, 0.0000,-1,14); //PisshBox1
+obj = CreateDynamicObject(19572, 1272.3681, -1703.6324, 2857.3691, 0.0000, 0.0000, -7.7999,-1,14); //PisshBox1
+obj = CreateDynamicObject(19572, 1272.4089, -1703.1848, 2857.3691, 0.0000, 0.0000, 0.8000,-1,14); //PisshBox1
+obj = CreateDynamicObject(19572, 1272.4045, -1702.8343, 2857.3691, 0.0000, 0.0000, 0.8000,-1,14); //PisshBox1
+obj = CreateDynamicObject(19572, 1272.3962, -1702.2343, 2857.3691, 0.0000, 0.0000, -81.0000,-1,14); //PisshBox1
+obj = CreateDynamicObject(19820, 1272.1562, -1705.5069, 2856.1284, 0.0000, 0.0000, -89.1998,-1,14); //AlcoholBottle1
+obj = CreateDynamicObject(19820, 1272.1087, -1705.6977, 2856.1284, 0.0000, 0.0000, -89.1998,-1,14); //AlcoholBottle1
+obj = CreateDynamicObject(19820, 1272.2308, -1705.8464, 2856.1284, 0.0000, 0.0000, -76.6999,-1,14); //AlcoholBottle1
+obj = CreateDynamicObject(19820, 1272.3059, -1705.6433, 2856.1284, 0.0000, 0.0000, -96.0000,-1,14); //AlcoholBottle1
+obj = CreateDynamicObject(19822, 1272.1534, -1700.6180, 2856.1386, 0.0000, 0.0000, -89.1999,-1,14); //AlcoholBottle3
+obj = CreateDynamicObject(19822, 1272.1511, -1700.4278, 2856.1386, 0.0000, 0.0000, -110.6998,-1,14); //AlcoholBottle3
+obj = CreateDynamicObject(19822, 1272.3294, -1700.4952, 2856.1386, 0.0000, 0.0000, -110.6998,-1,14); //AlcoholBottle3
+obj = CreateDynamicObject(1486, 1278.8935, -1709.1618, 2855.9804, 0.0000, 0.0000, 0.0000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1278.7834, -1709.0717, 2855.9804, 0.0000, 0.0000, -55.2999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1278.6989, -1706.0180, 2855.9804, 0.0000, 0.0000, -133.8999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1278.7166, -1705.8266, 2855.9804, 0.0000, 0.0000, 135.1999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1280.7987, -1702.7220, 2855.7502, 0.0000, 0.0000, 135.1999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1280.4250, -1702.6729, 2855.7502, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1282.4642, -1700.4143, 2855.7502, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1284.7197, -1703.0871, 2855.7502, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(19822, 1289.4068, -1709.0930, 2855.0976, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle3
+obj = CreateDynamicObject(19820, 1289.3354, -1708.8958, 2855.0856, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle1
+obj = CreateDynamicObject(19820, 1289.3054, -1703.0648, 2855.0856, 0.0000, 0.0000, -41.0000,-1,14); //AlcoholBottle1
+obj = CreateDynamicObject(19824, 1289.1530, -1703.2546, 2855.0893, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle5
+obj = CreateDynamicObject(19818, 1289.8437, -1703.2386, 2855.1821, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1289.7037, -1703.7591, 2855.1821, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1289.7037, -1708.2506, 2855.1821, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 1289.6435, -1708.9206, 2855.1821, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(18647, 1282.1795, -1705.7176, 2854.2375, 0.0000, 0.0000, 90.0000,-1,14); //RedNeonTube1
+obj = CreateDynamicObject(18647, 1282.1795, -1709.4580, 2854.2375, 0.0000, 0.0000, 90.0000,-1,14); //RedNeonTube1
+obj = CreateDynamicObject(18647, 1282.1795, -1708.0279, 2854.2375, 0.0000, 0.0000, 90.0000,-1,14); //RedNeonTube1
+obj = CreateDynamicObject(2282, 1291.2829, -1702.2104, 2856.1875, 0.0000, -11.8999, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 2420, "cj_ff_acc1", "CJ_OPEN", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2829, -1704.8764, 2856.2001, 0.0000, -11.8999, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 2420, "cj_ff_acc1", "CJ_OPEN", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2829, -1708.1920, 2856.3786, 0.0000, 11.0000, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 2420, "cj_ff_acc1", "CJ_OPEN", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2829, -1709.4187, 2856.1401, 0.0000, 11.0000, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2829, -1707.2801, 2855.8845, 0.0000, -16.9999, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2829, -1707.6065, 2857.0737, 0.0000, -6.1999, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2829, -1702.6491, 2856.9812, 0.0000, -6.1999, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2829, -1703.5041, 2856.1477, 0.0000, 13.8999, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1288.1231, -1705.9088, 2856.4050, 0.0000, 13.8999, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1288.1231, -1700.8333, 2856.2451, 0.0000, -13.6000, 270.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1289.8808, -1701.7635, 2856.4645, 0.0000, -0.5000, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2397, -1701.7635, 2855.5742, 0.0000, -0.5000, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1291.2397, -1706.9549, 2855.5742, 0.0000, -0.5000, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1289.6396, -1706.9549, 2856.7019, 0.0000, 12.7999, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1288.2022, -1710.2760, 2856.7561, 0.0000, 12.7999, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1289.5827, -1710.2760, 2855.8666, 0.0000, 2.0999, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1290.5656, -1710.2760, 2856.6147, 0.0000, -11.8000, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1290.5656, -1705.0123, 2856.6147, 0.0000, -11.8000, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1289.7542, -1705.0123, 2855.5180, 0.0000, 15.7999, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(3632, 1289.9038, -1698.4820, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(2699, 1289.9323, -1698.4669, 2855.2163, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(1486, 1290.1740, -1698.5195, 2855.9904, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1289.7971, -1698.7147, 2855.9904, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(2776, 1285.7241, -1709.5837, 2855.2604, 0.0000, 0.0000, -102.2998,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(2725, 1285.6839, -1708.7879, 2855.1870, 0.0000, 0.0000, 0.0000,-1,14); //LM_stripTable
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14581, "ab_mafiasuitea", "cof_wood2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(2776, 1285.6274, -1708.0183, 2855.2604, 0.0000, 0.0000, -76.1999,-1,14); //LEE_stripCHAIR2
+obj = CreateDynamicObject(3632, 1279.4841, -1699.8524, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(2699, 1279.5118, -1699.8271, 2855.2163, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(1486, 1279.5246, -1700.0191, 2855.9802, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1279.6601, -1699.6756, 2855.9802, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1279.2989, -1699.6938, 2855.9802, 0.0000, 0.0000, 36.5999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(3632, 1286.1533, -1700.6529, 2855.2519, 0.0000, 0.0000, 0.0000,-1,14); //imoildrum_LAS
+obj = CreateDynamicObject(2699, 1286.1922, -1700.6573, 2855.2163, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAIL02
+obj = CreateDynamicObject(1486, 1286.2661, -1700.8593, 2855.9904, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1286.1451, -1700.4034, 2855.9904, 0.0000, 0.0000, 32.4000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(2010, 1270.4594, -1703.7484, 2855.1770, 0.0000, 0.0000, 64.3000,-1,14); //nu_plant3_ofc
+obj = CreateDynamicObject(2231, 1283.6114, -1714.2641, 2856.5043, 0.0000, 0.0000, 180.0000,-1,14); //SWANK_SPEAKER_3
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(2231, 1283.6114, -1714.2641, 2855.6035, 0.0000, 0.0000, 180.0000,-1,14); //SWANK_SPEAKER_3
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(2231, 1279.6490, -1714.2641, 2855.6035, 0.0000, 0.0000, 180.0000,-1,14); //SWANK_SPEAKER_3
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(2231, 1279.6490, -1714.2641, 2856.5043, 0.0000, 0.0000, 180.0000,-1,14); //SWANK_SPEAKER_3
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(2231, 1277.3216, -1696.4421, 2857.2421, 0.0000, 0.0000, 0.0000,-1,14); //SWANK_SPEAKER_3
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(2231, 1287.1036, -1696.4421, 2857.2421, 0.0000, 0.0000, 0.0000,-1,14); //SWANK_SPEAKER_3
+SetDynamicObjectMaterial(obj, 2, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(11685, 1291.2414, -1693.4987, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1291.2414, -1694.7890, 2854.7580, 0.0000, 0.0000, 270.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1267.8002, -1695.5798, 2854.7580, 0.0000, 0.0000, 90.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1267.8002, -1696.9007, 2854.7580, 0.0000, 0.0000, 90.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(18980, 1299.4615, -1711.3784, 2858.3896, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1292.1326, -1724.3176, 2858.3896, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25m
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFFFFFFFF);
+obj = CreateDynamicObject(14410, 1289.0554, -1712.9327, 2852.4069, 0.0000, 0.0000, 90.0000,-1,14); //carter-stairs03
+obj = CreateDynamicObject(1535, 1291.6766, -1712.1943, 2854.7551, 0.0000, 0.0000, 270.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(1535, 1275.4160, -1714.2462, 2854.7551, 0.0000, 0.0000, 180.0000,-1,14); //Gen_doorEXT14
+obj = CreateDynamicObject(19617, 1287.4373, -1693.6732, 2856.6335, 0.0000, 0.0000, 180.0000,-1,14); //GoldRecord1
+obj = CreateDynamicObject(19810, 1291.6666, -1712.9681, 2857.5500, 0.0000, 0.0000, 90.0000,-1,14); //StaffOnlySign1
+obj = CreateDynamicObject(19617, 1285.1666, -1693.6732, 2856.6335, 0.0000, 0.0000, 180.0000,-1,14); //GoldRecord1
+obj = CreateDynamicObject(1893, 1268.5091, -1702.0441, 2858.6770, 0.0000, 0.0000, 0.0000,-1,14); //shoplight1
+obj = CreateDynamicObject(1960, 1278.2618, -1694.6652, 2856.9663, 0.0000, 0.0000, 0.0000,-1,14); //record2
+obj = CreateDynamicObject(1960, 1277.0114, -1694.6652, 2856.2355, 0.0000, 11.5000, 0.0000,-1,14); //record2
+obj = CreateDynamicObject(1960, 1272.7491, -1694.6652, 2857.1020, 0.0000, 11.5000, 0.0000,-1,14); //record2
+obj = CreateDynamicObject(1960, 1270.3189, -1694.6652, 2855.8420, 0.0000, -15.7999, 0.0000,-1,14); //record2
+obj = CreateDynamicObject(1961, 1268.7923, -1694.6673, 2856.9011, 0.0000, 0.0000, 0.0000,-1,14); //record3
+obj = CreateDynamicObject(1961, 1274.8236, -1694.6673, 2856.5407, 0.0000, -14.3000, 0.0000,-1,14); //record3
+obj = CreateDynamicObject(1961, 1280.2995, -1694.6673, 2856.4694, 0.0000, -14.3000, 0.0000,-1,14); //record3
+obj = CreateDynamicObject(2282, 1287.3769, -1695.1195, 2856.8647, 0.0000, -3.0000, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1285.6718, -1695.1195, 2855.5739, 0.0000, -3.0000, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1283.9620, -1695.1195, 2856.8676, 0.0000, 7.0999, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1275.9373, -1695.1195, 2856.9140, 0.0000, 7.0999, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1273.6503, -1695.1195, 2855.5456, 0.0000, -15.4999, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1270.9165, -1695.1195, 2856.8735, 0.0000, 1.1000, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1279.7341, -1695.1195, 2856.9746, 0.0000, 7.0999, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1281.8673, -1695.1195, 2856.2145, 0.0000, -14.4000, 0.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1282.7103, -1713.7705, 2855.8925, 0.0000, -5.3000, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1281.0325, -1713.7705, 2856.7529, 0.0000, 4.4999, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1278.5000, -1713.7705, 2856.5551, 0.0000, -4.7000, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1276.4300, -1713.7705, 2855.9113, 0.0000, 2.7999, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1272.9843, -1713.7705, 2856.5646, 0.0000, 2.7999, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1285.1007, -1713.7705, 2856.7456, 0.0000, -5.9000, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1287.0252, -1713.7705, 2856.0146, 0.0000, 8.6999, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2282, 1289.0593, -1713.7705, 2856.6083, 0.0000, 8.6999, 180.0000,-1,14); //Frame_Thick_4
+SetDynamicObjectMaterial(obj, 0, 14811, "lee_strip2_1", "CJ_NEON_HEART", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(11685, 1272.5500, -1710.1424, 2854.7480, 0.0000, 0.0000, 90.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1272.5500, -1711.4637, 2854.7480, 0.0000, 0.0000, 90.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(11685, 1272.5500, -1712.7741, 2854.7480, 0.0000, 0.0000, 90.0000,-1,14); //CutsceneCouch4
+SetDynamicObjectMaterial(obj, 0, 3629, "arprtxxref_las", "dirtywhite", 0xFF3F3E45);
+obj = CreateDynamicObject(1486, 1275.0334, -1699.6368, 2856.3405, 0.0000, 0.0000, 68.5000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1275.3402, -1700.9569, 2856.3405, 0.0000, 0.0000, 1.9999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1275.2200, -1700.9613, 2856.3405, 0.0000, 0.0000, 1.9999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1275.0037, -1703.1040, 2856.3405, 0.0000, 0.0000, -45.9000,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1275.2310, -1704.8328, 2856.3405, 0.0000, 0.0000, -97.6999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1274.7027, -1706.8704, 2856.3405, 0.0000, 0.0000, -97.6999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1486, 1274.6707, -1706.7349, 2856.3405, 0.0000, 0.0000, -132.4999,-1,14); //DYN_BEER_1
+obj = CreateDynamicObject(1665, 1275.2785, -1701.7692, 2856.2304, 0.0000, 0.0000, 0.0000,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1275.0283, -1704.2694, 2856.2304, 0.0000, 0.0000, 0.0000,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1274.4177, -1707.1502, 2856.2304, 0.0000, 0.0000, -58.6999,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1278.8869, -1706.0120, 2855.8601, 0.0000, 0.0000, -58.6999,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1278.5830, -1709.1701, 2855.8601, 0.0000, 0.0000, -175.2000,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1279.3680, -1699.8909, 2855.8601, 0.0000, 0.0000, -175.2000,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1289.6251, -1698.5756, 2855.8601, 0.0000, 0.0000, -175.2000,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1284.5435, -1703.1986, 2855.6398, 0.0000, 0.0000, -146.9999,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1285.7196, -1708.7181, 2855.6398, 0.0000, 0.0000, -146.9999,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1289.4401, -1708.3885, 2855.1093, 0.0000, 0.0000, -146.9999,-1,14); //propashtray1
+obj = CreateDynamicObject(1665, 1289.6137, -1703.5163, 2855.1093, 0.0000, 0.0000, 20.6000,-1,14); //propashtray1

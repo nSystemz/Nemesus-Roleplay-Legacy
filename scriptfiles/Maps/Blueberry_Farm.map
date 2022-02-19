@@ -1,0 +1,134 @@
+obj = CreateDynamicObject(3276, -201.4140, -164.5097, 2.0866, 0.0000, 0.0000, -13.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -165.5612, -172.0328, 1.8466, 0.0000, 0.0000, -13.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -224.2720, -158.8840, 2.0866, 0.0000, 0.0000, -13.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -235.5130, -156.1019, 2.0866, 0.0000, 0.0000, -13.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -260.2940, -149.6710, 2.2165, 0.0000, 0.0000, -13.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -271.5736, -146.8793, 2.2165, 0.0000, 0.0000, -13.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -282.7536, -144.1437, 1.9514, 0.0000, -2.5999, -13.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -293.7958, -140.6855, 1.3083, 0.0000, -3.4999, -21.2999); //cxreffencesld
+obj = CreateDynamicObject(3276, -90.4524, -185.6459, 1.8164, 0.0000, 0.0000, -9.0000); //cxreffencesld
+obj = CreateDynamicObject(3276, -29.1180, -193.7088, 1.6066, 0.0000, 0.0000, -5.1999); //cxreffencesld
+obj = CreateDynamicObject(3276, 7.3940, -196.9828, 1.5363, 0.0000, 0.0000, -3.5999); //cxreffencesld
+obj = CreateDynamicObject(3276, 41.9603, -199.3983, 1.5066, 0.0000, 0.0000, -3.5999); //cxreffencesld
+obj = CreateDynamicObject(3276, 53.5423, -200.0160, 1.5463, 0.0000, 0.0000, -2.4000); //cxreffencesld
+obj = CreateDynamicObject(3276, 65.1418, -200.5023, 1.5463, 0.0000, 0.0000, -2.4000); //cxreffencesld
+obj = CreateDynamicObject(3276, 72.8973, -200.7769, 1.5463, 0.0000, 0.0000, -2.4000); //cxreffencesld
+obj = CreateDynamicObject(3276, -299.6965, -133.1587, 1.0290, 0.0000, 0.0000, -84.6997); //cxreffencesld
+obj = CreateDynamicObject(3276, -300.7698, -121.5884, 1.2288, 0.0000, 0.0000, -84.6997); //cxreffencesld
+obj = CreateDynamicObject(3276, -301.2622, -110.0352, 1.3091, 0.0000, 0.0000, -90.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -300.7015, -98.4513, 1.3191, 0.0000, 0.0000, -94.7995); //cxreffencesld
+obj = CreateDynamicObject(3276, -298.8727, -87.0761, 1.2790, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -293.8128, -59.9706, 1.3391, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -291.1177, -48.6571, 1.3391, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -288.4270, -37.3633, 1.3391, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -285.7413, -26.0888, 1.3191, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -283.0924, -14.7538, 1.3191, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -280.3973, -3.4407, 1.2891, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -277.7066, 7.8530, 1.2690, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -275.0184, 19.1373, 1.2288, 0.0000, 0.0000, -103.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -271.8673, 30.3008, 1.2091, 0.0000, 0.0000, -108.1996); //cxreffencesld
+obj = CreateDynamicObject(3276, -268.2409, 41.3300, 1.1991, 0.0000, 0.0000, -108.1996); //cxreffencesld
+obj = CreateDynamicObject(3276, -264.6239, 52.3306, 1.1991, 0.0000, 0.0000, -108.1996); //cxreffencesld
+obj = CreateDynamicObject(3276, -260.8752, 63.2526, 1.1991, 0.0000, 0.0000, -109.5997); //cxreffencesld
+obj = CreateDynamicObject(3276, -256.9808, 74.1899, 1.1991, 0.0000, 0.0000, -109.5997); //cxreffencesld
+obj = CreateDynamicObject(3276, -252.8881, 85.0586, 1.1791, 0.0000, 0.0000, -111.7994); //cxreffencesld
+obj = CreateDynamicObject(3276, -248.5764, 95.8384, 1.1791, 0.0000, 0.0000, -111.7994); //cxreffencesld
+obj = CreateDynamicObject(3276, -244.1954, 106.6109, 1.1791, 0.0000, 0.0000, -112.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -239.7151, 117.3217, 1.1791, 0.0000, 0.0000, -112.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -228.3123, 145.7733, 2.8631, 0.0000, 5.8997, -112.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -223.8558, 156.4273, 4.0566, 0.0000, 5.8997, -112.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -219.4288, 167.0110, 5.5033, 0.0000, 8.0999, -112.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -215.0108, 177.5726, 7.3951, 0.0000, 10.0999, -112.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -210.6369, 187.9770, 9.3731, 0.0000, 6.7999, -112.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -198.2899, 217.4931, 11.8908, 0.0000, 2.0999, -112.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -190.3739, 223.9275, 11.8290, 0.0000, -2.9000, -168.2003); //cxreffencesld
+obj = CreateDynamicObject(3276, -116.2024, 204.5751, 4.6419, 0.0000, -6.5998, 159.8997); //cxreffencesld
+obj = CreateDynamicObject(3276, -127.0328, 208.5384, 5.9762, 0.0000, -6.5998, 159.8997); //cxreffencesld
+obj = CreateDynamicObject(3276, -138.0334, 211.9906, 7.3130, 0.0000, -6.5998, 164.8997); //cxreffencesld
+obj = CreateDynamicObject(3276, -149.1589, 214.9924, 8.6463, 0.0000, -6.5998, 164.8997); //cxreffencesld
+obj = CreateDynamicObject(3276, -160.3074, 218.0007, 9.8415, 0.0000, -5.9000, 164.8997); //cxreffencesld
+obj = CreateDynamicObject(3276, -171.4642, 221.0108, 10.7650, 0.0000, -2.9000, 164.8997); //cxreffencesld
+obj = CreateDynamicObject(3276, -180.1640, 223.3482, 11.2215, 0.0000, -2.9000, 164.8997); //cxreffencesld
+obj = CreateDynamicObject(18283, -153.1201, -126.1837, 2.1296, 0.0000, 0.0000, 175.6997); //cw_fuelpay
+obj = CreateDynamicObject(3276, 64.6101, 107.1013, 2.1847, 0.0000, 0.0000, 148.5997); //cxreffencesld
+obj = CreateDynamicObject(17008, -44.6888, -7.5732, 8.1752, 0.0000, 0.0000, -23.0000); //farmhouse01
+obj = CreateDynamicObject(3276, 74.5201, 101.0522, 2.1847, 0.0000, 0.0000, 148.5997); //cxreffencesld
+obj = CreateDynamicObject(3276, 84.4468, 94.9927, 2.1847, 0.0000, 0.0000, 148.5997); //cxreffencesld
+obj = CreateDynamicObject(3276, 94.3479, 88.9494, 2.1847, 0.0000, 0.0000, 148.5997); //cxreffencesld
+obj = CreateDynamicObject(3276, 104.2658, 82.8953, 2.1847, 0.0000, 0.0000, 148.5997); //cxreffencesld
+obj = CreateDynamicObject(3276, 114.1843, 76.8412, 2.1847, 0.0000, 0.0000, 148.5997); //cxreffencesld
+obj = CreateDynamicObject(3276, 124.0855, 70.7975, 2.1847, 0.0000, 0.0000, 148.5997); //cxreffencesld
+obj = CreateDynamicObject(3276, 133.3126, 66.5474, 2.1847, 0.0000, 0.0000, 166.3000); //cxreffencesld
+obj = CreateDynamicObject(3276, 131.7958, 1.9872, 0.9750, 0.0000, 2.0999, 81.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, 133.4532, 13.4187, 0.5612, 0.0000, -0.2000, 81.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, 135.1295, 24.9085, 0.8317, 0.0000, -2.0999, 81.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, 136.8032, 36.3815, 1.4671, 0.0000, -1.8997, 81.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, 138.4801, 47.8754, 1.7624, 0.0000, -1.2000, 81.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, 139.1459, 59.4564, 2.0569, 0.0000, -1.2000, 92.5998); //cxreffencesld
+obj = CreateDynamicObject(3276, 122.8132, -81.1520, 1.3919, 0.0000, -0.3000, 84.7995); //cxreffencesld
+obj = CreateDynamicObject(3276, 122.5278, -104.4272, 1.3306, 0.0000, -0.3000, 89.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, 122.4065, -116.0065, 1.2697, 0.0000, -0.3000, 89.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, 122.2761, -128.4454, 1.2048, 0.0000, -0.3000, 89.3998); //cxreffencesld
+obj = CreateDynamicObject(3276, -72.7611, -177.9985, 1.9808, 0.0000, -0.7997, 141.6999); //cxreffencesld
+obj = CreateDynamicObject(3276, -82.0099, -170.6943, 2.3134, 0.0000, -1.2999, 141.6999); //cxreffencesld
+obj = CreateDynamicObject(3276, -90.3050, -162.4214, 2.6933, 0.0000, -1.8997, 129.3999); //cxreffencesld
+obj = CreateDynamicObject(3276, -97.2836, -152.9411, 2.9772, 0.0000, -0.3998, 123.5000); //cxreffencesld
+obj = CreateDynamicObject(3276, -103.7470, -143.1768, 3.0590, 0.0000, -0.3998, 123.5000); //cxreffencesld
+obj = CreateDynamicObject(3276, -108.6145, -135.7138, 3.1212, 0.0000, -0.3998, 123.5000); //cxreffencesld
+obj = CreateDynamicObject(17005, 23.4873, -173.8125, 7.3284, 0.0000, 0.0000, -102.1996); //farmhouse
+obj = CreateDynamicObject(19381, 21.0359, -167.9674, -0.4749, 0.0000, 90.0000, 84.0000); //wall029
+SetDynamicObjectMaterial(obj, 0, 17075, "cuntwlandwest", "des_dirtgrassmixc", 0xFFFFFFFF);
+obj = CreateDynamicObject(19381, 22.5900, -162.0776, -0.4740, 0.0000, 90.0000, 84.0000); //wall029
+SetDynamicObjectMaterial(obj, 0, 17075, "cuntwlandwest", "des_dirtgrassmixc", 0xFFFFFFFF);
+obj = CreateDynamicObject(19381, 11.4666, -170.9105, -0.4745, 0.0000, 90.0000, 77.7995); //wall029
+SetDynamicObjectMaterial(obj, 0, 17075, "cuntwlandwest", "des_dirtgrassmixc", 0xFFFFFFFF);
+obj = CreateDynamicObject(19381, 13.6857, -160.6472, -0.4745, 0.0000, 90.0000, 77.7995); //wall029
+SetDynamicObjectMaterial(obj, 0, 17075, "cuntwlandwest", "des_dirtgrassmixc", 0xFFFFFFFF);
+obj = CreateDynamicObject(615, -1.9470, -166.4777, -0.8510, 0.0000, 0.0000, 0.0000); //veg_tree3
+obj = CreateDynamicObject(669, 5.0222, -155.6806, -0.5393, 0.0000, 0.0000, 0.0000); //sm_veg_tree4
+obj = CreateDynamicObject(3276, -240.9443, -154.7372, 2.2465, 0.0000, 0.0000, -13.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -233.9072, -150.5085, 2.3587, 0.1999, -2.0000, 70.4001); //cxreffencesld
+obj = CreateDynamicObject(3276, -230.0102, -139.5687, 2.7642, 0.1999, -2.0000, 70.4001); //cxreffencesld
+obj = CreateDynamicObject(3276, -226.1189, -128.6419, 2.9691, 0.1999, -0.3000, 70.4001); //cxreffencesld
+obj = CreateDynamicObject(3425, -140.3127, -168.4673, 7.8286, 0.0000, 0.0000, 38.6999); //nt_windmill
+obj = CreateDynamicObject(3276, -261.4195, -119.9664, 2.8155, 0.1999, -0.3000, -114.2999); //cxreffencesld
+obj = CreateDynamicObject(3276, -253.7890, -117.0617, 2.9364, 0.0000, 0.0000, 160.0000); //cxreffencesld
+obj = CreateDynamicObject(3276, -266.1781, -130.5302, 2.7003, 0.1999, 1.3999, -114.2999); //cxreffencesld
+obj = CreateDynamicObject(3276, -270.9438, -141.1368, 2.5072, 0.1999, 0.6999, -114.2999); //cxreffencesld
+obj = CreateDynamicObject(3276, -242.8792, -121.0326, 2.8964, 0.0000, 0.0000, 160.0000); //cxreffencesld
+obj = CreateDynamicObject(3276, -232.5894, -124.7777, 2.8964, 0.0000, 0.0000, 160.3000); //cxreffencesld
+obj = CreateDynamicObject(1495, -225.6641, -127.0189, 1.3586, 0.0000, 0.0000, 164.5000); //Gen_doorEXT01
+SetDynamicObjectMaterial(obj, 0, 16322, "a51_stores", "des_ghotwood1", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3820, "boxhses_sfsx", "ws_vic_wood1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2121, -90.3117, -181.7540, 1.4402, 0.0000, 0.0000, 104.2999); //LOW_DIN_CHAIR_2
+obj = CreateDynamicObject(3040, -89.4688, -180.2569, 3.4698, 0.0000, 0.0000, -44.5000); //ct_stall2
+obj = CreateDynamicObject(2121, -91.2734, -180.4510, 1.4402, 0.0000, 0.0000, 104.2999); //LOW_DIN_CHAIR_2
+obj = CreateDynamicObject(617, 52.9179, -158.0771, -0.7598, 0.0000, 0.0000, 0.0000); //veg_treeb1
+obj = CreateDynamicObject(615, 57.5931, -182.4113, -3.2967, 0.0000, 0.0000, 0.0000); //veg_tree3
+obj = CreateDynamicObject(673, -19.1895, -175.0970, -2.1250, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -33.0997, -173.8571, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -45.5895, -173.4270, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -59.0097, -172.5171, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -59.0097, -160.4971, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -44.1595, -161.2769, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -31.8596, -161.6170, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -17.7695, -161.9571, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -72.5697, -159.9272, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -85.2893, -159.5471, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -85.2893, -146.2772, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -95.9996, -146.2772, -1.2350, 0.0000, 0.0000, 0.0000); //sm_bevhiltree
+obj = CreateDynamicObject(673, -70.4884, -148.1172, -1.2350, 0.0000, 0.0000, -11.3999); //sm_bevhiltree
+obj = CreateDynamicObject(673, -56.4104, -150.2415, -1.2350, 0.0000, 0.0000, -11.3999); //sm_bevhiltree
+obj = CreateDynamicObject(17324, 16.8435, -138.2572, -0.4778, 0.0000, 0.0000, 79.7996); //cw_combbarn
+obj = CreateDynamicObject(19381, 23.7458, -141.4779, -0.4645, 0.0000, 90.0000, 79.7995); //wall029
+SetDynamicObjectMaterial(obj, 0, 5397, "barrio1_lae", "dirtgaz64b", 0xFFFFFFFF);
+obj = CreateDynamicObject(19381, 14.2679, -139.7727, -0.4666, 0.0000, 90.0000, 79.7995); //wall029
+SetDynamicObjectMaterial(obj, 0, 5397, "barrio1_lae", "dirtgaz64b", 0xFFFFFFFF);
+obj = CreateDynamicObject(19381, 9.6323, -138.9387, -0.4668, 0.0000, 90.0000, 79.7995); //wall029
+SetDynamicObjectMaterial(obj, 0, 5397, "barrio1_lae", "dirtgaz64b", 0xFFFFFFFF);
+obj = CreateDynamicObject(19381, 24.4258, -137.6985, -0.4659, 0.0000, 90.0000, 79.7995); //wall029
+SetDynamicObjectMaterial(obj, 0, 5397, "barrio1_lae", "dirtgaz64b", 0xFFFFFFFF);
+obj = CreateDynamicObject(19381, 15.0065, -135.6685, -0.4659, 0.0000, 90.0000, 79.7995); //wall029
+SetDynamicObjectMaterial(obj, 0, 5397, "barrio1_lae", "dirtgaz64b", 0xFFFFFFFF);
+obj = CreateDynamicObject(19381, 10.3611, -134.8325, -0.4648, 0.0000, 90.0000, 79.7995); //wall029
+SetDynamicObjectMaterial(obj, 0, 5397, "barrio1_lae", "dirtgaz64b", 0xFFFFFFFF);

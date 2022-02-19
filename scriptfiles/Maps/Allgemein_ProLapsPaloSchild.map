@@ -1,0 +1,10 @@
+obj = CreateDynamicObject(12944, 2310.4118, 14.2656, 25.4766, 0.0000, 0.0000, 0.0000, -1, -1); //sw_lasershop (n/A)
+SetDynamicObjectMaterial(obj, 0, 2624, "cj_urb", "CJ_PRO_1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 5, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 6, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 7, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 8, 13364, "cetown3cs_t", "sw_wind15", 0xFFFFFFFF);

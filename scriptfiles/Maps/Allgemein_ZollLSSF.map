@@ -1,0 +1,138 @@
+obj = CreateDynamicObject(9623, -1316.2130, 914.1804, 47.8875, -0.4999, 0.0000, 317.0281, -1, -1); //toll_SFW (n/A)
+SetDynamicObjectMaterial(obj, 0, 17533, "eastbeach7_lae2", "shopwindowlow2_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 2823, "gb_kitchtake", "deep_red64", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14668, "711c", "cj_white_wall2", 0xFFFFFFFF);
+obj = CreateDynamicObject(8168, -1317.9625, 897.3118, 47.1199, 0.0000, -0.6000, -116.2612, -1, -1); //Vgs_guardhouse01 (n/A)
+SetDynamicObjectMaterial(obj, 6, 1649, "wglass", "carshowwin2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 7, 9507, "boxybld2_sfw", "bevdoor01_law", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 8, 14668, "711c", "cj_white_wall2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 9, 3881, "apsecurity_sfxrf", "ws_rooftarmac2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 10, 2823, "gb_kitchtake", "deep_red64", 0xFFFFFFFF);
+obj = CreateDynamicObject(8168, -1314.3917, 931.5244, 46.7358, 0.0000, 0.7999, 63.2387, -1, -1); //Vgs_guardhouse01 (n/A)
+SetDynamicObjectMaterial(obj, 6, 1649, "wglass", "carshowwin2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 7, 9507, "boxybld2_sfw", "bevdoor01_law", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 8, 14668, "711c", "cj_white_wall2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 9, 3881, "apsecurity_sfxrf", "ws_rooftarmac2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 10, 2823, "gb_kitchtake", "deep_red64", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -1303.0949, 944.7714, 45.5228, 0.0000, -0.9999, -120.4000, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -1307.8406, 936.6823, 45.6866, 0.0000, -0.9999, -120.4000, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -1298.3541, 952.8521, 45.3593, 0.0000, -0.9999, -120.4000, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -1324.5246, 892.1252, 46.3256, 0.0000, 1.0000, 59.0999, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -1329.3402, 884.0773, 46.4894, 0.0000, 1.0000, 59.0999, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -1334.1556, 876.0292, 46.6532, 0.0000, 1.0000, 59.0999, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -1299.8361, 919.9328, 44.1673, 0.0000, 0.9000, 46.6000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -1291.5007, 933.3153, 44.6967, -91.0999, 0.0000, -43.2000, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -1291.7413, 925.8863, 44.0250, -0.5999, 0.7999, 26.3000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -1332.4770, 908.9357, 44.6252, 0.0000, 0.9000, 46.6000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -1340.5493, 902.9782, 44.7663, -0.5999, 0.6999, 26.3000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -1282.5034, 930.4392, 43.8813, -0.5999, 0.7999, 26.3000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -1349.7830, 898.4159, 44.8921, -0.5999, 0.6999, 26.3000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -1287.9489, 929.9467, 44.6967, -91.0999, 0.0000, -67.1000, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -1289.4097, 958.5780, 44.3256, -88.8999, -3.5999, 151.0999, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -1340.7408, 872.5134, 45.8072, -89.9999, -3.5999, -25.2000, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -1340.4700, 896.0201, 45.6664, -88.8999, -3.5999, 133.7999, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -1343.8958, 899.2903, 45.6692, -88.8999, -3.5999, 117.4999, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1697, -1305.7351, 904.5700, 52.2270, 0.0000, 0.0000, 0.0000, -1, -1); //roofstuff16 (n/A)
+obj = CreateDynamicObject(1697, -1312.9351, 911.0505, 52.2270, 0.0000, 0.0000, 0.0000, -1, -1); //roofstuff16 (n/A)
+obj = CreateDynamicObject(1697, -1320.0052, 917.5203, 52.2270, 0.0000, 0.0000, 180.0000, -1, -1); //roofstuff16 (n/A)
+obj = CreateDynamicObject(1697, -1326.4346, 923.9611, 52.2270, 0.0000, 0.0000, 180.0000, -1, -1); //roofstuff16 (n/A)
+obj = CreateDynamicObject(995, -1322.5770, 908.0986, 46.9116, 90.0000, 0.0000, 46.7000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(995, -1315.6932, 901.6676, 46.9116, 90.0000, 0.0000, 46.7000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(995, -1328.9418, 914.0143, 46.9116, 90.0000, 0.0000, 46.7000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(995, -1306.0981, 911.8496, 46.7916, 90.0000, 0.0000, 46.7000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(995, -1313.0401, 918.3211, 46.7916, 90.0000, 0.0000, 46.7000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(995, -1319.3422, 924.2604, 46.7916, 90.0000, 0.0000, 46.7000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(19121, -1327.0272, 916.0895, 46.0152, 0.0000, 0.0000, -45.0999, -1, -1); //BollardLight1 (n/A)
+obj = CreateDynamicObject(19121, -1313.7753, 903.7132, 46.0352, 0.0000, 0.0000, -45.0999, -1, -1); //BollardLight1 (n/A)
+obj = CreateDynamicObject(19121, -1305.6856, 912.3542, 45.9552, 0.0000, 0.0000, -45.0999, -1, -1); //BollardLight1 (n/A)
+obj = CreateDynamicObject(19121, -1318.9011, 924.7647, 45.9252, 0.0000, 0.0000, -45.0999, -1, -1); //BollardLight1 (n/A)
+obj = CreateDynamicObject(1622, -1308.3872, 911.3692, 49.7350, 0.0000, 0.0000, 0.0000, -1, -1); //nt_securecam2_01 (n/A)
+obj = CreateDynamicObject(1622, -1324.6263, 916.7594, 49.7350, 0.0000, 0.0000, 180.0000, -1, -1); //nt_securecam2_01 (n/A)
+obj = CreateDynamicObject(8168, -2253.1899, 2679.1660, 55.7773, 0.0000, 1.4000, 19.1483, -1, -1); //Vgs_guardhouse01 (n/A)
+SetDynamicObjectMaterial(obj, 6, 1649, "wglass", "carshowwin2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 7, 9507, "boxybld2_sfw", "bevdoor01_law", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 8, 14668, "711c", "cj_white_wall2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 10, 2823, "gb_kitchtake", "deep_red64", 0xFFFFFFFF);
+obj = CreateDynamicObject(8168, -2281.4262, 2637.9582, 56.1730, 0.0000, -0.0000, -160.5516, -1, -1); //Vgs_guardhouse01 (n/A)
+SetDynamicObjectMaterial(obj, 6, 1649, "wglass", "carshowwin2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 7, 9507, "boxybld2_sfw", "bevdoor01_law", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 8, 14668, "711c", "cj_white_wall2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 10, 2823, "gb_kitchtake", "deep_red64", 0xFFFFFFFF);
+obj = CreateDynamicObject(995, -2276.4094, 2639.4892, 56.1714, 90.0000, 0.0000, 0.5999, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(9623, -2267.6335, 2640.1408, 57.1939, 0.1999, 0.0000, 91.1001, -1, -1); //toll_SFW (n/A)
+SetDynamicObjectMaterial(obj, 0, 17533, "eastbeach7_lae2", "shopwindowlow2_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 2823, "gb_kitchtake", "deep_red64", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14668, "711c", "cj_white_wall2", 0xFFFFFFFF);
+obj = CreateDynamicObject(9623, -2266.9531, 2676.7941, 57.0801, -1.0000, 0.0000, 272.3374, -1, -1); //toll_SFW (n/A)
+SetDynamicObjectMaterial(obj, 0, 17533, "eastbeach7_lae2", "shopwindowlow2_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 2823, "gb_kitchtake", "deep_red64", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14668, "711c", "cj_white_wall2", 0xFFFFFFFF);
+obj = CreateDynamicObject(995, -2262.4489, 2639.7622, 56.1714, 90.0000, 0.0000, 1.4000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(995, -2261.8161, 2677.4367, 55.8715, 90.0000, 0.0000, 2.5000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(995, -2275.7878, 2676.8647, 56.2414, 90.0000, 0.0000, 3.0000, -1, -1); //bar_barrier16 (n/A)
+obj = CreateDynamicObject(1697, -2272.8754, 2633.2216, 74.0708, 0.0000, 0.0000, -129.0997, -1, -1); //roofstuff16 (n/A)
+obj = CreateDynamicObject(1697, -2272.8754, 2642.6791, 74.0708, 0.0000, 0.0000, -129.0997, -1, -1); //roofstuff16 (n/A)
+obj = CreateDynamicObject(1697, -2272.8754, 2671.6821, 74.0708, 0.0000, 0.0000, 105.3000, -1, -1); //roofstuff16 (n/A)
+obj = CreateDynamicObject(1697, -2272.8754, 2682.4418, 74.0708, 0.0000, 0.0000, 105.3000, -1, -1); //roofstuff16 (n/A)
+obj = CreateDynamicObject(973, -2289.2509, 2637.6718, 55.1483, 0.0000, -1.8999, 30.0000, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -2297.3598, 2632.9921, 54.8376, 0.0000, -1.8999, 30.0000, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -2303.0903, 2629.6928, 54.6185, 0.0000, -1.8999, 30.0000, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -2245.2678, 2679.0336, 54.6080, 0.0000, -1.4000, -154.6999, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -2236.7910, 2683.0380, 54.3789, 0.0000, -1.4000, -154.6999, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(973, -2228.3171, 2687.0373, 54.1497, 0.0000, -1.4000, -154.6999, -1, -1); //sub_roadbarrier (n/A)
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "chevron_red_64HVa", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -2291.7775, 2677.1254, 54.2866, 0.0000, 2.2000, -18.2000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -2281.8771, 2675.7402, 53.8987, 0.0000, 2.2000, 2.6000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -2301.5324, 2680.3518, 54.6812, 0.0000, 2.2000, -18.2000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -2252.7902, 2640.7482, 53.5979, 0.0000, 0.2999, 0.2000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -2242.8410, 2639.1240, 53.5445, 0.0000, 0.2999, -18.6000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(3578, -2233.0847, 2635.8217, 53.4906, 0.0000, 0.2999, -18.6000, -1, -1); //DockBarr1_LA (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(1692, -2267.9042, 2639.5920, 60.7754, 0.0000, 0.0000, 90.0000, -1, -1); //roofstuff18 (n/A)
+obj = CreateDynamicObject(1692, -2267.6340, 2677.0827, 60.6654, 0.0000, 0.0000, 92.9999, -1, -1); //roofstuff18 (n/A)
+obj = CreateDynamicObject(19328, -2227.5483, 2681.4226, 53.3974, -89.5000, 0.0000, 108.6999, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -2299.3518, 2635.5510, 53.9549, -87.7000, 1.5000, -55.8999, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -2234.9401, 2643.5749, 54.2630, -90.3999, 1.5000, -87.8999, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -2234.8759, 2638.5759, 54.2837, -90.3999, 1.5000, -107.8999, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -2296.5732, 2672.6821, 55.2769, -87.3998, 1.5000, 94.8000, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19328, -2297.2290, 2677.2902, 55.2891, -87.3998, 1.5000, 73.5999, -1, -1); //7_11_sign03 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_roadarrow1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1622, -2269.9382, 2675.8889, 58.9424, 0.0000, 0.0000, 134.1000, -1, -1); //nt_securecam2_01 (n/A)
+obj = CreateDynamicObject(1622, -2264.5788, 2640.9821, 58.9424, 0.0000, 0.0000, -49.3999, -1, -1); //nt_securecam2_01 (n/A)
+obj = CreateDynamicObject(19121, -2273.6008, 2639.5012, 55.2739, 0.0000, 0.0000, 0.0000, -1, -1); //BollardLight1 (n/A)
+obj = CreateDynamicObject(19121, -2261.7009, 2639.8115, 55.2539, 0.0000, 0.0000, 0.0000, -1, -1); //BollardLight1 (n/A)
+obj = CreateDynamicObject(19121, -2261.0910, 2677.4841, 55.0739, 0.0000, 0.0000, 4.2999, -1, -1); //BollardLight1 (n/A)
+obj = CreateDynamicObject(19121, -2272.9143, 2676.9572, 55.2639, 0.0000, 0.0000, 4.2999, -1, -1); //BollardLight1 (n/A)

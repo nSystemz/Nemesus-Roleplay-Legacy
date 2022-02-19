@@ -1,0 +1,1886 @@
+obj = CreateDynamicObject(19378, 1865.4344, -1666.8525, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(1640, 1879.9835, -1682.9449, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19429, 1866.0914, -1686.5035, 1632.9178, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19378, 1865.4432, -1698.8408, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19366, 1885.8465, -1671.5832, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1853.6761, -1673.2613, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1853.6761, -1676.4610, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1853.6960, -1679.6112, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1853.6960, -1682.7712, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1853.6861, -1685.9416, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19378, 1852.0050, -1682.9643, 1632.9853, 0.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFFA5A9A7);
+obj = CreateDynamicObject(19366, 1853.6960, -1689.1230, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1853.6861, -1692.2735, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19378, 1850.2843, -1671.5821, 1632.9853, 0.0000, 0.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(14407, 1878.2093, -1694.7374, 1632.2419, 0.0000, 0.0000, 0.0000,-1,14); //carter-stairs01nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1866.4520, -1673.2618, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1876.0517, -1686.7165, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1861.9693, -1676.4625, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFA5A9A7);
+obj = CreateDynamicObject(19366, 1864.1695, -1682.8548, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFA5A9A7);
+obj = CreateDynamicObject(2315, 1867.8696, -1686.0992, 1633.9936, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TV_TABLE4nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1853.6062, -1695.4248, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(1640, 1872.1601, -1682.9449, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1879.9835, -1679.0438, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1879.9532, -1686.7165, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1851.9370, -1676.1745, 1632.9853, 0.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF706C67);
+obj = CreateDynamicObject(1640, 1878.0024, -1686.7165, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1874.1108, -1682.9449, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1860.6778, -1673.2613, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(1640, 1876.0716, -1679.0438, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19429, 1859.4388, -1687.6302, 1632.9874, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+obj = CreateDynamicObject(1640, 1874.1108, -1679.0438, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1862.9599, -1676.4521, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.0766, -1684.1789, 1634.8863, 0.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1827, 1854.3188, -1684.4300, 1633.8254, 0.0000, 0.0000, 0.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(19916, 1862.2209, -1678.6400, 1632.4737, 0.0000, 0.0000, -90.0000,-1,14); //CutsceneFridge1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 6284, "bev_law2", "studwalltop_law", 0xFF3F3E45);
+obj = CreateDynamicObject(19378, 1888.1971, -1697.9029, 1628.8133, 90.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1860.6778, -1676.4720, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1864.1695, -1686.0653, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFA5A9A7);
+obj = CreateDynamicObject(19378, 1851.9444, -1689.5764, 1632.9853, 0.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF706C67);
+obj = CreateDynamicObject(19366, 1860.6883, -1682.8752, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1864.1705, -1679.6634, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFA5A9A7);
+obj = CreateDynamicObject(19366, 1866.4599, -1692.4748, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1851.9256, -1678.2169, 1635.6339, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1868.9431, -1679.6639, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1878.0124, -1682.9449, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1861.9693, -1689.2767, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFA5A9A7);
+obj = CreateDynamicObject(1640, 1881.8929, -1686.7165, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1861.9693, -1692.4880, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFA5A9A7);
+obj = CreateDynamicObject(19366, 1861.9693, -1673.2624, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFA5A9A7);
+obj = CreateDynamicObject(19366, 1857.1767, -1673.2613, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1860.6778, -1689.2740, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19378, 1859.8968, -1671.5821, 1632.9853, 0.0000, 0.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19366, 1857.1770, -1692.4840, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1857.1761, -1689.2740, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1857.1767, -1679.6717, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1857.1767, -1686.0815, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1857.1767, -1682.8811, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1859.0091, -1679.6872, 1632.9902, 180.0000, -180.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+obj = CreateDynamicObject(19366, 1860.6883, -1679.6634, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19429, 1861.9493, -1687.6302, 1632.9874, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+obj = CreateDynamicObject(19366, 1860.6866, -1686.0837, 1633.7209, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1866.4620, -1676.4521, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1876.0716, -1682.9449, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2366, 1897.5780, -1687.2945, 1635.4293, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(19366, 1868.9431, -1682.8546, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1862.9599, -1692.4842, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1875.9237, -1695.6307, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19366, 1862.9599, -1689.2740, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1865.4503, -1682.8536, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1865.4510, -1686.0633, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1868.9431, -1686.0653, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(11686, 1859.0340, -1680.5107, 1633.6649, 0.0000, 0.0000, -90.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterial(obj, 0, 1560, "7_11_door", "cj_sheetmetal2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "wtmetal3", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1560, "7_11_door", "cj_sheetmetal2", 0xFF252527);
+SetDynamicObjectMaterial(obj, 3, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+SetDynamicObjectMaterial(obj, 4, 6284, "bev_law2", "studwalltop_law", 0xFF515459);
+obj = CreateDynamicObject(19429, 1861.9399, -1678.1495, 1632.9874, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+obj = CreateDynamicObject(11686, 1862.3458, -1685.3116, 1633.6649, 0.0000, 0.0000, 90.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterial(obj, 0, 1560, "7_11_door", "cj_sheetmetal2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "wtmetal3", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1560, "7_11_door", "cj_sheetmetal2", 0xFF252527);
+SetDynamicObjectMaterial(obj, 3, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+SetDynamicObjectMaterial(obj, 4, 6284, "bev_law2", "studwalltop_law", 0xFF515459);
+obj = CreateDynamicObject(19366, 1865.4503, -1679.6628, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1866.4599, -1689.2640, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1886.1579, -1674.8144, 1628.6634, 90.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19087, 1870.0150, -1679.6208, 1634.5577, -90.0000, 90.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1857.6042, -1685.8642, 1633.9355, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1862.9599, -1673.2613, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19429, 1868.4023, -1684.8310, 1633.8686, -90.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1865.3612, -1684.2523, 1632.9178, 0.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1869.2738, -1679.6202, 1632.6778, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1868.4023, -1681.3310, 1633.8686, -90.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1867.6832, -1679.6202, 1632.9178, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1865.3612, -1685.7906, 1632.9178, 0.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(14820, 1867.8187, -1683.5827, 1634.5888, 0.0000, 0.0000, -90.0000,-1,14); //dj_stuffnrp00
+obj = CreateDynamicObject(19429, 1865.3612, -1680.3409, 1632.9178, 0.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1865.3612, -1681.8319, 1632.9178, 0.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1869.2838, -1684.8321, 1634.3393, 0.0000, 90.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1866.0819, -1679.6202, 1632.9178, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1869.9936, -1684.8321, 1633.6186, 90.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1869.2738, -1686.5035, 1632.6678, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19087, 1870.0150, -1682.0616, 1634.5577, -90.0000, 0.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19087, 1870.0150, -1679.6108, 1634.5577, -90.0000, 0.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19087, 1870.0150, -1679.6308, 1634.5577, 0.0000, 0.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19087, 1870.0150, -1684.0726, 1634.5577, -90.0000, 0.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19087, 1870.0150, -1683.0815, 1634.5577, 0.0000, 0.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19087, 1870.0150, -1686.5229, 1634.5577, -90.0000, 0.0000, -90.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19087, 1870.0150, -1686.5229, 1634.5577, 0.0000, 0.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19610, 1867.8629, -1684.6683, 1634.4923, 0.0000, 0.0000, -82.9999,-1,14); //Microphone1nrp00
+obj = CreateDynamicObject(2190, 1867.7628, -1685.3615, 1634.1428, -26.7999, -13.5000, -166.6999,-1,14); //PC_1nrp00
+SetDynamicObjectMaterialText(obj, 2, "105 dB", 140, "Arial", 105, 1, 0xFF840410, 0x0, 1);
+obj = CreateDynamicObject(19429, 1867.4614, -1681.3302, 1633.6783, -90.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19939, 1868.1523, -1686.0012, 1634.4654, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2315, 1867.8696, -1683.6794, 1633.9936, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TV_TABLE4nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19429, 1869.2838, -1681.3514, 1634.3393, 0.0000, 90.0000, -90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19429, 1867.6822, -1686.5035, 1632.9178, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(19893, 1868.3431, -1681.1191, 1634.6866, 24.4999, 0.0000, -85.9000,-1,14); //LaptopSAMP1nrp00
+SetDynamicObjectMaterial(obj, 1, 9514, "711_sfw", "ws_carpark2", 0xFF000000);
+obj = CreateDynamicObject(1954, 1867.8242, -1682.1075, 1634.5797, 0.0000, 0.0000, 0.0000,-1,14); //turn_table_Rnrp00
+obj = CreateDynamicObject(1953, 1867.7757, -1682.1081, 1634.6434, 0.0000, 0.0000, 0.0000,-1,14); //turn_plater_Rnrp00
+obj = CreateDynamicObject(1958, 1867.9011, -1681.1933, 1634.4780, 0.0000, 0.0000, -90.0000,-1,14); //mxr_mix_bodynrp00
+obj = CreateDynamicObject(1958, 1867.9011, -1681.5135, 1634.4780, 0.0000, 0.0000, -90.0000,-1,14); //mxr_mix_bodynrp00
+obj = CreateDynamicObject(1957, 1867.8336, -1680.6101, 1634.5753, 0.0000, 0.0000, 0.0000,-1,14); //turn_tableLnrp00
+obj = CreateDynamicObject(19421, 1867.5566, -1684.6577, 1634.5354, 44.1999, 0.0000, -14.1997,-1,14); //headphones01nrp00
+obj = CreateDynamicObject(1666, 1867.7541, -1679.9399, 1634.5588, 0.0000, 0.0000, 0.0000,-1,14); //propbeerglass1nrp00
+obj = CreateDynamicObject(19421, 1867.7679, -1681.7917, 1634.4897, 24.5000, 0.0000, -14.1997,-1,14); //headphones01nrp00
+obj = CreateDynamicObject(19087, 1868.3846, -1682.8476, 1635.2541, 0.0000, 0.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2231, 1868.7469, -1679.6451, 1634.7762, 0.0000, 0.0000, -45.0000,-1,14); //SWANK_SPEAKER_3nrp00
+SetDynamicObjectMaterial(obj, 2, 8844, "flmngoland", "vgschurchwall05_128", 0xFF840410);
+SetDynamicObjectMaterial(obj, 3, 8844, "flmngoland", "vgschurchwall05_128", 0xFF840410);
+obj = CreateDynamicObject(19087, 1868.3846, -1679.6263, 1635.2541, 0.0000, 0.0000, 0.0000,-1,14); //Rope1nrp00
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1863.6584, -1695.1240, 1638.6363, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(1839, 1867.5357, -1683.3609, 1633.8853, 0.0000, 0.0000, 0.0000,-1,14); //k_hifi_1nrp00
+obj = CreateDynamicObject(2260, 1906.0667, -1682.8850, 1635.8670, 0.0000, 0.0000, 90.0000,-1,14); //Frame_SLIM_1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 0, 0xFFFFFFFF, 0x0, 1);
+SetDynamicObjectMaterialText(obj, 1, "Security", 140, "Verdana", 80, 1, 0xFFFFFFFF, 0x0, 1);
+obj = CreateDynamicObject(2315, 1867.8696, -1681.5080, 1633.9936, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TV_TABLE4nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19429, 1867.4614, -1684.8216, 1633.6783, -90.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19429, 1869.9936, -1681.3310, 1633.6186, -90.0000, 0.0000, 0.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF263739);
+obj = CreateDynamicObject(2190, 1867.7628, -1685.3615, 1634.1428, -26.7999, -13.5000, -166.6999,-1,14); //PC_1nrp00
+obj = CreateDynamicObject(19378, 1875.6621, -1676.4696, 1633.2657, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFF252527);
+obj = CreateDynamicObject(19366, 1868.9427, -1676.4730, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19366, 1870.6142, -1676.4327, 1631.8747, 90.0000, 90.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1868.9427, -1692.4254, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19366, 1868.9427, -1689.2351, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19378, 1875.6621, -1695.7331, 1633.2657, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFF000000);
+obj = CreateDynamicObject(19378, 1886.1479, -1676.4696, 1633.2657, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFF252527);
+obj = CreateDynamicObject(19366, 1870.6241, -1686.0362, 1631.8691, 0.0000, 0.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19378, 1875.6673, -1674.8144, 1628.6634, 90.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(1640, 1878.0124, -1679.0438, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2425, 1858.7246, -1683.9022, 1634.6910, 0.0000, 0.0000, 90.0000,-1,14); //CJ_FF_JUICEnrp00
+obj = CreateDynamicObject(19429, 1859.4388, -1678.1295, 1632.9874, 0.0000, 0.0000, 90.0000,-1,14); //wall069nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+obj = CreateDynamicObject(19939, 1862.0649, -1680.3210, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19366, 1868.9427, -1673.2618, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19366, 1866.6202, -1694.0102, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19378, 1888.1971, -1676.9139, 1628.8133, 90.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19378, 1888.1971, -1687.4134, 1628.8133, 90.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1869.8353, -1671.5832, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1876.2153, -1671.5832, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(2366, 1872.7175, -1666.7349, 1633.6488, 0.0000, 0.0000, 45.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(19366, 1863.4228, -1671.7229, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1870.6142, -1689.3452, 1631.8747, 90.0000, 90.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1863.4403, -1694.0102, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1868.1319, -1692.4895, 1631.8691, 0.0000, 0.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1869.1125, -1687.5964, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1869.1040, -1678.1335, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19378, 1886.1665, -1690.8852, 1628.6634, 90.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19378, 1875.6773, -1690.8852, 1628.6634, 90.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1860.6778, -1692.4840, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1857.1767, -1676.4719, 1633.8409, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFF585853);
+obj = CreateDynamicObject(19366, 1870.6241, -1679.6539, 1631.8691, 0.0000, 0.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19378, 1856.2016, -1679.7054, 1638.5904, 0.0000, 85.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(18762, 1851.9255, -1687.5273, 1635.6339, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1870.6241, -1682.8242, 1631.8691, 0.0000, 0.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(2773, 1859.7818, -1673.0006, 1634.4781, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19366, 1873.0354, -1671.5832, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1882.6363, -1671.5832, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19366, 1879.4256, -1671.5832, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(2773, 1859.7818, -1676.7906, 1634.4781, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(1640, 1874.1108, -1686.7165, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2773, 1859.7818, -1689.0235, 1634.4781, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(2773, 1859.7818, -1692.8249, 1634.4781, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19366, 1866.6230, -1671.7229, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19122, 1850.4437, -1683.1090, 1635.8443, 0.0000, 0.0000, 0.0000,-1,14); //BollardLight2nrp00
+obj = CreateDynamicObject(19325, 1852.1258, -1682.8625, 1634.2861, 0.0000, 0.0000, -180.0000,-1,14); //lsmall_window01nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 140, "Palatino Linotype", 105, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2425, 1858.7246, -1686.3238, 1634.6910, 0.0000, 0.0000, 90.0000,-1,14); //CJ_FF_JUICEnrp00
+obj = CreateDynamicObject(11686, 1859.0340, -1685.3116, 1633.6649, 0.0000, 0.0000, -90.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 90, "Arial", 0, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 0, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 1560, "7_11_door", "cj_sheetmetal2", 0xFF252527);
+SetDynamicObjectMaterial(obj, 3, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+SetDynamicObjectMaterial(obj, 4, 6284, "bev_law2", "studwalltop_law", 0xFF515459);
+obj = CreateDynamicObject(11687, 1863.7164, -1685.8642, 1633.8457, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1863.7164, -1679.8940, 1633.8457, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1863.7164, -1681.0749, 1633.8457, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1857.6456, -1684.6966, 1633.9355, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1863.7164, -1683.5062, 1633.8457, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1863.7164, -1682.3149, 1633.8457, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19939, 1859.3254, -1684.4438, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1685.4250, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1686.2263, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1687.1158, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1683.4532, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1682.4830, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1681.4919, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1680.4914, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1679.4912, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1859.3254, -1678.5506, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(2293, 1852.5437, -1691.6070, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2196, 1868.2391, -1681.0179, 1634.6505, 0.0000, 0.0000, -151.2998,-1,14); //WORK_LAMP1nrp00
+obj = CreateDynamicObject(19325, 1852.0345, -1690.7099, 1634.2159, 0.0000, 0.0000, -180.0000,-1,14); //lsmall_window01nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 140, "Palatino Linotype", 100, 0, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(19378, 1880.4537, -1666.8408, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1693.5660, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1692.5858, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1863.7164, -1684.6966, 1633.8457, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1859.8968, -1694.1622, 1632.9853, 0.0000, 0.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(2293, 1852.5437, -1690.6274, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1886.1479, -1686.0887, 1633.2657, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFF252527);
+obj = CreateDynamicObject(11687, 1857.6053, -1683.5062, 1633.9256, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1856.1944, -1694.1212, 1638.6146, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1872.1601, -1679.0438, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1689.6477, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1688.6678, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1688.6678, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1853.5345, -1693.5660, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1854.5156, -1693.5660, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1855.4958, -1693.5660, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1857.6440, -1682.3149, 1633.9256, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1857.5649, -1681.0749, 1633.9658, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1857.5351, -1679.8437, 1633.9558, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2179, 1870.3144, -1687.3712, 1635.3404, 0.0000, 0.0000, 0.0000,-1,14); //Casino_light1nrp00
+obj = CreateDynamicObject(19122, 1845.2041, -1682.4281, 1640.8138, 0.0000, 0.0000, 0.0000,-1,14); //BollardLight2nrp00
+obj = CreateDynamicObject(2179, 1870.3144, -1678.4194, 1635.3404, 0.0000, 0.0000, 0.0000,-1,14); //Casino_light1nrp00
+obj = CreateDynamicObject(19366, 1882.8913, -1673.2547, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19819, 1858.8900, -1686.0509, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1858.7397, -1686.0509, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1859.0400, -1686.0509, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1859.1903, -1686.0509, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1859.1202, -1685.9206, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1858.9698, -1685.9206, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1858.8199, -1685.9206, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1858.6695, -1685.9206, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1859.2696, -1685.9206, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1859.1894, -1685.7906, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1859.0395, -1685.7906, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1858.8894, -1685.7906, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1858.7392, -1685.7906, 1634.9453, 180.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19818, 1858.8216, -1685.6694, 1634.9775, 180.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1858.9516, -1685.6694, 1634.9775, 180.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1859.1019, -1685.6694, 1634.9775, 180.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1859.0218, -1685.5793, 1634.9775, 180.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1858.8917, -1685.5593, 1634.9775, 180.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1858.9615, -1685.4692, 1634.9775, 180.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1859.1019, -1685.4692, 1634.9775, 180.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(1546, 1859.0766, -1686.3387, 1634.8863, 0.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.0366, -1684.7185, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.0366, -1684.5683, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.1767, -1684.5683, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.8962, -1684.5683, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.7563, -1684.5683, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.8962, -1684.7185, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.7563, -1684.7286, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.0766, -1683.9189, 1634.8863, 0.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.1767, -1684.7185, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.1767, -1684.8486, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.0366, -1684.8486, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.8962, -1684.8486, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.7563, -1684.8486, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.7563, -1684.9787, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.9062, -1684.9787, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.0366, -1684.9787, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.1866, -1684.9787, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.4167, -1682.2375, 1634.5261, 0.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.1866, -1684.9787, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.1866, -1685.1186, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.0466, -1685.1186, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.9165, -1685.1186, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1858.7663, -1685.1186, 1634.8564, 180.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.4167, -1681.4870, 1634.5261, 0.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.4167, -1679.5460, 1634.5261, 0.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(1546, 1859.4167, -1679.3060, 1634.5261, 0.0000, 0.0000, 0.0000,-1,14); //CJ_PINT_GLASSnrp00
+SetDynamicObjectMaterial(obj, 2, 14593, "papaerchaseoffice", "glassPartition", 0xFFFFFFFF);
+obj = CreateDynamicObject(19812, 1859.4409, -1679.1982, 1633.8540, 0.0000, 0.0000, 78.2994,-1,14); //BeerKeg1nrp00
+obj = CreateDynamicObject(19378, 1850.2757, -1694.1622, 1632.9853, 0.0000, 0.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1868.0434, -1668.2038, 1632.9853, 0.0000, 0.0000, -45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19810, 1859.8243, -1689.9630, 1634.8850, 0.0000, 0.0000, -104.2994,-1,14); //StaffOnlySign1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 0, 0xFF252527, 0xFF252527, 1);
+obj = CreateDynamicObject(19366, 1868.1319, -1689.2873, 1631.8691, 0.0000, 0.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(19916, 1862.2209, -1679.4305, 1632.4737, 0.0000, 0.0000, -90.0000,-1,14); //CutsceneFridge1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 6284, "bev_law2", "studwalltop_law", 0xFF3F3E45);
+obj = CreateDynamicObject(19378, 1861.2259, -1697.5395, 1632.9853, 0.0000, 0.0000, -45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19939, 1862.0649, -1681.3121, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1862.0649, -1682.3027, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1862.0649, -1683.2933, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1862.0649, -1684.2843, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1862.0649, -1685.2750, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1862.0649, -1686.2652, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(19939, 1862.0649, -1687.2054, 1634.4570, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFFAFB1B1);
+obj = CreateDynamicObject(2293, 1852.5437, -1672.1750, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1673.1545, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1674.1352, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1675.1147, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1868.1439, -1673.2435, 1631.8691, 0.0000, 0.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(2293, 1852.5437, -1676.0959, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1677.0666, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1853.5245, -1672.1750, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1854.5050, -1672.1750, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1875.9177, -1670.0445, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(2293, 1855.4858, -1672.1750, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1909.6711, -1680.2065, 1638.1153, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(16088, 1852.6571, -1675.2978, 1638.9422, 0.0000, 90.0000, 0.0000,-1,14); //des_pipestrut01nrp00
+SetDynamicObjectMaterial(obj, 0, 18217, "mtbfencecs_t", "steel256256", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1679.5067, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1680.4565, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1681.4166, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19327, 1854.7802, -1691.7991, 1634.2551, -90.0000, 102.7000, 45.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(1827, 1854.7993, -1691.8033, 1633.8254, 0.0000, 0.0000, 0.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(2293, 1852.5437, -1684.3277, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1685.2978, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1852.5437, -1686.2788, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1868.1439, -1676.4531, 1631.8691, 0.0000, 0.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(1827, 1854.3387, -1689.5821, 1633.8254, 0.0000, 0.0000, 0.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(19378, 1875.9177, -1660.4239, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(1640, 1881.9029, -1679.0438, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1889.4941, -1709.7468, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1894.4245, -1698.9675, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(1640, 1881.9029, -1682.9449, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1872.1601, -1686.7165, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1886.4132, -1660.4350, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19378, 1874.8542, -1661.3929, 1632.9853, 0.0000, 0.0000, -45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1869.9538, -1666.8408, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1890.9532, -1666.8408, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1890.9532, -1657.2319, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1880.4537, -1657.2099, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1889.0472, -1671.5832, 1631.8691, 0.0000, 0.0000, 90.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFF0E316D);
+obj = CreateDynamicObject(1839, 1867.5357, -1682.7009, 1633.8853, 0.0000, 0.0000, 0.0000,-1,14); //k_hifi_1nrp00
+obj = CreateDynamicObject(19378, 1856.2016, -1670.0865, 1638.5904, 0.0000, 85.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(1956, 1867.7729, -1680.6103, 1634.6451, 0.0000, 0.0000, 0.0000,-1,14); //turn_platerLnrp00
+obj = CreateDynamicObject(2260, 1906.0667, -1682.8850, 1635.8670, 0.0000, 0.0000, 90.0000,-1,14); //Frame_SLIM_1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 0, 0xFF515459, 0x0, 1);
+SetDynamicObjectMaterialText(obj, 1, "________", 140, "Verdana", 80, 1, 0xFFFFFFFF, 0x0, 1);
+obj = CreateDynamicObject(19903, 1905.3658, -1682.9498, 1635.4438, 0.0000, 0.0000, -180.0000,-1,14); //MechanicComputer1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 2);
+SetDynamicObjectMaterial(obj, 1, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 2);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 2);
+obj = CreateDynamicObject(1640, 1909.6711, -1680.2065, 1636.1745, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1869.9641, -1657.2099, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1865.4432, -1708.4720, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19378, 1854.9514, -1708.4720, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19378, 1854.9514, -1718.1031, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19462, 1894.4245, -1708.6070, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1862.8640, -1699.3138, 1638.5904, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1852.3641, -1699.3138, 1638.5904, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1853.0660, -1700.9289, 1633.8861, 0.0000, 0.0000, -90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(2231, 1868.3292, -1683.2015, 1634.7762, 0.0000, 0.0000, -144.5000,-1,14); //SWANK_SPEAKER_3nrp00
+SetDynamicObjectMaterial(obj, 2, 8844, "flmngoland", "vgschurchwall05_128", 0xFF840410);
+SetDynamicObjectMaterial(obj, 3, 8844, "flmngoland", "vgschurchwall05_128", 0xFF840410);
+obj = CreateDynamicObject(19378, 1880.3049, -1661.0539, 1638.8353, 0.0000, 0.0000, -90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(2232, 1889.7629, -1676.6844, 1638.0799, 163.6000, 0.0000, 153.1997,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(2232, 1889.6042, -1688.9798, 1638.2003, 162.6000, 0.0000, 13.6000,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(19383, 1863.4978, -1709.6545, 1635.2397, 0.0000, 0.0000, 90.0000,-1,14); //wall031nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1866.3956, -1701.9792, 1633.8059, 0.0000, 0.0000, -90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(18980, 1885.1888, -1661.2436, 1635.1273, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(18980, 1875.6678, -1661.2735, 1635.1273, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(18762, 1862.8282, -1695.9006, 1638.6135, 90.0000, 0.0000, -45.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1867.1688, -1708.3159, 1633.6158, 0.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1868.4792, -1706.2524, 1633.6556, 0.0000, 0.0000, -45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(2010, 1918.6434, -1685.0135, 1638.6429, 0.0000, 0.0000, -90.0000,-1,14); //nu_plant3_ofcnrp00
+SetDynamicObjectMaterial(obj, 1, 16640, "a51", "concretegroundl1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1355, "break_s_bins", "dirt64b", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1867.8028, -1704.9376, 1633.6157, 0.0000, 0.0000, 45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19427, 1867.7818, -1695.2301, 1638.6363, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1902.0118, -1670.3476, 1626.6042, -180.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19325, 1852.0345, -1674.3186, 1634.2159, 0.0000, 0.0000, -180.0000,-1,14); //lsmall_window01nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 140, "Palatino Linotype", 100, 0, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2010, 1918.6434, -1680.7319, 1638.6429, 0.0000, 0.0000, -90.0000,-1,14); //nu_plant3_ofcnrp00
+SetDynamicObjectMaterial(obj, 1, 16640, "a51", "concretegroundl1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1355, "break_s_bins", "dirt64b", 0xFFFFFFFF);
+obj = CreateDynamicObject(1886, 1918.6308, -1685.2683, 1642.3564, 21.3999, 0.0000, -131.8000,-1,14); //shop_sec_camnrp00
+obj = CreateDynamicObject(2366, 1869.4349, -1670.0175, 1633.6488, 0.0000, 0.0000, 45.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(19427, 1861.3940, -1697.3884, 1635.1352, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1861.3940, -1697.3884, 1638.6362, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1863.2696, -1699.7423, 1638.6164, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1865.5327, -1697.4792, 1635.1352, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(2366, 1890.6378, -1688.4046, 1633.6488, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(18980, 1852.3636, -1671.5738, 1638.6146, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1864.3646, -1671.5738, 1625.6356, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19383, 1863.4978, -1709.9249, 1635.2397, 0.0000, 0.0000, 90.0000,-1,14); //wall031nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF86446E);
+obj = CreateDynamicObject(19353, 1860.2871, -1709.6540, 1635.2380, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19446, 1853.2386, -1714.6893, 1635.2342, 0.0000, 0.0000, 0.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF2A77A1);
+obj = CreateDynamicObject(19427, 1865.5327, -1697.4792, 1638.6367, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1867.7818, -1695.2301, 1635.1352, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1859.1300, -1699.6523, 1635.1352, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1859.1300, -1699.6523, 1638.6357, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1864.3646, -1694.1152, 1625.6356, 0.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1863.2696, -1699.7423, 1635.1352, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1859.3000, -1699.4288, 1638.6135, 90.0000, 0.0000, -45.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1866.8758, -1696.1048, 1638.6335, 90.0000, -45.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1863.6584, -1695.1240, 1635.1352, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1863.3470, -1699.6335, 1638.6335, 90.0000, -45.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1861.2253, -1701.7556, 1636.0345, 0.0000, 0.0000, -45.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1861.2253, -1701.7556, 1631.0343, 0.0000, 0.0000, -45.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1857.8841, -1700.8447, 1635.6228, 0.0000, 0.0000, -45.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1864.6350, -1714.5821, 1637.0709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF86446E);
+obj = CreateDynamicObject(19427, 1869.4787, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19378, 1854.9527, -1698.8408, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19353, 1857.0769, -1709.6540, 1638.7391, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(18980, 1877.1777, -1702.8237, 1638.6146, 90.0000, 0.0000, 45.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1894.4753, -1708.2336, 1638.6146, 90.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1895.6988, -1704.1350, 1638.6146, 90.0000, 0.0000, -30.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1853.2452, -1714.5821, 1637.0709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF2A77A1);
+obj = CreateDynamicObject(18980, 1898.2176, -1699.7712, 1625.6251, 0.0000, 0.0000, -30.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1859.4260, -1670.0825, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1859.4460, -1679.7126, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1869.9259, -1670.0825, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1869.9259, -1660.4527, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1880.4255, -1670.0825, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1890.9256, -1670.0825, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1890.9256, -1660.4425, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1859.4460, -1689.3220, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1866.4431, -1679.7087, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(18980, 1873.3442, -1662.8829, 1638.6146, 90.0000, 0.0000, -45.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1877.9593, -1671.1771, 1633.9658, 0.0000, 90.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1890.9458, -1664.1601, 1638.6146, 90.0000, 0.0000, 60.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1852.3614, -1702.6958, 1633.8861, 0.0000, 0.0000, -45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1876.9348, -1695.6628, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1869.9433, -1679.7087, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1869.9433, -1689.3386, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1869.9433, -1698.9691, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1887.4237, -1695.6628, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1894.4245, -1679.7169, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1876.9145, -1686.2330, 1640.0207, 15.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1887.4145, -1686.2330, 1640.0207, 15.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1876.6550, -1679.6688, 1640.1263, 0.0000, 75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(16088, 1861.5438, -1682.5865, 1638.9422, 0.0000, 90.0000, 0.0000,-1,14); //des_pipestrut01nrp00
+SetDynamicObjectMaterial(obj, 0, 18217, "mtbfencecs_t", "steel256256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1873.2928, -1689.2884, 1639.2253, 0.0000, 75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1873.2928, -1679.6688, 1639.2253, 0.0000, 75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1876.6550, -1689.2884, 1640.1263, 0.0000, 75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1876.9145, -1679.5355, 1640.0184, -15.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1880.0063, -1679.6688, 1641.0240, 0.0000, 75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1878.5887, -1703.7447, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1887.4051, -1679.5355, 1640.0184, -15.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(2232, 1889.0898, -1676.4079, 1638.0803, 159.8999, 0.0000, 135.0997,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(19378, 1864.9155, -1698.1037, 1632.9853, 0.0000, 0.0000, -45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1894.4245, -1689.3376, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1862.8640, -1699.3138, 1638.5904, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1862.8640, -1708.9532, 1638.5904, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19940, 1862.7192, -1709.7910, 1633.0522, 90.0000, 90.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19353, 1860.2871, -1709.6540, 1638.6988, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19353, 1863.4969, -1709.6540, 1638.6988, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1866.4431, -1689.3292, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1890.9842, -1689.3077, 1639.2292, 0.0000, -75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1890.9842, -1679.6782, 1639.2292, 0.0000, -75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1887.6301, -1679.6782, 1640.1289, 0.0000, -75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1871.7613, -1697.7795, 1632.9853, 0.0000, 0.0000, 45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1887.6301, -1689.3122, 1640.1289, 0.0000, -75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1851.6612, -1702.6853, 1633.8861, 0.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19462, 1884.2496, -1679.6782, 1641.0350, 0.0000, -75.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(16088, 1882.2351, -1690.1765, 1646.5041, 0.0000, -180.0000, 90.0000,-1,14); //des_pipestrut01nrp00
+SetDynamicObjectMaterial(obj, 0, 18217, "mtbfencecs_t", "steel256256", 0xFFFFFFFF);
+obj = CreateDynamicObject(16088, 1882.2351, -1675.5743, 1646.5041, 0.0000, -180.0000, 90.0000,-1,14); //des_pipestrut01nrp00
+SetDynamicObjectMaterial(obj, 0, 18217, "mtbfencecs_t", "steel256256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1880.4255, -1660.6235, 1640.0249, 15.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1852.8852, -1702.1848, 1635.1352, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(2232, 1888.9635, -1689.2535, 1638.1711, 162.6000, 0.0000, 49.0998,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(19462, 1884.0721, -1663.6986, 1639.3830, 0.0000, -70.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1851.9892, -1706.6074, 1633.8861, 0.0000, 0.0000, 50.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19383, 1857.0885, -1709.6545, 1635.2397, 0.0000, 0.0000, 90.0000,-1,14); //wall031nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19427, 1852.8852, -1702.1848, 1638.6368, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(11726, 1860.3220, -1706.4593, 1637.5539, 0.0000, 0.0000, 0.0000,-1,14); //HangingLight1nrp00
+obj = CreateDynamicObject(2271, 1862.3956, -1709.0727, 1634.8159, 0.0000, 0.0000, 180.0000,-1,14); //Frame_WOOD_1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 90, "Arial", 0, 0, 0xFFFFFFFF, 0x0, 1);
+SetDynamicObjectMaterialText(obj, 1, "Z", 90, "Webdings", 100, 1, 0xFF7B0A2A, 0x0, 1);
+obj = CreateDynamicObject(19427, 1853.6571, -1707.9997, 1638.6357, 0.0000, 0.0000, 50.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(2271, 1858.2136, -1709.0732, 1634.3857, 0.0000, 0.0000, 180.0000,-1,14); //Frame_WOOD_1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 0, 0xFFFFFFFF, 0x0, 1);
+SetDynamicObjectMaterialText(obj, 1, "Gents", 90, "Palatino Linotype", 40, 1, 0xFF4C75B7, 0x0, 1);
+obj = CreateDynamicObject(19427, 1853.6571, -1707.9997, 1635.1352, 0.0000, 0.0000, 50.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1865.9425, -1703.0841, 1635.1352, 0.0000, 0.0000, 45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1865.9425, -1703.0841, 1638.6356, 0.0000, 0.0000, 45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1866.0958, -1708.6267, 1635.1352, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1866.0958, -1708.6267, 1638.6256, 0.0000, 0.0000, -45.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1860.2889, -1709.6201, 1635.1356, 0.0000, 0.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1876.7978, -1660.4798, 1639.3686, 0.0000, 70.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 6522, "cuntclub_law2", "marinawindow1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1876.9348, -1705.2928, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1887.4248, -1705.2928, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(16088, 1882.2351, -1682.8750, 1648.7657, 0.0000, -180.0000, 90.0000,-1,14); //des_pipestrut01nrp00
+SetDynamicObjectMaterial(obj, 0, 18217, "mtbfencecs_t", "steel256256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1860.2889, -1709.6201, 1638.6262, 0.0000, 0.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1853.5140, -1679.5067, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(1491, 1875.7009, -1662.2934, 1632.2159, 0.0000, 0.0000, -90.0000,-1,14); //Gen_doorINT01nrp00
+SetDynamicObjectMaterial(obj, 0, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1865.4414, -1718.1031, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(1491, 1885.0681, -1662.2778, 1632.2458, 0.0000, 0.0000, -90.0000,-1,14); //Gen_doorINT01nrp00
+SetDynamicObjectMaterial(obj, 0, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(11686, 1882.7983, -1664.1107, 1633.6649, 0.0000, 0.0000, 0.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterial(obj, 0, 1560, "7_11_door", "cj_sheetmetal2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "wtmetal3", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1560, "7_11_door", "cj_sheetmetal2", 0xFF252527);
+SetDynamicObjectMaterial(obj, 3, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1884.6910, -1665.5445, 1633.6555, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1882.9293, -1671.1771, 1633.9658, 0.0000, 90.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11686, 1882.7794, -1661.3802, 1633.6649, 0.0000, 0.0000, 180.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterial(obj, 0, 1560, "7_11_door", "cj_sheetmetal2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "wtmetal3", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1560, "7_11_door", "cj_sheetmetal2", 0xFF252527);
+SetDynamicObjectMaterial(obj, 3, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19916, 1882.6245, -1661.3271, 1632.3221, 0.0000, 0.0000, 0.0000,-1,14); //CutsceneFridge1nrp00
+obj = CreateDynamicObject(11686, 1878.0078, -1664.1107, 1633.6649, 0.0000, 0.0000, 0.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterial(obj, 0, 1560, "7_11_door", "cj_sheetmetal2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "wtmetal3", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1560, "7_11_door", "cj_sheetmetal2", 0xFF252527);
+SetDynamicObjectMaterial(obj, 3, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(11686, 1877.9798, -1661.3802, 1633.6649, 0.0000, 0.0000, 180.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterial(obj, 0, 1560, "7_11_door", "cj_sheetmetal2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "wtmetal3", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1560, "7_11_door", "cj_sheetmetal2", 0xFF252527);
+SetDynamicObjectMaterial(obj, 3, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19810, 1902.0024, -1673.3049, 1637.1258, 0.0000, 0.0000, 90.0000,-1,14); //StaffOnlySign1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 90, "Arial", 0, 1, 0xFF252527, 0xFF252527, 0);
+obj = CreateDynamicObject(11686, 1875.8592, -1659.8900, 1633.6649, 0.0000, 0.0000, -90.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 90, "Arial", 0, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 0, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, ".", 90, "Arial", 0, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 3, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19916, 1881.8144, -1661.3271, 1632.3221, 0.0000, 0.0000, 0.0000,-1,14); //CutsceneFridge1nrp00
+obj = CreateDynamicObject(19865, 1877.9857, -1671.6041, 1633.4653, 0.0000, 0.0000, 90.0000,-1,14); //MIFenceWood1nrp00
+SetDynamicObjectMaterial(obj, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0xFFFFFFFF);
+obj = CreateDynamicObject(19865, 1882.9150, -1671.6041, 1633.4653, 0.0000, 0.0000, 90.0000,-1,14); //MIFenceWood1nrp00
+SetDynamicObjectMaterial(obj, 0, 3850, "carshowglass_sfsx", "ws_glass_balustrade_better", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1877.0295, -1670.1075, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1878.0096, -1670.1075, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1878.9897, -1670.1075, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1878.9897, -1669.1279, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1881.9316, -1669.1269, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1881.9316, -1670.1075, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1882.9123, -1670.1075, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1883.8933, -1670.1075, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1884.8630, -1670.1075, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1876.0589, -1670.1075, 1633.6451, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19943, 1880.5035, -1670.1593, 1631.6357, 0.0000, 0.0000, 0.0000,-1,14); //StonePillar1nrp00
+obj = CreateDynamicObject(19427, 1879.9425, -1695.7578, 1633.0340, -90.0000, 90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(2773, 1876.4016, -1695.3037, 1635.9287, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(1827, 1854.3188, -1681.2790, 1633.8254, 0.0000, 0.0000, 0.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(16088, 1852.6571, -1690.4283, 1638.9422, 0.0000, 90.0000, 0.0000,-1,14); //des_pipestrut01nrp00
+SetDynamicObjectMaterial(obj, 0, 18217, "mtbfencecs_t", "steel256256", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1854.4947, -1679.5067, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1853.5227, -1686.2788, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1854.5035, -1686.2788, 1633.9056, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19327, 1854.2573, -1684.4014, 1634.2551, -90.0000, -43.2999, 45.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(19327, 1854.3498, -1681.2625, 1634.2551, -90.0000, -43.2999, 45.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(19327, 1854.3360, -1676.4538, 1634.2551, -90.0000, 79.2000, 45.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(18762, 1868.1970, -1694.1184, 1635.6234, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19366, 1886.3924, -1673.2547, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall014nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19378, 1899.1230, -1699.2468, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(1827, 1854.3188, -1676.4886, 1633.8254, 0.0000, 0.0000, 0.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(1827, 1854.7690, -1674.0981, 1633.8254, 0.0000, 0.0000, 0.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(19327, 1854.7789, -1674.0750, 1634.2551, -90.0000, -110.7999, 45.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(2366, 1889.6168, -1692.6735, 1633.6488, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(19427, 1871.0777, -1695.7469, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19943, 1880.7038, -1696.6496, 1631.6357, 0.0000, 0.0000, 0.0000,-1,14); //StonePillar1nrp00
+obj = CreateDynamicObject(19427, 1879.0821, -1698.3061, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1889.1811, -1663.3049, 1632.9853, 0.0000, 0.0000, 60.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1856.2016, -1689.3236, 1638.5904, 0.0000, 85.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19427, 1869.4775, -1695.7469, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1872.6789, -1695.7469, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1874.2799, -1695.7469, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1875.8801, -1695.7469, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1871.0782, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1872.6789, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1874.2801, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1875.8812, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1876.6014, -1695.7578, 1634.6153, -90.0000, 90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1876.6014, -1695.7578, 1633.0155, -90.0000, 90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1871.0777, -1699.2458, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1872.6789, -1699.2474, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1874.2799, -1699.2474, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1875.8801, -1699.2469, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1877.4812, -1698.3061, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1886.4132, -1695.6307, 1633.3957, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 18008, "intclothesa", "mp_cloth_vicfloor", 0xFF252527);
+obj = CreateDynamicObject(19427, 1880.6722, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1880.6728, -1695.7446, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1879.9425, -1695.7578, 1634.6153, -90.0000, 90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(2773, 1874.9498, -1694.3537, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(2773, 1872.5195, -1694.3537, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(2773, 1870.0992, -1694.3537, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(2293, 1870.7884, -1695.9443, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1871.4820, -1696.6379, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1872.1759, -1697.3315, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1872.8767, -1698.0323, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1871.4752, -1695.2574, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1873.5627, -1698.7187, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1874.2567, -1699.4127, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1874.9431, -1698.7263, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(1827, 1873.3308, -1695.3769, 1635.3553, 0.0000, 0.0000, -45.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(19327, 1894.2159, -1702.1713, 1635.7858, -90.0000, 0.0000, 30.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(2773, 1880.0622, -1695.3037, 1635.9287, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(2773, 1881.2528, -1695.3037, 1635.9287, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19427, 1880.6728, -1699.2445, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1881.4033, -1695.7478, 1633.0240, -90.0000, 90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1881.4033, -1695.7478, 1634.6153, -90.0000, 90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(14407, 1882.9809, -1694.7374, 1632.2419, 0.0000, 0.0000, 0.0000,-1,14); //carter-stairs01nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1882.2735, -1698.3061, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1883.8745, -1698.3061, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1884.7552, -1695.7478, 1634.6153, -90.0000, 90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1885.4719, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19378, 1900.6927, -1688.7552, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1884.7552, -1695.7478, 1633.0345, -90.0000, 90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(2773, 1884.8940, -1695.3037, 1635.9287, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19378, 1900.6927, -1678.2663, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1887.0528, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1888.6527, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1890.2441, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19378, 1900.6927, -1667.7667, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1851.9333, -1683.0423, 1638.6146, 90.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18762, 1875.4958, -1701.1383, 1635.6157, 0.0000, 0.0000, -45.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1878.8054, -1704.8236, 1632.9853, 0.0000, 0.0000, 45.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19427, 1880.3741, -1661.0738, 1639.9957, 0.0000, 0.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1880.3741, -1661.0738, 1636.5058, 0.0000, 0.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1882.7236, -1661.0616, 1637.1191, 0.0000, 0.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1881.9923, -1660.5511, 1637.1191, 0.0000, 0.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1883.4636, -1660.5511, 1637.1191, 0.0000, 0.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1877.9023, -1661.0616, 1637.1191, 0.0000, 0.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1880.3741, -1661.0738, 1643.4753, 0.0000, 0.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 6988, "vgnfremnt1", "casinolights3_128n", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1882.7236, -1659.6002, 1636.2690, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19818, 1882.1754, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1883.2558, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1882.3054, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1883.1457, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1883.0257, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1882.4250, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1882.5351, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1882.9156, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1882.7955, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19818, 1882.6655, -1661.2214, 1635.6218, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1nrp00
+obj = CreateDynamicObject(19427, 1878.6225, -1660.5511, 1637.1191, 0.0000, 0.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1877.1711, -1660.5511, 1637.1191, 0.0000, 0.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1877.9023, -1659.6002, 1635.4587, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19819, 1877.3691, -1661.2441, 1635.6247, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1878.4300, -1661.2441, 1635.6247, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1878.2602, -1661.2441, 1635.6247, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1877.5500, -1661.2441, 1635.6247, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1877.7202, -1661.2441, 1635.6247, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19819, 1878.0904, -1661.2441, 1635.6247, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1nrp00
+obj = CreateDynamicObject(19824, 1877.9061, -1661.2512, 1635.5487, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle5nrp00
+obj = CreateDynamicObject(19427, 1882.7236, -1659.6002, 1638.7789, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19427, 1877.9023, -1659.6002, 1638.7795, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19427, 1877.9023, -1659.6002, 1636.2895, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19427, 1877.9023, -1659.6002, 1637.1302, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19427, 1877.9023, -1659.6002, 1637.9709, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19820, 1878.3819, -1661.2547, 1636.3675, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle1nrp00
+obj = CreateDynamicObject(19820, 1878.3623, -1661.2547, 1638.0382, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle1nrp00
+obj = CreateDynamicObject(19820, 1877.7816, -1661.2547, 1637.2076, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle1nrp00
+obj = CreateDynamicObject(19823, 1878.1214, -1661.2424, 1636.3762, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle4nrp00
+obj = CreateDynamicObject(19822, 1877.4344, -1661.2497, 1636.3691, 0.0000, 0.0000, 19.7000,-1,14); //AlcoholBottle3nrp00
+obj = CreateDynamicObject(1520, 1877.4914, -1661.2755, 1637.2591, 0.0000, 0.0000, -61.7999,-1,14); //DYN_WINE_BOUNCEnrp00
+obj = CreateDynamicObject(1664, 1877.8177, -1661.2779, 1638.2296, 0.0000, 0.0000, 94.8000,-1,14); //propwinebotl2nrp00
+obj = CreateDynamicObject(1487, 1877.7988, -1661.2445, 1636.5461, 0.0000, 0.0000, 91.9000,-1,14); //DYN_WINE_1nrp00
+obj = CreateDynamicObject(19821, 1878.0913, -1661.2364, 1637.2176, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle2nrp00
+obj = CreateDynamicObject(19823, 1878.0914, -1661.2424, 1638.0561, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle4nrp00
+obj = CreateDynamicObject(2194, 1878.3730, -1661.2883, 1637.5019, 0.0000, 0.0000, 0.0000,-1,14); //Plant_Pot_2nrp00
+obj = CreateDynamicObject(2194, 1877.4820, -1661.2883, 1638.3426, 0.0000, 0.0000, 0.0000,-1,14); //Plant_Pot_2nrp00
+obj = CreateDynamicObject(19378, 1893.3741, -1676.4704, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1893.3741, -1686.1003, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1877.4812, -1701.8061, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1882.7236, -1659.6002, 1635.4587, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19427, 1882.7236, -1659.6002, 1637.1499, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19427, 1882.7236, -1659.6002, 1637.9698, 0.0000, -90.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFF58595A);
+obj = CreateDynamicObject(19824, 1882.2364, -1661.2512, 1636.3586, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle5nrp00
+obj = CreateDynamicObject(19824, 1882.6168, -1661.2512, 1637.2290, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle5nrp00
+obj = CreateDynamicObject(19824, 1883.1571, -1661.2512, 1638.0594, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle5nrp00
+obj = CreateDynamicObject(19822, 1882.5349, -1661.2497, 1636.3492, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle3nrp00
+obj = CreateDynamicObject(19822, 1882.2546, -1661.2497, 1638.0405, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle3nrp00
+obj = CreateDynamicObject(19820, 1882.8829, -1661.2547, 1637.2281, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle1nrp00
+obj = CreateDynamicObject(19821, 1882.9228, -1661.2364, 1638.0483, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle2nrp00
+obj = CreateDynamicObject(19823, 1882.4636, -1661.2424, 1638.0561, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle4nrp00
+obj = CreateDynamicObject(2194, 1882.2546, -1661.2883, 1637.5218, 0.0000, 0.0000, 0.0000,-1,14); //Plant_Pot_2nrp00
+obj = CreateDynamicObject(2194, 1883.2053, -1661.2883, 1637.5218, 0.0000, 0.0000, 0.0000,-1,14); //Plant_Pot_2nrp00
+obj = CreateDynamicObject(2194, 1882.7950, -1661.2883, 1636.6412, 0.0000, 0.0000, 0.0000,-1,14); //Plant_Pot_2nrp00
+obj = CreateDynamicObject(1669, 1883.0389, -1661.2884, 1636.5224, 0.0000, 0.0000, 71.5998,-1,14); //propwinebotl1nrp00
+obj = CreateDynamicObject(1669, 1883.2358, -1661.2696, 1636.5224, 0.0000, 0.0000, 71.5998,-1,14); //propwinebotl1nrp00
+obj = CreateDynamicObject(19427, 1875.8801, -1702.7479, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1893.3741, -1695.7309, 1633.5709, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1879.0821, -1701.8059, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1879.0821, -1705.3055, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1877.4812, -1705.3072, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1917.6662, -1680.2065, 1639.4355, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1917.6662, -1680.2065, 1641.3863, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1880.6728, -1702.7445, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1880.6728, -1706.2457, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1907.8197, -1680.2065, 1636.1745, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1882.2735, -1701.8059, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1882.2735, -1705.3066, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1882.2735, -1708.8061, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1883.8745, -1701.8070, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1883.8745, -1705.3072, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1883.8745, -1708.8070, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19327, 1888.0965, -1705.4659, 1635.7858, -90.0000, 0.0000, 60.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(19427, 1892.7541, -1688.5660, 1633.6745, 0.0000, 180.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19325, 1892.6529, -1683.1726, 1633.0063, 0.0000, 0.0000, 0.0000,-1,14); //lsmall_window01nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 140, "Palatino Linotype", 105, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(11687, 1883.2500, -1665.5445, 1633.6555, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19325, 1892.6628, -1683.0024, 1632.3564, 0.0000, 0.0000, 0.0000,-1,14); //lsmall_window01nrp00
+SetDynamicObjectMaterialText(obj, 0, "premium nightlife", 140, "Palatino Linotype", 50, 0, 0xFFFFFFFF, 0x0, 2);
+obj = CreateDynamicObject(2366, 1893.1843, -1668.2705, 1633.6488, 0.0000, 0.0000, 60.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(1640, 1907.8197, -1680.2065, 1638.1156, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1905.8983, -1680.2065, 1636.1745, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1875.6621, -1686.1029, 1633.2657, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFF252527);
+obj = CreateDynamicObject(2366, 1872.0649, -1692.6735, 1633.4786, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(2661, 1889.9622, -1692.3671, 1634.9348, -90.0000, 0.0000, 180.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(1640, 1905.8983, -1680.2065, 1638.1151, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2661, 1890.9428, -1688.0747, 1634.9348, -90.0000, 0.0000, -90.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(11687, 1876.1673, -1665.5445, 1633.6555, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2366, 1888.4892, -1665.5598, 1633.6488, 0.0000, 0.0000, 60.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(19378, 1897.5212, -1668.1202, 1632.9853, 0.0000, 0.0000, 60.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(2773, 1886.4316, -1694.3537, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(2366, 1890.6378, -1678.3934, 1633.6488, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(19325, 1852.1258, -1680.2519, 1633.5859, 0.0000, 0.0000, -180.0000,-1,14); //lsmall_window01nrp00
+SetDynamicObjectMaterialText(obj, 0, "premium nightlife", 140, "Palatino Linotype", 50, 0, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(19427, 1893.4764, -1681.2370, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2773, 1888.8824, -1694.3537, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19427, 1898.2275, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(2661, 1890.9428, -1678.0832, 1634.9348, -90.0000, 90.0000, 0.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(19427, 1891.8342, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(2661, 1893.0830, -1667.8214, 1634.9348, -90.0000, 90.0000, 60.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(2773, 1891.3332, -1694.3537, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19427, 1893.4344, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(1318, 1909.4555, -1684.5823, 1635.3758, 0.0000, -90.0000, 0.0000,-1,14); //arrownrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2661, 1888.4122, -1665.0904, 1634.9348, -90.0000, 90.0000, 60.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(19943, 1895.8645, -1694.1993, 1631.6357, 0.0000, 0.0000, 0.0000,-1,14); //StonePillar1nrp00
+obj = CreateDynamicObject(19427, 1895.0256, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(2661, 1872.4194, -1692.3671, 1634.7746, -90.0000, 0.0000, 180.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(2661, 1872.6927, -1666.2891, 1634.9348, -90.0000, 90.0000, 135.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(19427, 1896.6263, -1694.0766, 1633.6745, 0.0000, 180.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1895.0769, -1684.7280, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1893.4764, -1684.7280, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2773, 1893.7640, -1694.3537, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(2661, 1869.4040, -1669.5778, 1634.9348, -90.0000, 90.0000, 135.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(2366, 1861.1136, -1673.5095, 1633.9290, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(19446, 1895.9560, -1690.4973, 1633.6666, 0.0000, 0.0000, 0.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19327, 1892.9320, -1695.2792, 1635.7858, -90.0000, 0.0000, 0.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(2366, 1861.1136, -1692.8229, 1633.9290, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(2293, 1877.8962, -1701.6650, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(970, 1896.0373, -1691.7042, 1635.9553, 0.0000, 0.0000, 90.0000,-1,14); //fencesmallbnrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "glass_fence_64hv", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 5406, "jeffers5a_lae", "vgshopwall05_64", 0xFF252527);
+obj = CreateDynamicObject(14407, 1894.6798, -1688.3026, 1632.2219, 0.0000, 0.0000, 180.0000,-1,14); //carter-stairs01nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 1895.0769, -1681.2279, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(970, 1892.7972, -1687.0847, 1635.9553, 0.0000, 0.0000, 90.0000,-1,14); //fencesmallbnrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "glass_fence_64hv", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 5406, "jeffers5a_lae", "vgshopwall05_64", 0xFF252527);
+obj = CreateDynamicObject(970, 1892.7972, -1682.9040, 1635.9553, 0.0000, 0.0000, 90.0000,-1,14); //fencesmallbnrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "glass_fence_64hv", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 5406, "jeffers5a_lae", "vgshopwall05_64", 0xFF252527);
+obj = CreateDynamicObject(19427, 1892.7541, -1686.9659, 1633.6745, 0.0000, 180.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(970, 1892.7972, -1678.7447, 1635.9553, 0.0000, 0.0000, 90.0000,-1,14); //fencesmallbnrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "glass_fence_64hv", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 5406, "jeffers5a_lae", "vgshopwall05_64", 0xFF252527);
+obj = CreateDynamicObject(19446, 1895.9560, -1675.1267, 1633.6666, 0.0000, 0.0000, 0.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1892.7541, -1685.3664, 1633.6745, 0.0000, 180.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1892.7541, -1683.7661, 1633.6745, 0.0000, 180.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1892.7541, -1682.1656, 1633.6745, 0.0000, 180.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1892.7541, -1680.5644, 1633.6745, 0.0000, 180.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1892.7541, -1678.9647, 1633.6745, 0.0000, 180.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19427, 1892.7541, -1677.3640, 1633.6745, 0.0000, 180.0000, 0.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(19446, 1895.9361, -1665.5069, 1633.6666, 0.0000, 0.0000, 0.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF6F675F);
+obj = CreateDynamicObject(14407, 1894.6798, -1677.6662, 1632.2219, 0.0000, 0.0000, 0.0000,-1,14); //carter-stairs01nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1899.1241, -1709.7468, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1878.5826, -1700.9787, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(18075, 1859.4073, -1715.9593, 1636.9499, 0.0000, 0.0000, 0.0000,-1,14); //lightDnrp00
+obj = CreateDynamicObject(2293, 1877.8951, -1703.0511, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(970, 1896.0373, -1687.5140, 1635.9553, 0.0000, 0.0000, 90.0000,-1,14); //fencesmallbnrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "glass_fence_64hv", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 5406, "jeffers5a_lae", "vgshopwall05_64", 0xFF252527);
+obj = CreateDynamicObject(11687, 1877.6186, -1665.5445, 1633.6555, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2271, 1862.3956, -1709.0727, 1634.3857, 0.0000, 0.0000, 180.0000,-1,14); //Frame_WOOD_1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 0, 0xFFFFFFFF, 0x0, 1);
+SetDynamicObjectMaterialText(obj, 1, "Ladies", 90, "Palatino Linotype", 40, 1, 0xFF7B0A2A, 0x0, 1);
+obj = CreateDynamicObject(2661, 1861.4384, -1692.4973, 1635.2150, -90.0000, 0.0000, 180.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(19943, 1895.8437, -1671.6003, 1631.6258, 0.0000, 0.0000, 0.0000,-1,14); //StonePillar1nrp00
+obj = CreateDynamicObject(970, 1896.0373, -1678.3044, 1635.9553, 0.0000, 0.0000, 90.0000,-1,14); //fencesmallbnrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "glass_fence_64hv", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 5406, "jeffers5a_lae", "vgshopwall05_64", 0xFF252527);
+obj = CreateDynamicObject(970, 1896.0373, -1674.1445, 1635.9553, 0.0000, 0.0000, 90.0000,-1,14); //fencesmallbnrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "glass_fence_64hv", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 5406, "jeffers5a_lae", "vgshopwall05_64", 0xFF252527);
+obj = CreateDynamicObject(970, 1896.0373, -1669.0947, 1635.9553, 0.0000, 0.0000, 90.0000,-1,14); //fencesmallbnrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "glass_fence_64hv", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 5406, "jeffers5a_lae", "vgshopwall05_64", 0xFF252527);
+obj = CreateDynamicObject(19378, 1889.4941, -1699.2468, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1881.8785, -1665.5445, 1633.6555, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1878.9801, -1665.5445, 1633.6555, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(11687, 1880.4007, -1665.5445, 1633.6555, 0.0000, 0.0000, 0.0000,-1,14); //CBarStool1nrp00
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "studwalltop_law", 0xFF252527);
+SetDynamicObjectMaterial(obj, 1, 16322, "a51_stores", "metalic128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1879.2822, -1704.4382, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1879.9758, -1705.1318, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1880.6695, -1705.8254, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1881.3562, -1706.5122, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1877.2027, -1702.3586, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(1827, 1879.9195, -1702.3768, 1635.3553, 0.0000, 0.0000, -45.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(2293, 1886.6097, -1707.4947, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1887.0284, -1708.1665, 1632.9853, 0.0000, 0.0000, -90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(18762, 1882.2894, -1708.2419, 1635.6157, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1890.5019, -1706.5244, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1890.5019, -1705.5434, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1885.6395, -1706.5140, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1889.5415, -1707.4947, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1888.5710, -1707.4947, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1887.5904, -1707.4947, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1885.6395, -1707.4947, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1890.5019, -1707.4947, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1885.6395, -1705.5428, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1896.6479, -1708.1665, 1632.9853, 0.0000, 0.0000, -90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(1827, 1888.0476, -1705.4466, 1635.3553, 0.0000, 0.0000, 0.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(18762, 1893.5417, -1708.2319, 1635.6157, 0.0000, 0.0000, 0.0000,-1,14); //Concrete1mx1mx5mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1892.9493, -1705.9515, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1899.7573, -1697.4006, 1632.9853, 0.0000, 0.0000, -30.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(2293, 1875.6219, -1698.0472, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1895.7502, -1703.0616, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1891.0688, -1696.0495, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1893.7983, -1706.4420, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1894.2839, -1705.6014, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1892.1263, -1705.4763, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1894.7744, -1704.7519, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1895.2646, -1703.9023, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(1827, 1893.0832, -1703.8480, 1635.3553, 0.0000, 0.0000, -30.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(1827, 1874.3144, -1696.9243, 1635.3553, 0.0000, 0.0000, -45.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(19327, 1893.0924, -1703.8568, 1635.7858, -90.0000, 0.0000, 60.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(2293, 1882.0500, -1705.8183, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1882.7436, -1705.1247, 1635.4355, 0.0000, 0.0000, -45.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(1827, 1881.3685, -1703.9530, 1635.3553, 0.0000, 0.0000, -45.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(19327, 1881.3623, -1703.9282, 1635.7858, -90.0000, 0.0000, 19.8999,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(19327, 1879.9105, -1702.3596, 1635.7858, -90.0000, 0.0000, 19.8999,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(2293, 1896.2407, -1702.2126, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1896.7159, -1701.3891, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1895.8846, -1700.9089, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1895.0615, -1700.4333, 1635.4355, 0.0000, 0.0000, -30.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(1827, 1894.2032, -1702.2080, 1635.3553, 0.0000, 0.0000, -30.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(19327, 1874.3060, -1696.9362, 1635.7858, -90.0000, 40.2999, 19.8999,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(19327, 1873.3326, -1695.3665, 1635.7858, -90.0000, 97.2999, 19.8999,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(19327, 1887.7213, -1695.2792, 1635.7858, -90.0000, 0.0000, 0.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(2293, 1894.9610, -1695.0981, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1894.9610, -1696.0791, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1894.9610, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1893.9803, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1893.0196, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1892.0498, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1885.7600, -1695.0981, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1885.7600, -1696.0788, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1885.7600, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1886.7308, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1887.7115, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1888.6927, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1891.0688, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1889.6634, -1697.0295, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(2293, 1889.6634, -1696.0388, 1635.4355, 0.0000, 0.0000, 0.0000,-1,14); //SWK_1_FStoolnrp00
+SetDynamicObjectMaterial(obj, 0, 10101, "2notherbuildsfe", "ferry_build14", 0xFFFFFFFF);
+obj = CreateDynamicObject(1827, 1892.9117, -1695.3061, 1635.3553, 0.0000, 0.0000, -90.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(1827, 1887.7003, -1695.3061, 1635.3553, 0.0000, 0.0000, -90.0000,-1,14); //man_sdr_tablesnrp00
+obj = CreateDynamicObject(2232, 1869.9448, -1675.8996, 1637.9482, 163.7998, 0.0000, -111.2994,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(19298, 1888.1103, -1709.9952, 1636.5024, 0.0000, 0.0000, 0.0000,-1,14); //PointLight18nrp00
+obj = CreateDynamicObject(19297, 1880.4549, -1654.1080, 1634.9154, 0.0000, 0.0000, 0.0000,-1,14); //PointLight17nrp00
+obj = CreateDynamicObject(19297, 1880.4549, -1654.1080, 1641.5460, 0.0000, 0.0000, 0.0000,-1,14); //PointLight17nrp00
+obj = CreateDynamicObject(19298, 1888.1103, -1709.9952, 1636.5024, 0.0000, 0.0000, 0.0000,-1,14); //PointLight18nrp00
+obj = CreateDynamicObject(2232, 1869.9831, -1675.2706, 1637.9305, 167.6999, 0.0000, -82.9998,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(2232, 1870.0185, -1690.1051, 1637.9542, 167.6999, 0.0000, -95.4000,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(2232, 1869.9669, -1689.4598, 1637.9488, 167.6999, 0.0000, -74.9000,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(14434, 1870.4582, -1688.6124, 1637.7723, 0.0000, 0.0000, -180.0000,-1,14); //carter-spotlight42nrp00
+obj = CreateDynamicObject(19143, 1869.7580, -1676.8302, 1638.1169, 0.0000, 0.0000, -120.5998,-1,14); //PinSpotLight1nrp00
+obj = CreateDynamicObject(19143, 1869.7534, -1678.7707, 1638.1268, 0.0000, 0.0000, -90.0000,-1,14); //PinSpotLight1nrp00
+obj = CreateDynamicObject(19143, 1869.6330, -1688.5091, 1638.1379, -9.4996, 0.0000, -65.0998,-1,14); //PinSpotLight1nrp00
+obj = CreateDynamicObject(19143, 1869.7613, -1686.6987, 1638.1361, -9.1997, 0.0000, -85.8999,-1,14); //PinSpotLight1nrp00
+obj = CreateDynamicObject(19146, 1869.7607, -1680.4095, 1638.1269, -5.5998, 0.0000, -125.4999,-1,14); //PinSpotLight4nrp00
+obj = CreateDynamicObject(19146, 1869.7574, -1684.5361, 1638.1302, -11.1997, 0.0000, -64.9000,-1,14); //PinSpotLight4nrp00
+obj = CreateDynamicObject(2232, 1892.8354, -1679.3647, 1634.2557, 0.0000, 0.0000, -90.0000,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(2232, 1892.8354, -1686.7452, 1634.2557, 0.0000, 0.0000, -90.0000,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(2232, 1895.7762, -1693.4122, 1634.2357, 0.0000, 0.0000, -135.0000,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(2232, 1895.2877, -1693.9007, 1634.2357, 0.0000, 0.0000, -135.0000,-1,14); //MED_SPEAKER_4nrp00
+obj = CreateDynamicObject(2271, 1858.2081, -1709.0810, 1634.8159, 0.0000, 0.0000, 180.0000,-1,14); //Frame_WOOD_1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 0, 0xFFFFFFFF, 0x0, 1);
+SetDynamicObjectMaterialText(obj, 1, "m", 90, "Webdings", 100, 1, 0xFF4C75B7, 0x0, 1);
+obj = CreateDynamicObject(1727, 1866.3099, -1705.5323, 1633.4519, 0.0000, 0.0000, -90.0000,-1,14); //mrk_seating2bnrp00
+SetDynamicObjectMaterial(obj, 1, 1355, "break_s_bins", "CJ_RED_LEATHER", 0xFFFFFFFF);
+obj = CreateDynamicObject(1499, 1855.6179, -1714.4410, 1633.4925, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorINT05nrp00
+SetDynamicObjectMaterial(obj, 0, 3440, "airportpillar", "metalic_64", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 0, 0, 0xFF2A77A1, 0xFF2A77A1, 1);
+obj = CreateDynamicObject(1726, 1852.4007, -1705.9792, 1633.4012, 0.0000, 0.0000, 90.0000,-1,14); //mrk_seating2nrp00
+SetDynamicObjectMaterial(obj, 1, 1355, "break_s_bins", "CJ_RED_LEATHER", 0xFFFFFFFF);
+obj = CreateDynamicObject(1726, 1862.1319, -1702.8092, 1633.4012, 0.0000, 0.0000, 0.0000,-1,14); //mrk_seating2nrp00
+SetDynamicObjectMaterial(obj, 1, 1355, "break_s_bins", "CJ_RED_LEATHER", 0xFFFFFFFF);
+obj = CreateDynamicObject(2011, 1854.0615, -1707.5030, 1633.4033, 0.0000, 0.0000, 0.0000,-1,14); //nu_plant2_ofcnrp00
+SetDynamicObjectMaterial(obj, 1, 1355, "break_s_bins", "dirt64b", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 16640, "a51", "concretegroundl1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(1727, 1855.0992, -1701.6518, 1633.4117, 0.0000, 0.0000, 0.0000,-1,14); //mrk_seating2bnrp00
+SetDynamicObjectMaterial(obj, 1, 1355, "break_s_bins", "CJ_RED_LEATHER", 0xFFFFFFFF);
+obj = CreateDynamicObject(15038, 1853.6125, -1702.8371, 1634.0698, 0.0000, 0.0000, 0.0000,-1,14); //Plant_Pot_3_svnrp00
+SetDynamicObjectMaterial(obj, 1, 16640, "a51", "concretegroundl1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(2010, 1865.4521, -1703.7021, 1633.4610, 0.0000, 0.0000, -41.3997,-1,14); //nu_plant3_ofcnrp00
+SetDynamicObjectMaterial(obj, 1, 16640, "a51", "concretegroundl1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 1355, "break_s_bins", "dirt64b", 0xFFFFFFFF);
+obj = CreateDynamicObject(19940, 1857.8291, -1709.7910, 1635.0312, 90.0000, 90.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19940, 1862.7192, -1709.7910, 1635.0312, 90.0000, 90.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19940, 1864.2290, -1709.7910, 1635.0312, 90.0000, 90.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19940, 1864.2290, -1709.7910, 1633.0522, 90.0000, 90.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19940, 1863.5600, -1709.7910, 1635.9914, 0.0000, 0.0000, 90.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19353, 1853.8791, -1709.9249, 1635.2380, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF2A77A1);
+obj = CreateDynamicObject(19940, 1857.8291, -1709.7910, 1633.0312, 90.0000, 90.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19940, 1856.3081, -1709.7910, 1633.0312, 90.0000, 90.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19940, 1856.3081, -1709.7910, 1635.0211, 90.0000, 90.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19940, 1857.1308, -1709.7910, 1635.9914, 0.0000, 0.0000, 90.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19446, 1864.8297, -1714.6893, 1635.2342, 0.0000, 0.0000, 0.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF86446E);
+obj = CreateDynamicObject(19383, 1857.0885, -1709.9245, 1635.2397, 0.0000, 0.0000, 90.0000,-1,14); //wall031nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF2A77A1);
+obj = CreateDynamicObject(19446, 1858.3884, -1714.6893, 1635.2342, 0.0000, 0.0000, 0.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF2A77A1);
+obj = CreateDynamicObject(19353, 1860.3199, -1709.9249, 1635.2380, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF86446E);
+obj = CreateDynamicObject(19159, 1869.7701, -1682.5422, 1637.9443, 0.0000, 0.0000, 0.0000,-1,14); //MirrorBall1nrp00
+obj = CreateDynamicObject(19446, 1859.4693, -1714.6893, 1635.2342, 0.0000, 0.0000, 0.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF86446E);
+obj = CreateDynamicObject(19159, 1880.7519, -1676.3243, 1638.0444, 0.0000, 0.0000, 0.0000,-1,14); //MirrorBall1nrp00
+obj = CreateDynamicObject(19159, 1880.7519, -1689.4248, 1638.0444, 0.0000, 0.0000, 0.0000,-1,14); //MirrorBall1nrp00
+obj = CreateDynamicObject(1651, 1859.5583, -1711.3581, 1634.9090, 0.0000, 0.0000, 0.0000,-1,14); //od_copwindowsnrp00
+obj = CreateDynamicObject(2515, 1859.9195, -1710.7440, 1634.6472, 0.0000, 0.0000, 90.0000,-1,14); //CJ_BS_SINKnrp00
+obj = CreateDynamicObject(19378, 1852.3641, -1708.9344, 1638.5904, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1907.1528, -1670.5522, 1633.9553, 0.0000, 0.0000, -90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(2515, 1859.9195, -1712.0837, 1634.6472, 0.0000, 0.0000, 90.0000,-1,14); //CJ_BS_SINKnrp00
+obj = CreateDynamicObject(19353, 1860.3199, -1712.8459, 1634.2469, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF86446E);
+obj = CreateDynamicObject(2152, 1859.7895, -1712.2652, 1633.4787, 0.0000, 0.0000, 90.0000,-1,14); //CJ_K5_LOW_UNIT3nrp00
+SetDynamicObjectMaterial(obj, 2, 16136, "des_telescopestuff", "stoneclad1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2742, 1856.9018, -1712.6848, 1630.3856, 0.0000, 0.0000, 0.0000,-1,14); //CJ_HANDDRIERnrp00
+obj = CreateDynamicObject(2152, 1859.7895, -1710.8944, 1633.4787, 0.0000, 0.0000, 90.0000,-1,14); //CJ_K5_LOW_UNIT3nrp00
+SetDynamicObjectMaterial(obj, 2, 16136, "des_telescopestuff", "stoneclad1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2514, 1860.0675, -1713.6905, 1633.4702, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TOILET1nrp00
+obj = CreateDynamicObject(1499, 1861.8680, -1714.4410, 1633.4925, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorINT05nrp00
+SetDynamicObjectMaterial(obj, 0, 3440, "airportpillar", "metalic_64", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 0, 0, 0xFF86446E, 0xFF86446E, 1);
+obj = CreateDynamicObject(19353, 1860.3199, -1714.4969, 1634.2469, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF86446E);
+obj = CreateDynamicObject(2742, 1861.6335, -1710.1760, 1635.2884, 0.0000, 0.0000, 0.0000,-1,14); //CJ_HANDDRIERnrp00
+obj = CreateDynamicObject(2661, 1861.4384, -1673.1845, 1635.2150, -90.0000, 0.0000, 0.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(1499, 1861.8680, -1717.7613, 1633.4925, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorINT05nrp00
+SetDynamicObjectMaterial(obj, 0, 3440, "airportpillar", "metalic_64", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 0, 1, 0xFF86446E, 0xFF86446E, 1);
+obj = CreateDynamicObject(19353, 1860.3199, -1716.1677, 1634.2469, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF86446E);
+obj = CreateDynamicObject(2514, 1860.0675, -1715.2921, 1633.4702, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TOILET1nrp00
+obj = CreateDynamicObject(19446, 1863.4084, -1717.8393, 1635.2342, 0.0000, 0.0000, 90.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF86446E);
+obj = CreateDynamicObject(2514, 1860.0675, -1717.0334, 1633.4702, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TOILET1nrp00
+obj = CreateDynamicObject(1499, 1855.6179, -1717.7829, 1633.4925, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorINT05nrp00
+SetDynamicObjectMaterial(obj, 0, 3440, "airportpillar", "metalic_64", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 0, 1, 0xFF2A77A1, 0xFF2A77A1, 1);
+obj = CreateDynamicObject(2152, 1853.5461, -1712.2652, 1633.4787, 0.0000, 0.0000, 90.0000,-1,14); //CJ_K5_LOW_UNIT3nrp00
+SetDynamicObjectMaterial(obj, 2, 16136, "des_telescopestuff", "stoneclad1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2152, 1853.5461, -1710.8946, 1633.4787, 0.0000, 0.0000, 90.0000,-1,14); //CJ_K5_LOW_UNIT3nrp00
+SetDynamicObjectMaterial(obj, 2, 16136, "des_telescopestuff", "stoneclad1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1651, 1853.3276, -1711.3581, 1634.9090, 0.0000, 0.0000, 0.0000,-1,14); //od_copwindowsnrp00
+obj = CreateDynamicObject(2515, 1853.6595, -1712.0837, 1634.6472, 0.0000, 0.0000, 90.0000,-1,14); //CJ_BS_SINKnrp00
+obj = CreateDynamicObject(19378, 1902.1118, -1690.4514, 1632.9853, 0.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(2742, 1855.2214, -1710.1760, 1635.2884, 0.0000, 0.0000, 0.0000,-1,14); //CJ_HANDDRIERnrp00
+obj = CreateDynamicObject(19353, 1854.0699, -1714.5072, 1634.2469, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF2A77A1);
+obj = CreateDynamicObject(19353, 1854.0699, -1712.8459, 1634.2469, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF2A77A1);
+obj = CreateDynamicObject(1499, 1855.6179, -1716.1119, 1633.4925, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorINT05nrp00
+SetDynamicObjectMaterial(obj, 0, 3440, "airportpillar", "metalic_64", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 0, 1, 0xFF2A77A1, 0xFF2A77A1, 1);
+obj = CreateDynamicObject(19353, 1854.0699, -1716.1877, 1634.2469, 0.0000, 0.0000, 90.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF2A77A1);
+obj = CreateDynamicObject(1499, 1861.8680, -1716.0919, 1633.4925, 0.0000, 0.0000, 90.0000,-1,14); //Gen_doorINT05nrp00
+SetDynamicObjectMaterial(obj, 0, 3440, "airportpillar", "metalic_64", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 0, 1, 0xFF86446E, 0xFF86446E, 1);
+obj = CreateDynamicObject(19446, 1854.1092, -1717.8702, 1635.2342, 0.0000, 0.0000, 90.0000,-1,14); //wall086nrp00
+SetDynamicObjectMaterial(obj, 0, 5461, "glenpark6d_lae", "tiledwall01_LA", 0xFF2A77A1);
+obj = CreateDynamicObject(2514, 1853.8271, -1713.6905, 1633.4702, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TOILET1nrp00
+obj = CreateDynamicObject(2515, 1853.6595, -1710.7038, 1634.6572, 0.0000, 0.0000, 90.0000,-1,14); //CJ_BS_SINKnrp00
+obj = CreateDynamicObject(2514, 1853.8271, -1715.3221, 1633.4702, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TOILET1nrp00
+obj = CreateDynamicObject(2514, 1853.8271, -1717.0533, 1633.4702, 0.0000, 0.0000, 90.0000,-1,14); //CJ_TOILET1nrp00
+obj = CreateDynamicObject(18980, 1902.0118, -1693.5455, 1626.6042, -180.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1894.9432, -1705.7406, 1632.9853, 0.0000, 0.0000, -30.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(18980, 1902.0118, -1685.9073, 1626.6042, -180.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1902.0118, -1679.9171, 1626.6042, -180.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1902.0096, -1681.8614, 1638.6146, 90.0000, 30.0000, -30.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1901.4239, -1698.9643, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1901.4239, -1689.3353, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1901.4239, -1679.7060, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1901.4239, -1670.0766, 1638.7727, 0.0000, 90.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(18980, 1902.0118, -1682.3288, 1626.6042, -180.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1910.3227, -1688.7552, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2773, 1901.3459, -1682.8634, 1635.9287, 0.0000, 0.0000, 0.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19378, 1910.3227, -1678.2556, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1906.8802, -1685.7302, 1640.3691, 0.0000, 0.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1906.8802, -1680.1208, 1640.4294, 0.0000, 0.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(1640, 1909.6688, -1685.6374, 1638.1258, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1915.7115, -1685.6374, 1641.5378, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19810, 1908.3293, -1683.6258, 1636.3774, 0.0000, 0.0000, -92.8000,-1,14); //StaffOnlySign1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 90, "Arial", 0, 1, 0xFF252527, 0xFF252527, 0);
+obj = CreateDynamicObject(1640, 1903.9769, -1685.6374, 1636.1745, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1903.9769, -1680.2065, 1638.1153, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1905.9375, -1685.6374, 1636.1745, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1903.9769, -1680.2065, 1636.1745, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(18980, 1902.0118, -1683.3291, 1626.6042, -180.0000, 0.0000, 90.0000,-1,14); //Concrete1mx1mx25mnrp00
+SetDynamicObjectMaterial(obj, 0, 3899, "hospital2", "dustyconcrete128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1913.7602, -1685.6374, 1642.0091, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1917.6623, -1685.6374, 1641.5378, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1917.6623, -1685.6374, 1639.5870, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1907.8983, -1685.6374, 1636.1745, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(2366, 1897.5780, -1674.5822, 1635.4293, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(2773, 1903.8464, -1682.0526, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19462, 1908.4250, -1682.5284, 1638.7718, 0.0000, 90.0000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(2773, 1903.8464, -1683.6429, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(11711, 1901.4635, -1684.5753, 1638.2834, 0.0000, 0.0000, 90.0000,-1,14); //ExitSign1nrp00
+obj = CreateDynamicObject(11710, 1901.4731, -1681.1025, 1638.2851, 0.0000, 0.0000, 90.0000,-1,14); //FireExitSign1nrp00
+obj = CreateDynamicObject(1640, 1903.9769, -1685.6374, 1638.1156, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1905.9375, -1685.6374, 1638.1257, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1909.6688, -1685.6374, 1636.1745, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1907.8983, -1685.6374, 1638.1151, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(14407, 1913.1156, -1681.0498, 1635.5312, 0.0000, 0.0000, 90.0000,-1,14); //carter-stairs01nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2661, 1897.9133, -1686.9759, 1636.7152, -90.0000, 140.9998, 0.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(14407, 1913.1156, -1685.0201, 1635.5312, 0.0000, 0.0000, 90.0000,-1,14); //carter-stairs01nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1911.5603, -1682.5284, 1639.7469, 0.0000, 55.5000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1916.5106, -1680.1208, 1640.4294, 0.0000, 0.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1916.4809, -1685.7302, 1640.3691, 0.0000, 0.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(11686, 1862.3458, -1680.5317, 1633.6649, 0.0000, 0.0000, 90.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 24, 0, 0xFFFFFFFF, 0x0, 1);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 24, 0, 0xFFFFFFFF, 0x0, 1);
+SetDynamicObjectMaterial(obj, 2, 1560, "7_11_door", "cj_sheetmetal2", 0xFF252527);
+SetDynamicObjectMaterial(obj, 3, 6284, "bev_law2", "studwalltop_law", 0xFF58595A);
+SetDynamicObjectMaterial(obj, 4, 6284, "bev_law2", "studwalltop_law", 0xFF515459);
+obj = CreateDynamicObject(1640, 1911.8094, -1685.6374, 1636.1745, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19327, 1902.5428, -1682.4622, 1637.2558, 0.0000, 0.0000, 90.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "premium nightlife", 130, "Palatino Linotype", 35, 1, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(1640, 1911.8127, -1680.2065, 1640.0760, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1911.8094, -1685.6374, 1640.0677, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1919.7508, -1682.7552, 1638.6361, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1911.8094, -1685.6374, 1638.1158, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19462, 1914.4465, -1682.5284, 1641.7281, 0.0000, 55.5000, 0.0000,-1,14); //wall102nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(1640, 1911.8127, -1680.2065, 1636.1745, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1911.8127, -1680.2065, 1638.1247, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1913.7441, -1680.2065, 1638.1247, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1913.7602, -1685.6374, 1638.1158, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1913.7602, -1685.6374, 1640.0675, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1919.1999, -1684.0091, 1640.3691, 0.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19378, 1919.7508, -1682.7552, 1642.2363, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(1640, 1913.7441, -1680.2065, 1640.0760, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1915.7247, -1680.2065, 1641.3868, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1915.7115, -1685.6374, 1639.5870, -90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1913.7441, -1680.2065, 1642.0179, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(19610, 1867.7225, -1680.9875, 1634.4923, 0.0000, 0.0000, -82.9999,-1,14); //Microphone1nrp00
+obj = CreateDynamicObject(1892, 1905.3768, -1681.8192, 1635.4244, 0.0000, 0.0000, 90.0000,-1,14); //security_gatshnrp00
+obj = CreateDynamicObject(1892, 1905.3664, -1685.0395, 1635.4244, 0.0000, 0.0000, 90.0000,-1,14); //security_gatshnrp00
+obj = CreateDynamicObject(19918, 1904.9670, -1683.0041, 1635.7943, 0.0000, 0.0000, 0.0000,-1,14); //CutsceneBox1nrp00
+obj = CreateDynamicObject(19918, 1904.9670, -1682.7242, 1635.7943, 0.0000, 0.0000, 0.0000,-1,14); //CutsceneBox1nrp00
+obj = CreateDynamicObject(19918, 1905.0124, -1682.8752, 1636.0245, 0.0000, 0.0000, 28.7000,-1,14); //CutsceneBox1nrp00
+obj = CreateDynamicObject(19810, 1859.8144, -1675.8089, 1634.8850, 0.0000, 0.0000, -79.1996,-1,14); //StaffOnlySign1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 90, "Arial", 0, 1, 0xFF000000, 0xFF252527, 0);
+obj = CreateDynamicObject(1569, 1919.1473, -1681.4278, 1638.6910, 0.0000, 0.0000, -90.0000,-1,14); //ADAM_V_DOORnrp00
+obj = CreateDynamicObject(1569, 1919.1473, -1684.4289, 1638.6910, 0.0000, 0.0000, 90.0000,-1,14); //ADAM_V_DOORnrp00
+obj = CreateDynamicObject(2773, 1906.9093, -1683.6429, 1635.9287, 0.0000, 0.0000, 90.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(2773, 1908.3203, -1682.6622, 1635.9287, 0.0000, 0.0000, 180.0000,-1,14); //CJ_AIRPRT_BARnrp00
+obj = CreateDynamicObject(19939, 1905.4331, -1682.7817, 1636.0412, -87.6996, 0.0000, 90.4000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19939, 1905.4548, -1682.9615, 1636.0404, -87.6996, 0.0000, 90.4000,-1,14); //MKShelf2nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19427, 1880.2840, -1660.8336, 1643.4753, 0.0000, 0.0000, -90.0000,-1,14); //wall067nrp00
+SetDynamicObjectMaterialText(obj, 0, "Map Credits by ArcadiA", 100, "Arial", 24, 1, 0xFF840410, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, "Map Credits by ArcadiA", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(2366, 1900.0190, -1689.7454, 1635.4293, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(1318, 1909.3354, -1680.9603, 1635.3758, 0.0000, -90.0000, -180.0000,-1,14); //arrownrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19810, 1859.8199, -1675.7878, 1634.8249, 0.0000, 0.0000, -79.1996,-1,14); //StaffOnlySign1nrp00
+SetDynamicObjectMaterialText(obj, 0, "Only for VIP!", 90, "Arial", 21, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19810, 1908.3415, -1683.5764, 1636.3375, 0.0000, 0.0000, -92.8000,-1,14); //StaffOnlySign1nrp00
+SetDynamicObjectMaterialText(obj, 0, "Exit only!", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(1318, 1909.3354, -1680.9603, 1635.3758, 0.0000, -90.0000, -180.0000,-1,14); //arrownrp00
+obj = CreateDynamicObject(8874, 1872.6483, -1684.0686, 1634.2701, 0.0000, 0.0000, 0.0000,-1,14); //vgsEcnstrct13nrp00
+obj = CreateDynamicObject(19810, 1859.8387, -1689.9460, 1634.8149, 0.0000, 0.0000, -104.2994,-1,14); //StaffOnlySign1nrp00
+SetDynamicObjectMaterialText(obj, 0, "Only for VIP!", 90, "Arial", 21, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(8874, 1872.0865, -1682.3586, 1635.0697, 0.0000, 0.0000, 107.5000,-1,14); //vgsEcnstrct13nrp00
+obj = CreateDynamicObject(2661, 1900.3656, -1689.4158, 1636.7152, -90.0000, 140.9998, 0.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(2366, 1897.5780, -1691.7573, 1635.4293, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(11711, 1919.0758, -1682.9449, 1641.3852, 0.0000, 0.0000, 90.0000,-1,14); //ExitSign1nrp00
+obj = CreateDynamicObject(2741, 1853.7220, -1710.0445, 1635.0444, 0.0000, 0.0000, 0.0000,-1,14); //CJ_SOAP_DISPnrp00
+obj = CreateDynamicObject(2741, 1860.0134, -1710.0445, 1635.0444, 0.0000, 0.0000, 0.0000,-1,14); //CJ_SOAP_DISPnrp00
+obj = CreateDynamicObject(19940, 1902.2425, -1673.9399, 1635.5356, -90.0000, 0.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19353, 1902.1063, -1678.7181, 1634.7878, 0.0000, 0.0000, 0.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19383, 1902.1063, -1672.3153, 1637.1601, 0.0000, 0.0000, 0.0000,-1,14); //wall031nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19325, 1902.0539, -1676.9842, 1639.2945, 0.0000, 0.0000, 0.0000,-1,14); //lsmall_window01nrp00
+obj = CreateDynamicObject(19353, 1902.1063, -1675.5268, 1634.7878, 0.0000, 0.0000, 0.0000,-1,14); //wall001nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF3F3E45);
+obj = CreateDynamicObject(19378, 1910.3231, -1667.7667, 1635.3454, 0.0000, -90.0000, 90.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 14846, "genintintpoliceb", "p_floor3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19378, 1906.6999, -1675.3321, 1634.3833, 0.0000, 0.0000, 0.0000,-1,14); //wall026nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFF252527);
+obj = CreateDynamicObject(19940, 1902.2425, -1676.9117, 1636.5246, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19940, 1902.2425, -1674.9211, 1636.5246, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19940, 1902.2425, -1678.9029, 1636.5246, 0.0000, 0.0000, 0.0000,-1,14); //MKShelf3nrp00
+SetDynamicObjectMaterial(obj, 0, 9514, "711_sfw", "ws_carpark2", 0xFFFFFFFF);
+obj = CreateDynamicObject(2371, 1904.6219, -1677.1987, 1635.4238, 0.0000, 0.0000, -90.0000,-1,14); //CLOTHES_RAILnrp00
+obj = CreateDynamicObject(2372, 1904.6197, -1679.6274, 1635.3850, 0.0000, 0.0000, -90.0000,-1,14); //CLOTHES_RAIL2nrp00
+obj = CreateDynamicObject(2371, 1904.6219, -1674.9774, 1635.4238, 0.0000, 0.0000, -90.0000,-1,14); //CLOTHES_RAILnrp00
+obj = CreateDynamicObject(2371, 1904.6219, -1672.8957, 1635.4238, 0.0000, 0.0000, -90.0000,-1,14); //CLOTHES_RAILnrp00
+obj = CreateDynamicObject(1499, 1902.0920, -1671.5355, 1635.4084, 0.0000, 0.0000, -90.0000,-1,14); //Gen_doorINT05nrp00
+SetDynamicObjectMaterial(obj, 0, 11145, "carrierint_sfs", "ws_shipmetal3", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3113, "carrierxr", "ws_shipmetal1", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 11145, "carrierint_sfs", "ws_shipmetal3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2689, 1904.4422, -1679.4167, 1636.0483, 0.0000, 0.0000, -90.0000,-1,14); //CJ_HOODIE_2nrp00
+obj = CreateDynamicObject(2689, 1905.8631, -1679.4167, 1636.0483, 0.0000, 0.0000, 90.0000,-1,14); //CJ_HOODIE_2nrp00
+obj = CreateDynamicObject(2689, 1904.8525, -1679.4167, 1636.0483, 0.0000, 0.0000, 90.0000,-1,14); //CJ_HOODIE_2nrp00
+SetDynamicObjectMaterial(obj, 1, 18031, "cj_exp", "mp_cloth_ds3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2689, 1905.8426, -1677.5859, 1636.0882, 0.0000, 0.0000, 90.0000,-1,14); //CJ_HOODIE_2nrp00
+SetDynamicObjectMaterial(obj, 1, 18031, "cj_exp", "mp_cloth_ds3", 0xFFFFFFFF);
+obj = CreateDynamicObject(2689, 1904.5920, -1676.9055, 1636.0882, 0.0000, 0.0000, 90.0000,-1,14); //CJ_HOODIE_2nrp00
+SetDynamicObjectMaterial(obj, 1, 2689, "sport_cloth", "oran12", 0xFFFFFFFF);
+obj = CreateDynamicObject(2689, 1905.8631, -1675.3647, 1636.0782, 0.0000, 0.0000, 90.0000,-1,14); //CJ_HOODIE_2nrp00
+obj = CreateDynamicObject(2689, 1905.5428, -1675.3647, 1636.0782, 0.0000, 0.0000, -90.0000,-1,14); //CJ_HOODIE_2nrp00
+obj = CreateDynamicObject(2704, 1905.2821, -1676.9083, 1636.0865, 0.0000, 0.0000, -90.0000,-1,14); //CJ_HOODIE_3nrp00
+obj = CreateDynamicObject(2704, 1904.5819, -1674.6778, 1636.0865, 0.0000, 0.0000, -90.0000,-1,14); //CJ_HOODIE_3nrp00
+obj = CreateDynamicObject(1886, 1905.9687, -1670.9825, 1638.8811, 16.4999, 0.0000, -60.7999,-1,14); //shop_sec_camnrp00
+obj = CreateDynamicObject(2704, 1904.9525, -1673.2679, 1636.0865, 0.0000, 0.0000, -90.0000,-1,14); //CJ_HOODIE_3nrp00
+SetDynamicObjectMaterial(obj, 1, 2819, "gb_bedroomclths01", "GB_clothesbed05", 0xFFFFFFFF);
+obj = CreateDynamicObject(2704, 1905.7320, -1672.5979, 1636.0865, 0.0000, 0.0000, -90.0000,-1,14); //CJ_HOODIE_3nrp00
+SetDynamicObjectMaterial(obj, 1, 2366, "shopping", "cj_ziptop", 0xFFFFFFFF);
+obj = CreateDynamicObject(19325, 1902.0039, -1676.5439, 1636.0039, 0.0000, 0.0000, 0.0000,-1,14); //lsmall_window01nrp00
+SetDynamicObjectMaterialText(obj, 0, "Wardrobe", 140, "Palatino Linotype", 50, 1, 0xFFFFFFFF, 0x0, 1);
+obj = CreateDynamicObject(1778, 1906.2832, -1670.6673, 1635.4327, 0.0000, 0.0000, 0.0000,-1,14); //CJ_MOP_PAILnrp00
+obj = CreateDynamicObject(18075, 1906.9464, -1673.3337, 1638.6634, 0.0000, 0.0000, 0.0000,-1,14); //lightDnrp00
+obj = CreateDynamicObject(2661, 1897.8732, -1691.4462, 1636.7152, -90.0000, 0.0000, 0.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(19327, 1854.3493, -1689.5418, 1634.2551, -90.0000, 0.0000, 45.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 75, 1, 0xFF656A79, 0x0, 1);
+obj = CreateDynamicObject(19327, 1902.5428, -1682.8126, 1637.4760, 0.0000, 0.0000, 90.0000,-1,14); //7_11_sign02nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 130, "Palatino Linotype", 80, 1, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(19810, 1901.9925, -1673.3548, 1637.0460, 0.0000, 0.0000, 90.0000,-1,14); //StaffOnlySign1nrp00
+SetDynamicObjectMaterialText(obj, 0, "Staff only!", 90, "Arial", 21, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(1640, 1883.8542, -1679.0438, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1883.8645, -1686.7165, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1915.7247, -1680.2065, 1639.4355, 90.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 8844, "flmngoland", "vgschurchwall05_128", 0xFFFFFFFF);
+obj = CreateDynamicObject(1640, 1883.8645, -1682.9449, 1633.3647, 0.0000, 0.0000, 0.0000,-1,14); //beachtowel04nrp00
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "barbersmir1", 0xFFFFFFFF);
+obj = CreateDynamicObject(2366, 1897.5780, -1679.0524, 1635.4293, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAILnrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 0, 1, 0xFF000000, 0x0, 1);
+SetDynamicObjectMaterial(obj, 1, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 0, 0, 0xFF000000, 0x0, 1);
+obj = CreateDynamicObject(2661, 1897.8986, -1678.7231, 1636.7152, -90.0000, 140.9998, 0.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);
+obj = CreateDynamicObject(11686, 1884.9681, -1659.8900, 1633.6649, 0.0000, 0.0000, 90.0000,-1,14); //CBarSection1nrp00
+SetDynamicObjectMaterialText(obj, 0, ".", 90, "Arial", 0, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, ".", 90, "Arial", 0, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, ".", 90, "Arial", 0, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 3, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 6871, "vegascourtbld", "marbletilewal1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(2661, 1897.9390, -1674.2740, 1636.7152, -90.0000, 140.9998, 0.0000,-1,14); //CJ_BANNER07nrp00
+SetDynamicObjectMaterialText(obj, 0, "PENTHOUSE", 90, "Palatino Linotype", 55, 1, 0xFF58595A, 0x0, 1);

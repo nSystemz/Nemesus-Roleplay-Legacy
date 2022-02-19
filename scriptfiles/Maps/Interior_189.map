@@ -1,0 +1,173 @@
+,-1,11,-1,11); //obj, 0, 1649, "wglass", "carshowwin2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19922, 1408.4248, -332.2857, 1142.2374, 0.0000, 0.0000, 0.0000,-1,11); //MKTable1
+obj = CreateDynamicObject(19447, 1402.9504, -339.4154, 1143.9686, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1407.7031, -344.1567, 1147.4853, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1406.8592, -336.1960, 1144.0090, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1402.9460, -332.9963, 1147.4615, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 10871, "blacksky_sfse", "ws_altz_wall7_top", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1417.3337, -344.1368, 1143.9819, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1426.9654, -344.1368, 1147.4653, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1406.7591, -332.9963, 1144.0090, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1420.4813, -321.9465, 1147.4814, 0.0000, 0.0000, 90.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 14711, "vgshm2int2", "HSV_carpet1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19392, 1407.7541, -331.4999, 1147.4875, 0.0000, 0.0000, 90.0000,-1,11); //wall040
+SetDynamicObjectMaterial(obj, 0, 10871, "blacksky_sfse", "ws_altz_wall7_top", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1408.5417, -322.1383, 1145.2657, 0.0000, 90.0000, 0.0000,-1,11); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1230, 1403.4731, -343.7070, 1142.6949, 0.0000, 0.0000, 0.0000,-1,11); //cardboardbox
+obj = CreateDynamicObject(19447, 1402.9504, -339.4154, 1147.4615, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1408.2347, -334.6657, 1144.0090, 0.0000, 0.0000, 90.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1420.9399, -326.6607, 1147.4995, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 14711, "vgshm2int2", "HSV_carpet1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1417.3083, -321.9465, 1147.4814, 0.0000, 0.0000, 90.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 14711, "vgshm2int2", "HSV_carpet1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1420.9416, -333.0661, 1147.4914, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 14711, "vgshm2int2", "HSV_carpet1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1420.5627, -334.7113, 1144.0019, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "concretemanky", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1404.5870, -331.4960, 1147.4914, 0.0000, 0.0000, 90.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 10871, "blacksky_sfse", "ws_altz_wall7_top", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1417.3337, -344.1368, 1147.4731, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(2002, 1418.5086, -334.0762, 1145.7337, 0.0000, 0.0000, -179.3000,-1,11); //water_coolnu
+obj = CreateDynamicObject(19447, 1415.6689, -326.6907, 1147.4995, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 14711, "vgshm2int2", "HSV_carpet1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1420.5321, -334.6723, 1147.5035, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 14711, "vgshm2int2", "HSV_carpet1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1410.8879, -321.9226, 1147.5035, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 14713, "lahss2aint2", "HS2_Blind3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1415.6289, -326.6607, 1147.4995, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 14674, "civic02cj", "ab_hosWallUpr", 0xFFFFFFFF);
+obj = CreateDynamicObject(19411, 1410.9560, -331.4312, 1147.5069, 0.0000, 0.0000, 90.0000,-1,11); //wall059
+SetDynamicObjectMaterial(obj, 0, 14674, "civic02cj", "ab_hosWallUpr", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1425.2845, -339.4811, 1147.5014, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1407.8149, -322.0627, 1147.5035, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 14674, "civic02cj", "ab_hosWallUpr", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1406.8592, -336.2457, 1147.5306, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 1649, "wglass", "carshowwin2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1406.1595, -326.6523, 1147.5096, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 14674, "civic02cj", "ab_hosWallUpr", 0xFFFFFFFF);
+obj = CreateDynamicObject(1437, 1422.2253, -337.7604, 1143.3337, 0.0000, 0.0000, 0.0000,-1,11); //DYN_LADDER_2
+obj = CreateDynamicObject(19367, 1407.2678, -320.9776, 1147.5013, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 14674, "civic02cj", "ab_hosWallUpr", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1412.6125, -326.6523, 1147.5096, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 14674, "civic02cj", "ab_hosWallUpr", 0xFFFFFFFF);
+obj = CreateDynamicObject(19466, 1410.8380, -331.3760, 1147.5991, 0.0000, 0.0000, 90.0000,-1,11); //window001
+obj = CreateDynamicObject(19392, 1407.7541, -331.4598, 1147.4875, 0.0000, 0.0000, 90.0000,-1,11); //wall040
+SetDynamicObjectMaterial(obj, 0, 14674, "civic02cj", "ab_hosWallUpr", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1412.9737, -334.1679, 1149.6875, 0.0000, 90.0000, 0.0000,-1,11); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 13007, "sw_bankint", "woodfloor1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1502, 1415.7120, -333.8775, 1145.7375, 0.0000, 0.0000, 90.0000,-1,11); //Gen_doorINT04
+obj = CreateDynamicObject(19392, 1415.6872, -333.0997, 1147.4978, 0.0000, 0.0000, 180.0000,-1,11); //wall040
+SetDynamicObjectMaterial(obj, 0, 14711, "vgshm2int2", "HSV_carpet1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1426.9654, -344.1368, 1143.9819, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1407.7031, -344.1368, 1143.9819, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19466, 1410.8380, -331.5758, 1147.5991, 0.0000, 0.0000, 90.0000,-1,11); //window001
+obj = CreateDynamicObject(1494, 1406.9725, -331.5205, 1145.7479, 0.0000, 0.0000, 0.0000,-1,11); //Gen_doorINT03
+obj = CreateDynamicObject(19411, 1410.9560, -331.4912, 1147.5069, 0.0000, 0.0000, 90.0000,-1,11); //wall059
+SetDynamicObjectMaterial(obj, 0, 10871, "blacksky_sfse", "ws_altz_wall7_top", 0xFFFFFFFF);
+obj = CreateDynamicObject(19392, 1414.1162, -331.4999, 1147.4978, 0.0000, 0.0000, 90.0000,-1,11); //wall040
+SetDynamicObjectMaterial(obj, 0, 10871, "blacksky_sfse", "ws_altz_wall7_top", 0xFFFFFFFF);
+obj = CreateDynamicObject(2605, 1414.5909, -324.3818, 1146.0416, 0.0000, 0.0000, 180.0000,-1,11); //POLCE_DESK1
+obj = CreateDynamicObject(2714, 1414.0830, -331.6134, 1148.7280, 0.0000, 0.0000, 0.0000,-1,11); //CJ_OPEN_SIGN_2
+SetDynamicObjectMaterialText(obj, 0, "Anmeldung", 90, "Arial", 24, 1, 0xFFFFFFFF, 0xFF000000, 1);
+obj = CreateDynamicObject(19392, 1415.6673, -333.1098, 1147.4978, 0.0000, 0.0000, 180.0000,-1,11); //wall040
+SetDynamicObjectMaterial(obj, 0, 10871, "blacksky_sfse", "ws_altz_wall7_top", 0xFFFFFFFF);
+obj = CreateDynamicObject(3043, 1410.6634, -339.1455, 1143.7215, 0.0000, 0.0000, 89.3000,-1,11); //kmb_container_open
+obj = CreateDynamicObject(2567, 1422.5826, -335.8897, 1144.2115, 0.0000, 0.0000, 0.0000,-1,11); //ab_warehouseShelf
+obj = CreateDynamicObject(2567, 1422.5826, -335.8897, 1147.4233, 0.0000, 0.0000, 0.0000,-1,11); //ab_warehouseShelf
+obj = CreateDynamicObject(2567, 1417.4216, -335.8897, 1144.1910, 0.0000, 0.0000, 0.0000,-1,11); //ab_warehouseShelf
+obj = CreateDynamicObject(3062, 1414.2016, -340.7319, 1143.6744, 0.0000, 0.0000, 32.5998,-1,11); //container_door
+obj = CreateDynamicObject(3062, 1414.1650, -337.5787, 1143.6744, 0.0000, 0.0000, -89.0998,-1,11); //container_door
+obj = CreateDynamicObject(19367, 1406.8592, -339.4057, 1144.0190, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19394, 1411.4344, -334.6661, 1143.9886, 0.0000, 0.0000, 90.0000,-1,11); //wall042
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1413.1024, -332.9963, 1144.0090, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1405.0222, -334.6658, 1144.0090, 0.0000, 0.0000, 90.0000,-1,11); //wall015
+obj = CreateDynamicObject(1334, 1419.9343, -343.4317, 1143.3248, 0.0000, 0.0000, 0.0000,-1,11); //BinNt04_LA
+obj = CreateDynamicObject(1620, 1417.3725, -334.8406, 1147.7535, 0.0000, 0.0000, 90.0000,-1,11); //nt_vent2_01
+obj = CreateDynamicObject(18735, 1417.2591, -334.8016, 1146.1689, 0.0000, 0.0000, 180.0000,-1,11); //vent2
+obj = CreateDynamicObject(2714, 1407.7213, -331.6134, 1148.7280, 0.0000, 0.0000, 0.0000,-1,11); //CJ_OPEN_SIGN_2
+SetDynamicObjectMaterialText(obj, 0, "Büro", 90, "Arial", 24, 1, 0xFFFFFFFF, 0xFF000000, 1);
+obj = CreateDynamicObject(19475, 1415.5759, -331.9353, 1147.5373, 0.0000, 0.0000, 180.0000,-1,11); //Plane001
+SetDynamicObjectMaterialText(obj, 0, "Besprechung", 90, "Arial", 24, 1, 0xFFFFFFFF, 0xFF000000, 1);
+obj = CreateDynamicObject(1498, 1425.2363, -343.0914, 1142.3238, 0.0000, 0.0000, 90.0000,-1,11); //Gen_doorEXT03
+obj = CreateDynamicObject(1893, 1415.5858, -339.2796, 1149.1832, 0.0000, 0.0000, 0.0000,-1,11); //shoplight1
+obj = CreateDynamicObject(1893, 1419.9691, -339.2796, 1149.1832, 0.0000, 0.0000, 0.0000,-1,11); //shoplight1
+obj = CreateDynamicObject(1893, 1417.8353, -328.6304, 1149.7132, 0.0000, 0.0000, 0.0000,-1,11); //shoplight1
+obj = CreateDynamicObject(2108, 1403.4045, -331.8789, 1145.7723, 0.0000, 0.0000, 0.0000,-1,11); //CJ_MLIGHT13
+obj = CreateDynamicObject(2357, 1418.2524, -326.6257, 1146.3685, 0.0000, 0.0000, 90.0000,-1,11); //DUNC_DINNING
+obj = CreateDynamicObject(1722, 1419.9465, -327.3175, 1145.7386, 0.0000, 0.0000, 90.0000,-1,11); //off_chairnu
+obj = CreateDynamicObject(1722, 1419.9465, -325.6079, 1145.7386, 0.0000, 0.0000, 90.0000,-1,11); //off_chairnu
+obj = CreateDynamicObject(1722, 1416.5249, -325.6079, 1145.7386, 0.0000, 0.0000, 270.0000,-1,11); //off_chairnu
+obj = CreateDynamicObject(1722, 1416.5749, -327.3576, 1145.7386, 0.0000, 0.0000, 270.0000,-1,11); //off_chairnu
+obj = CreateDynamicObject(19805, 1418.2353, -322.0187, 1147.8166, 0.0000, 0.0000, 0.0000,-1,11); //Whiteboard1
+obj = CreateDynamicObject(1671, 1418.2087, -323.6423, 1146.2353, 0.0000, 0.0000, 0.0000,-1,11); //swivelchair_A
+obj = CreateDynamicObject(14604, 1416.4525, -322.5732, 1146.7071, 0.0000, 0.0000, 180.0000,-1,11); //tv_stand_bike
+obj = CreateDynamicObject(2115, 1419.3404, -334.1156, 1145.7724, 0.0000, 0.0000, 0.0000,-1,11); //LOW_DINNING_1
+obj = CreateDynamicObject(19821, 1420.7121, -334.4645, 1146.5793, 0.0000, 0.0000, 0.0000,-1,11); //AlcoholBottle2
+obj = CreateDynamicObject(19821, 1420.7121, -334.2344, 1146.5793, 0.0000, 0.0000, 0.0000,-1,11); //AlcoholBottle2
+obj = CreateDynamicObject(19818, 1420.4553, -334.4848, 1146.6556, 0.0000, 0.0000, 0.0000,-1,11); //WineGlass1
+obj = CreateDynamicObject(19818, 1420.4553, -334.2650, 1146.6556, 0.0000, 0.0000, 0.0000,-1,11); //WineGlass1
+obj = CreateDynamicObject(19818, 1420.2950, -334.4450, 1146.6556, 0.0000, 0.0000, 0.0000,-1,11); //WineGlass1
+obj = CreateDynamicObject(19818, 1420.2950, -334.2850, 1146.6556, 0.0000, 0.0000, 0.0000,-1,11); //WineGlass1
+obj = CreateDynamicObject(19818, 1420.4553, -334.0950, 1146.6556, 0.0000, 0.0000, 0.0000,-1,11); //WineGlass1
+obj = CreateDynamicObject(19818, 1420.3050, -334.0950, 1146.6556, 0.0000, 0.0000, 0.0000,-1,11); //WineGlass1
+obj = CreateDynamicObject(19367, 1414.6180, -334.6657, 1144.0090, 0.0000, 0.0000, 90.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1420.5321, -334.7322, 1147.5035, 0.0000, 0.0000, 90.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "concretemanky", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1411.5970, -331.4862, 1144.0090, 0.0000, 0.0000, 90.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(2184, 1409.9183, -324.6827, 1145.7706, 0.0000, 0.0000, 0.0000,-1,11); //MED_OFFICE6_DESK_2
+obj = CreateDynamicObject(1671, 1410.6197, -322.6357, 1146.2412, 0.0000, 0.0000, 0.0000,-1,11); //swivelchair_A
+obj = CreateDynamicObject(2190, 1411.7478, -324.8481, 1146.5611, 0.0000, 0.0000, -161.8999,-1,11); //PC_1
+obj = CreateDynamicObject(19808, 1411.5024, -323.9736, 1146.5708, 0.0000, 0.0000, -157.3999,-1,11); //Keyboard1
+obj = CreateDynamicObject(11705, 1410.8314, -324.7127, 1146.5544, 0.0000, 0.0000, 167.5997,-1,11); //BlackTelephone1
+obj = CreateDynamicObject(2894, 1410.4161, -324.0078, 1146.5450, 0.0000, 0.0000, 161.0000,-1,11); //kmb_rhymesbook
+obj = CreateDynamicObject(1546, 1410.1009, -324.5101, 1146.6258, 0.0000, 0.0000, 0.0000,-1,11); //CJ_PINT_GLASS
+obj = CreateDynamicObject(19175, 1410.3454, -322.1553, 1148.1728, 0.0000, 0.0000, 0.0000,-1,11); //SAMPPicture4
+obj = CreateDynamicObject(1575, 1407.1683, -331.8829, 1143.0416, 0.0000, 0.0000, -115.4999,-1,11); //drug_white
+obj = CreateDynamicObject(18981, 1413.4361, -334.2182, 1141.7690, 0.0000, 90.0000, 0.0000,-1,11); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "concretegroundl1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(1575, 1407.0914, -332.1357, 1143.1506, 0.0000, 33.4000, -115.4999,-1,11); //drug_white
+obj = CreateDynamicObject(1893, 1408.3404, -331.9002, 1145.2547, 0.0000, 0.0000, 0.0000,-1,11); //shoplight1
+obj = CreateDynamicObject(1271, 1412.6495, -332.0155, 1142.5891, 0.0000, 0.0000, 0.0000,-1,11); //gunbox
+obj = CreateDynamicObject(1271, 1412.6495, -332.0155, 1143.2696, 0.0000, 0.0000, 0.0000,-1,11); //gunbox
+obj = CreateDynamicObject(1271, 1412.6595, -332.7854, 1142.6091, 0.0000, 0.0000, 0.0000,-1,11); //gunbox
+obj = CreateDynamicObject(2059, 1409.2895, -331.9750, 1143.0395, 0.0000, 0.0000, 0.0000,-1,11); //CJ_GUNSTUFF1
+obj = CreateDynamicObject(19328, 1411.1898, -331.5974, 1143.6756, 0.0000, 0.0000, 0.0000,-1,11); //7_11_sign03
+obj = CreateDynamicObject(1271, 1407.4388, -337.9837, 1142.6595, 0.0000, 0.0000, 0.0000,-1,11); //gunbox
+obj = CreateDynamicObject(1271, 1407.4388, -337.9837, 1143.3404, 0.0000, 0.0000, 0.0000,-1,11); //gunbox
+obj = CreateDynamicObject(1271, 1408.1595, -337.9837, 1142.6595, 0.0000, 0.0000, 0.0000,-1,11); //gunbox
+obj = CreateDynamicObject(1271, 1407.4492, -338.6936, 1142.6595, 0.0000, 0.0000, 0.0000,-1,11); //gunbox
+obj = CreateDynamicObject(1705, 1412.0631, -330.1549, 1145.7165, 0.0000, 0.0000, -126.2997,-1,11); //kb_chair04
+obj = CreateDynamicObject(1705, 1409.6351, -331.2507, 1145.7165, 0.0000, 0.0000, 106.0998,-1,11); //kb_chair04
+obj = CreateDynamicObject(1516, 1411.8807, -329.1195, 1146.0163, 0.0000, 0.0000, -90.6997,-1,11); //DYN_TABLE_03
+obj = CreateDynamicObject(1455, 1412.2463, -329.4700, 1146.6025, 0.0000, 0.0000, 165.7998,-1,11); //DYN_GLASS
+obj = CreateDynamicObject(19820, 1412.2729, -329.2915, 1146.5118, 0.0000, 0.0000, 0.0000,-1,11); //AlcoholBottle1
+obj = CreateDynamicObject(949, 1407.7685, -322.5202, 1146.3734, 0.0000, 0.0000, 0.0000,-1,11); //Plant_Pot_4
+obj = CreateDynamicObject(1714, 1414.6208, -322.9501, 1145.7419, 0.0000, 0.0000, 0.0000,-1,11); //kb_swivelchair1
+obj = CreateDynamicObject(19392, 1414.1162, -331.4598, 1147.4978, 0.0000, 0.0000, 90.0000,-1,11); //wall040
+SetDynamicObjectMaterial(obj, 0, 14674, "civic02cj", "ab_hosWallUpr", 0xFFFFFFFF);
+obj = CreateDynamicObject(1494, 1413.3363, -331.5205, 1145.7479, 0.0000, 0.0000, 0.0000,-1,11); //Gen_doorINT03
+obj = CreateDynamicObject(14407, 1404.9438, -337.6430, 1142.5837, 0.0997, 0.0000, -179.3999,-1,11); //carter-stairs01
+obj = CreateDynamicObject(19367, 1406.8592, -339.4057, 1147.5206, 0.0000, 0.0000, 0.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 1649, "wglass", "carshowwin2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1425.2845, -339.4811, 1144.0019, 0.0000, 0.0000, 0.0000,-1,11); //wall087
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);
+obj = CreateDynamicObject(19367, 1408.3852, -331.4862, 1144.0090, 0.0000, 0.0000, 90.0000,-1,11); //wall015
+SetDynamicObjectMaterial(obj, 0, 12848, "cunte_town1", "wall256hi", 0xFFFFFFFF);

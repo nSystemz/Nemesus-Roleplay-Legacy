@@ -1,0 +1,20 @@
+obj = CreateDynamicObject(1572, 2302.8117, 60.0539, 26.0704, 0.0000, 0.0000, -15.9000); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1572, 2303.3220, 52.8351, 26.0704, 0.0000, 0.0000, 0.0000); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1572, 2303.3220, 52.1251, 26.0704, 0.0000, 0.0000, 0.0000); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1572, 2303.3220, 51.4851, 26.0704, 0.0000, 0.0000, 0.0000); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1572, 2316.1936, 62.6152, 26.0704, 0.0000, 0.0000, -176.0000); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1572, 2302.6313, 59.5251, 26.0704, 0.0000, 0.0000, -17.7999); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(2714, 2303.9912, 53.0244, 27.6883, 0.0000, 0.0000, -90.0000); //CJ_OPEN_SIGN_2
+obj = CreateDynamicObject(2714, 2303.9912, 59.7044, 27.6883, 0.0000, 0.0000, -90.0000); //CJ_OPEN_SIGN_2
+obj = CreateDynamicObject(1364, 2303.1994, 66.0130, 26.2192, 0.0000, 0.0000, -90.0000); //CJ_BUSH_PROP
+SetDynamicObjectMaterial(obj, 3, 16640, "a51", "concretegroundl1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(1364, 2303.1994, 46.6730, 26.2192, 0.0000, 0.0000, -90.0000); //CJ_BUSH_PROP
+SetDynamicObjectMaterial(obj, 3, 16640, "a51", "concretegroundl1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(15038, 2303.5075, 58.5731, 26.0856, 0.0000, 0.0000, 0.0000); //Plant_Pot_3_sv
+obj = CreateDynamicObject(15038, 2303.5075, 54.0931, 26.0856, 0.0000, 0.0000, 0.0000); //Plant_Pot_3_sv

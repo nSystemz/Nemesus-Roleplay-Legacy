@@ -1,0 +1,18 @@
+obj = CreateDynamicObject(19377, 2284.4963, -2409.2980, 7.3041, 0.0000, 0.0000, -44.0999, -1, -1); //wall025 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19377, 2291.1838, -2402.3972, 7.3041, 0.0000, 0.0000, -44.0999, -1, -1); //wall025 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19377, 2277.6955, -2409.2690, 7.3041, 0.0000, 0.0000, 45.6999, -1, -1); //wall025 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19377, 2291.0148, -2395.6208, 7.3041, 0.0000, 0.0000, 45.6999, -1, -1); //wall025 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19377, 2284.1162, -2402.6918, 7.3041, 0.0000, 0.0000, 45.6999, -1, -1); //wall025 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19377, 2280.7700, -2406.1191, 7.3041, 0.0000, 0.0000, 45.6999, -1, -1); //wall025 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19377, 2287.4597, -2399.2622, 7.3041, 0.0000, 0.0000, 45.6999, -1, -1); //wall025 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 2279.7917, -2398.4763, 12.4734, 0.0000, 90.0000, -44.0998, -1, -1); //wall001 (n/A)
+SetDynamicObjectMaterialText(obj, 0, "EMERGENCY VEHICLES", 140, "Arial", 48, 0, 0xFFD78E10, 0x0, 1);
+obj = CreateDynamicObject(19353, 2279.4809, -2398.1784, 12.4735, 0.0000, 90.0000, -44.0998, -1, -1); //wall001 (n/A)
+SetDynamicObjectMaterialText(obj, 0, "ONLY", 140, "Arial", 60, 1, 0xFFD78E10, 0x0, 1);

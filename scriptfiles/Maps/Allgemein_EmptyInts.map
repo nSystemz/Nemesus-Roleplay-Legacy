@@ -1,0 +1,55 @@
+obj = CreateDynamicObject(14701, 2684.0292, 2154.3957, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2Hoose2
+obj = CreateDynamicObject(14706, 2624.6457, 2153.9477, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2labigtwo01
+obj = CreateDynamicObject(1506, 2682.9084, 2144.0437, 1001.4044, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(14707, 2584.6579, 2153.6240, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2labig301
+obj = CreateDynamicObject(14708, 2655.7260, 2152.7963, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2labigone01
+obj = CreateDynamicObject(14708, 2553.3547, 2147.0959, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2labigone01
+obj = CreateDynamicObject(14709, 2533.9829, 2148.3828, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2lamidtwo01
+obj = CreateDynamicObject(14710, 2516.3090, 2148.2160, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2vgshM3
+obj = CreateDynamicObject(1506, 2525.8979, 2144.2436, 1001.9672, 0.0000, 0.0000, 90.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(14711, 2490.0156, 2147.8691, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2vgshM2
+obj = CreateDynamicObject(1506, 2499.0197, 2154.5546, 1001.8732, 0.0000, 0.0000, 90.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(14712, 2491.6228, 2117.2487, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2Hoose11
+obj = CreateDynamicObject(1506, 2493.8291, 2109.6838, 1001.8732, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(14713, 2511.5532, 2117.3933, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2Hoose16
+obj = CreateDynamicObject(1506, 2515.9560, 2112.4172, 1001.6707, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(14714, 2541.5466, 2120.6708, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2Hoose08
+obj = CreateDynamicObject(1506, 2540.7722, 2112.5849, 1001.6707, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(14717, 2567.8095, 2121.3603, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2lasmtwo02
+obj = CreateDynamicObject(1498, 2572.5712, 2114.7380, 1001.7380, 0.0000, 0.0000, 90.0000, -1, 12); //Gen_doorEXT03
+obj = CreateDynamicObject(14718, 2588.9028, 2128.6652, 1003.4835, 0.0000, 0.0000, 0.0000, -1, 12); //int2lasmone04
+obj = CreateDynamicObject(1498, 2591.1552, 2123.6857, 1003.4788, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT03
+obj = CreateDynamicObject(15041, 2625.3759, 2127.3989, 1003.8640, 0.0000, 0.0000, 0.0000, -1, 12); //cunthouse
+obj = CreateDynamicObject(1506, 2615.9406, 2132.2827, 1001.8590, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(15042, 2653.2993, 2132.2553, 1003.8640, 0.0000, 0.0000, 0.0000, -1, 12); //newhouse1
+obj = CreateDynamicObject(1498, 2647.4946, 2131.5585, 1001.8582, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT03
+obj = CreateDynamicObject(15046, 2674.7687, 2113.2331, 1003.8640, 0.0000, 0.0000, 0.0000, -1, 12); //countrysavehouse
+obj = CreateDynamicObject(1498, 2674.0207, 2120.4409, 1002.6076, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT03
+obj = CreateDynamicObject(15048, 2702.9929, 2121.4345, 1003.8640, 0.0000, 0.0000, 0.0000, -1, 12); //LABIGSAVEHOUse
+obj = CreateDynamicObject(15031, 2707.8405, 2149.9575, 1003.8640, 0.0000, 0.0000, 0.0000, -1, 12); //lasmall1_sv
+obj = CreateDynamicObject(15059, 2702.9929, 2121.4345, 1003.8640, 0.0000, 0.0000, 0.0000, -1, 12); //labihalfhouse
+obj = CreateDynamicObject(1506, 2711.9326, 2116.3437, 1000.2689, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(1506, 2710.4326, 2116.3437, 1000.2689, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(1498, 2710.0854, 2143.6914, 1003.8542, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT03
+obj = CreateDynamicObject(15054, 2709.3193, 2159.5964, 1001.3958, 0.0000, 0.0000, 0.0000, -1, 12); //svvgmedhoose
+obj = CreateDynamicObject(1506, 2721.8833, 2167.6147, 997.9257, 0.0000, 0.0000, 90.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(15055, 2737.1511, 2147.9868, 1001.3958, 0.0000, 0.0000, 0.0000, -1, 12); //savelamid
+obj = CreateDynamicObject(1506, 2732.8859, 2156.6518, 1000.1428, 0.0000, 0.0000, 0.0000, -1, 12); //Gen_doorEXT08
+obj = CreateDynamicObject(18981, 2497.01685, 2130.31836, 1001.10876,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2514.71021, 2165.30957, 1001.10876,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2554.53418, 2153.60742, 1001.10876,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2542.20947, 2121.64136, 1001.10876,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2570.92969, 2119.95703, 1001.10876,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2733.64087, 2147.60815, 999.61218,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2702.34497, 2170.38013, 998.85986,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2627.19971, 2127.69409, 1001.28656,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2518.09961, 2121.31812, 1001.10876,   0.00000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(obj, 0, 1676, "wshxrefpump", "black64", 0xFFFFFFFF);

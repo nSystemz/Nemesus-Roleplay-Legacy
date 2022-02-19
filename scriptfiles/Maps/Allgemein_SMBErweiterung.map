@@ -1,0 +1,37 @@
+obj = CreateDynamicObject(1359, 446.8144, -1818.5954, 5.2217, 0.0000, 0.0000, 0.0000, -1, -1); //CJ_BIN1
+obj = CreateDynamicObject(19353, 462.4591, -1789.1418, 2.8294, 0.0000, 0.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 462.4591, -1792.3520, 2.8294, 0.0000, 0.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 462.4591, -1786.4913, 2.8294, 0.0000, 0.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 460.7691, -1793.8728, 2.8294, 0.0000, 0.0000, 90.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 457.5593, -1793.8728, 2.8294, 0.0000, 0.0000, 90.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 460.7792, -1784.9719, 2.8294, 0.0000, 0.0000, 90.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 457.5791, -1784.9719, 2.8294, 0.0000, 0.0000, 90.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 455.8888, -1786.4829, 2.8294, 0.0000, 0.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 455.8888, -1789.6833, 2.8294, 0.0000, 0.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 455.8888, -1792.3536, 2.8294, 0.0000, 0.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFD78E10);
+obj = CreateDynamicObject(19353, 456.3187, -1789.6035, 4.4794, 0.0000, 90.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterialText(obj, 0, "PARKSPACE", 140, "Arial", 50, 1, 0xFFD78E10, 0x0, 1);
+obj = CreateDynamicObject(19353, 456.7289, -1789.6035, 4.4794, 0.0000, 90.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterialText(obj, 0, "EMERGENCY VEHICLES", 140, "Arial", 50, 0, 0xFFD78E10, 0x0, 1);
+obj = CreateDynamicObject(19353, 437.7289, -1791.7944, 4.4794, 0.0000, 90.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterialText(obj, 0, "EMERGENCY VEHICLES", 140, "Arial", 50, 0, 0xFFD78E10, 0x0, 1);
+obj = CreateDynamicObject(19353, 437.3587, -1791.7542, 4.4893, 0.0000, 90.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterialText(obj, 0, "ONLY", 140, "Arial", 50, 1, 0xFFD78E10, 0x0, 1);
+obj = CreateDynamicObject(19121, 453.9064, -1794.7624, 5.1027, 0.0000, 0.0000, 0.0000, -1, -1); //BollardLight1
+obj = CreateDynamicObject(1359, 464.3843, -1807.4759, 5.2316, 0.0000, 0.0000, 0.0000, -1, -1); //CJ_BIN1
+obj = CreateDynamicObject(1359, 473.5284, -1827.2480, 5.1325, 0.0000, 0.0000, 0.0000, -1, -1); //CJ_BIN1
+obj = CreateDynamicObject(1359, 594.8731, -1840.0742, 5.1305, 0.0000, 0.0000, 0.0000, -1, -1); //CJ_BIN1
+obj = CreateDynamicObject(1359, 662.4588, -1853.9775, 5.1517, 0.0000, 0.0000, -5.8998, -1, -1); //CJ_BIN1
+obj = CreateDynamicObject(9314, 564.09991, -1811.59985, 10.30500,   0.00000, 0.00000, -61.92000);
+SetDynamicObjectMaterialText(obj, 0, "Roller- & Strandmattenverleih\nBallonticketverkauf", 130, "Gabriola", 80, 1, 0xFFFFFFFF, 0xFF9D9872, 1);
+SetDynamicObjectMaterialText(obj, 1, 6205, "lawartg", "luxorwall01_128", 0xFFFFFFFF);

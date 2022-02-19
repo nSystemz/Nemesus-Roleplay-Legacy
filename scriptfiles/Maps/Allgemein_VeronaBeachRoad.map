@@ -1,0 +1,194 @@
+RemoveBuildingForPlayer(playerid, 1290, 917.3281, -1780.3047, 18.2266, 0.25);
+
+obj = CreateDynamicObject(6325, 128.1269, -1551.0312, 8.2054, 0.0000, 0.0000, -7.7399, -1, -1); //Roads01_LAw2 (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 5, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(6427, 293.2207, -1691.2187, 7.8474, 0.0000, 0.0000, 0.0000, -1, -1); //Roads03_LAw2 (n/A)
+SetDynamicObjectMaterial(obj, 0, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(6310, 437.9002, -1715.1014, 8.5978, 0.0000, 0.0000, 0.0000, -1, -1); //Roads08_LAw2 (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 5, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(5021, 1044.9161, -2023.3906, 17.5118, 0.0000, 0.0000, 0.0000, -1, -1); //LAroadsbrk_05_LAs (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 5, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 6, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 7, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(6309, 576.6425, -1730.4217, 11.8849, 0.0000, 0.0000, 0.0000, -1, -1); //Roads29_LAw2 (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(6122, 798.0958, -1763.1014, 12.6976, 0.0000, 0.0000, 0.0000, -1, -1); //lawroads_law16 (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(6116, 997.5645, -1798.5156, 12.9568, 0.0000, 0.0000, 0.0000, -1, -1); //lawroads_law10 (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(6118, 1050.0781, -1864.3125, 12.4083, 0.0000, 0.0000, 0.0000, -1, -1); //lawroads_law01 (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 2, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(5046, 1105.5019, -2355.9531, 16.3164, 0.0000, 0.0000, 0.0000, -1, -1); //bchcostrd4fuk_LAS (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(19447, 1054.5975, -1852.6832, 12.5008, 0.0000, 90.0000, 0.7998, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(6316, 199.3863, -1626.7547, 12.3802, 0.0000, 0.0000, 133.0802, -1, -1); //Roads02_LAw2 (n/A)
+SetDynamicObjectMaterial(obj, 0, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(4809, 1036.5252, -2204.4375, 14.1660, 0.0000, 0.0000, 0.0000, -1, -1); //LAroads_05_LAs (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 5, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(4840, 1233.5019, -2438.0000, 8.1443, 0.0000, 0.0000, 0.0000, -1, -1); //bchcostrd4_LAS (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 17081, "cuntwlandcent", "grassdeep1", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+obj = CreateDynamicObject(19447, 1053.0874, -1852.7037, 12.5015, 0.0000, 90.0000, 0.7998, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1049.9179, -1852.7464, 11.5697, 0.0000, 57.2999, 0.7998, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1057.7713, -1852.6335, 11.5666, 0.0000, -57.2999, 0.7998, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1026.2691, -1806.7304, 13.0163, 1.0000, 90.1998, 61.6999, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1025.6003, -1807.9714, 13.0225, 1.0000, 90.1998, 62.4999, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1024.1184, -1810.7805, 12.1009, 1.0000, 57.2999, 62.4999, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 1027.7666, -1803.9154, 12.0979, 1.0000, -57.2999, 61.6999, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 916.3505, -1779.6756, 12.4806, 0.0000, 90.0998, 85.9000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 916.2495, -1781.0925, 12.4843, 0.0000, 90.0998, 86.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 916.0501, -1784.2530, 11.5683, 0.0000, 57.2999, 86.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 916.5775, -1776.5118, 11.5507, 0.0000, -57.2999, 85.9000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 810.3909, -1776.2513, 12.4870, 0.0000, 90.0000, 90.8000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 810.4119, -1777.7613, 12.4884, 0.0000, 90.0000, 90.8000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 810.4553, -1780.9305, 11.5585, 0.0000, 57.2999, 90.8000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 810.3461, -1773.0825, 11.5571, 0.0000, -57.2999, 90.8000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 752.5775, -1771.1740, 11.9232, -0.0998, 90.0000, 79.8000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 752.2841, -1772.8076, 11.9245, -0.0998, 90.0000, 78.0000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 751.6253, -1775.9078, 10.9945, -0.0998, 57.2999, 78.0000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 753.1409, -1768.0528, 10.9933, -0.0998, -57.2999, 79.8000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 631.2557, -1737.7004, 12.4951, 0.1000, 89.0999, 79.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 621.7905, -1735.9294, 12.5518, 0.6000, 89.1999, 79.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 621.5089, -1737.4333, 12.5313, 0.4999, 89.3000, 79.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 630.9738, -1739.2043, 12.4673, 0.1999, 89.3000, 79.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 630.3872, -1742.3183, 11.5151, 0.1999, 57.2999, 79.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 620.9190, -1740.5461, 11.5792, 0.4999, 57.2999, 79.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 622.3660, -1732.8048, 11.6526, 0.6000, -57.2999, 79.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 631.8391, -1734.5769, 11.5958, 0.1000, -57.2999, 79.4000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 460.2759, -1714.7026, 9.7512, -1.4998, 88.8000, 82.0000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 460.4877, -1713.1882, 9.7845, -1.4998, 88.8000, 82.0000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 460.9515, -1710.0539, 8.8908, -1.4998, -57.2999, 82.0000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19447, 459.8594, -1717.8465, 8.7855, -1.4998, 57.2999, 82.0000, -1, -1); //wall087 (n/A)
+SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
+obj = CreateDynamicObject(715, 1282.9910, -2456.4213, 15.5440, 0.0000, 0.0000, 0.0000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(8991, 1260.6083, -2453.5515, 8.4583, 0.0000, 0.3999, -11.7000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(647, 1222.0830, -2443.7399, 9.9755, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 1304.5936, -2456.6416, 8.5655, 0.0000, 0.0000, 71.9999, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(715, 1203.1878, -2434.9997, 17.2340, 0.0000, 0.0000, 90.7000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 1120.8100, -2379.8627, 18.9740, 0.0000, 0.0000, 90.7000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 1041.4232, -2266.0258, 20.4440, 0.0000, 0.0000, 116.2000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 1050.4221, -2029.1206, 20.4415, 0.0000, 0.0000, 0.0000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 1053.4824, -1897.2863, 20.4982, 0.0000, 0.0000, -172.5999, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 1049.4177, -1830.0200, 21.0240, 0.0000, 0.0000, 0.0000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 984.0447, -1793.9910, 21.5387, 0.0000, 0.0000, 0.0000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 883.2011, -1778.2285, 20.9789, 0.0000, 0.0000, 51.5000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 779.8123, -1774.7120, 20.5089, 0.0000, 0.0000, 78.9000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 679.6488, -1749.0479, 20.8189, 0.0000, 0.0000, 107.4999, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 524.9007, -1721.3289, 19.7389, 0.0000, 0.0000, 131.5999, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 385.1346, -1710.5189, 15.3047, 0.0000, 0.0000, -82.1999, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 272.1744, -1693.5677, 15.3647, 0.0000, 0.0000, -33.0000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 177.7178, -1601.0836, 21.4847, 0.0000, 0.0000, -87.2000, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(715, 118.4981, -1546.5397, 15.2247, 0.0000, 0.0000, -141.8999, -1, -1); //veg_bevtree3 (n/A)
+obj = CreateDynamicObject(647, 1189.9197, -2429.6564, 10.7866, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(8991, 568.5332, -1728.1704, 12.9765, 0.0000, -0.4999, -8.5999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 650.5878, -1742.5035, 13.1345, 0.0000, -0.4999, -13.2999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 727.4600, -1766.3173, 13.8403, 0.0000, 1.4999, -17.9999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 798.2808, -1776.9858, 13.1160, 0.0000, -0.5999, 0.0000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 856.6233, -1777.2661, 13.3169, 0.0000, -0.5999, 179.0999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 958.3307, -1787.1862, 13.8897, 0.0000, 0.0000, 166.7999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 1041.2867, -1818.2620, 13.4122, 0.0000, 0.0000, -49.2000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 1054.6802, -1884.0489, 12.8307, 0.0000, 0.0000, 90.0000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 1055.3907, -1949.3392, 12.7507, 0.0000, 0.0000, 90.0000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 1046.4212, -2048.0471, 12.7607, 0.0000, 0.2999, -97.9000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 1163.4958, -2414.8701, 10.3155, 0.0000, 0.5999, -34.7000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 1076.0706, -2329.3964, 12.3408, 0.0000, 0.0000, -54.1999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 1032.1518, -2242.9497, 12.7508, 0.0000, 0.0000, -72.4000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 414.7698, -1709.6810, 8.9238, 0.0000, -2.1999, -1.7999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 325.1741, -1706.7094, 6.2444, 0.0000, 0.0000, -8.6999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 233.6447, -1667.3760, 10.8669, 0.0000, 3.7000, -43.5000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 169.9891, -1590.1853, 13.1169, 0.0000, -2.9999, -50.2000, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(8991, 111.1667, -1542.4797, 6.8374, 0.0000, 5.3999, 156.6999, -1, -1); //bush12_lvs (n/A)
+obj = CreateDynamicObject(647, 1133.6639, -2391.8159, 11.9241, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 1093.1446, -2351.8000, 12.9365, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 1052.6441, -2291.6630, 13.6990, 0.0000, 0.0000, 59.7999, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 1054.2294, -1978.9995, 13.6922, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 1055.3076, -1917.6882, 13.6777, 0.0000, 0.0000, 67.0999, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 1051.6412, -1836.6663, 14.0666, 0.0000, 0.0000, -76.8000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 1008.0259, -1799.9099, 14.6723, 0.0000, 0.0000, -20.7999, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 929.5183, -1781.4371, 13.9646, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 901.4913, -1778.9144, 14.2154, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 832.4732, -1776.6904, 14.0006, 0.0000, 0.0000, -34.6999, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 760.9897, -1773.6273, 13.6028, 0.0000, 0.0000, 38.9000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 706.2437, -1758.8480, 14.7950, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 610.5038, -1734.8455, 14.2404, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 538.2739, -1724.2971, 13.2152, 0.0000, 0.0000, -171.3000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 480.2932, -1716.6926, 11.8693, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 344.7771, -1708.2811, 7.4323, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 281.9508, -1696.6369, 8.3424, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 207.8358, -1637.5161, 14.4081, 0.0000, 0.0000, 0.0000, -1, -1); //new_bushsm (n/A)
+obj = CreateDynamicObject(647, 126.7327, -1551.8374, 9.3616, 0.0000, 0.0000, 35.8000, -1, -1); //new_bushsm (n/A)

@@ -1,0 +1,23 @@
+obj = CreateDynamicObject(12941, 207.8146, -46.8498, 0.5681, 0.0000, 0.0000, 0.0000, -1, -1); //sw_LastDrop (n/A)
+SetDynamicObjectMaterialText(obj, 0, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 1, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 2, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 3, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 4, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 5, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 6, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 7, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterialText(obj, 8, ".", 140, "Arial", 1, 0, 0xFFFFFF00, 0x0, 0);
+SetDynamicObjectMaterial(obj, 9, 10765, "airportgnd_sfse", "white", 0xFF5F0A15);
+obj = CreateDynamicObject(19427, 204.5774, -61.0161, 8.4994, 90.0000, 0.0000, 0.0000, -1, -1); //wall067 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(19353, 207.6241, -62.6672, 8.7306, 0.0000, 0.0000, 90.0000, -1, -1); //wall001 (n/A)
+SetDynamicObjectMaterialText(obj, 0, "REDSTONE", 140, "Arial", 110, 1, 0xFFFFFFFF, 0x0, 1);
+obj = CreateDynamicObject(19427, 206.2376, -61.9561, 7.7794, 0.0000, 90.0000, 0.0000, -1, -1); //wall067 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 211.0674, -61.0161, 9.5894, 90.0000, 0.0000, 0.0000, -1, -1); //wall067 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(19427, 209.3976, -61.9561, 10.3094, 0.0000, 90.0000, 0.0000, -1, -1); //wall067 (n/A)
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "black64", 0xFFFFFFFF);
+obj = CreateDynamicObject(19353, 207.6241, -62.6672, 9.4406, 0.0000, 0.0000, 90.0000, -1, -1); //wall001 (n/A)
+SetDynamicObjectMaterialText(obj, 0, "CLUB", 140, "Segoe UI Light", 100, 1, 0xFFFFFFFF, 0x0, 1);

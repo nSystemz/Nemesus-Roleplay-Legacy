@@ -1,0 +1,32 @@
+CreateDynamicObject(3031, 861.4628, 372.6896, 24.6560, -11.0000, -25.0000, 0.0000, 0, 0); //wong_dish
+CreateDynamicObject(2245, 850.1063, 365.3052, 21.1590, 0.0000, 0.0000, 0.0000, 0, 0); //Plant_Pot_11
+obj = CreateDynamicObject(19444, 848.6702, 350.9284, 18.9099, -162.0000, 90.0000, 17.0000, 0, 0); //wall084
+SetDynamicObjectMaterial(obj, 0, 5710, "cemetery_law", "Grass_path_law", 0x00000000);
+obj = CreateDynamicObject(19444, 855.3720, 352.9800, 18.8628, -162.0000, 89.8000, 17.0000, 0, 0); //wall084
+SetDynamicObjectMaterial(obj, 0, 8486, "ballys02", "Grass_concpath_128HV", 0x00000000);
+obj = CreateDynamicObject(19444, 851.0883, 351.6600, 18.9101, -162.0000, 90.0998, 17.0000, 0, 0); //wall084
+SetDynamicObjectMaterial(obj, 0, 5710, "cemetery_law", "Grass_path_law", 0x00000000);
+obj = CreateDynamicObject(19444, 857.6898, 353.6864, 18.8841, -162.0000, 91.0998, 17.0000, 0, 0); //wall084
+SetDynamicObjectMaterial(obj, 0, 8486, "ballys02", "Grass_concpath_128HV", 0x00000000);
+obj = CreateDynamicObject(19436, 853.1333, 352.2998, 18.8659, -162.0000, 88.8000, 17.0000, 0, 0); //wall076
+SetDynamicObjectMaterial(obj, 0, 4829, "airport_las", "Grass_128HV", 0x00000000);
+obj = CreateDynamicObject(19436, 847.8098, 350.6701, 18.8899, -161.8600, 90.0000, 17.0000, 0, 0); //wall076
+SetDynamicObjectMaterial(obj, 0, 4829, "airport_las", "Grass_128HV", 0x00000000);
+obj = CreateDynamicObject(19436, 860.8095, 354.6373, 18.8990, -162.0000, 89.4000, 17.0000, 0, 0); //wall076
+SetDynamicObjectMaterial(obj, 0, 4829, "airport_las", "Grass_128HV", 0x00000000);
+obj = CreateDynamicObject(19436, 863.8530, 355.5848, 18.8899, -162.0000, 90.0000, 17.0000, 0, 0); //wall076
+SetDynamicObjectMaterial(obj, 0, 4829, "airport_las", "Grass_128HV", 0x00000000);
+obj = CreateDynamicObject(19436, 866.8944, 356.5310, 18.8899, -162.0000, 90.0000, 17.0000, 0, 0); //wall076
+SetDynamicObjectMaterial(obj, 0, 4829, "airport_las", "Grass_128HV", 0x00000000);
+obj = CreateDynamicObject(19436, 867.7009, 356.7892, 18.8899, -162.0000, 90.0000, 17.0000, 0, 0); //wall076
+SetDynamicObjectMaterial(obj, 0, 4829, "airport_las", "Grass_128HV", 0x00000000);
+CreateDynamicObject(19380, 844.2448, 355.3900, 13.9827, 0.0000, 0.0000, 16.6200, 0, 0); //wall028
+CreateDynamicObject(19380, 844.3071, 356.5111, 13.9832, 0.0000, 0.0000, 16.2000, 0, 0); //wall028
+CreateDynamicObject(19380, 844.4196, 355.5296, 13.9832, 0.0000, 0.0000, 16.2000, 0, 0); //wall028
+CreateDynamicObject(19380, 867.9072, 362.5401, 13.9832, 0.0000, 0.0000, 16.5599, 0, 0); //wall028
+CreateDynamicObject(19380, 844.4373, 355.4479, 13.9832, 0.0000, 0.0000, 16.6800, 0, 0); //wall028
+CreateDynamicObject(19380, 844.3217, 355.4151, 13.9832, 0.0000, 0.0000, 16.6800, 0, 0); //wall028
+CreateDynamicObject(3315, 848.0780, 371.5227, 16.2504, 0.1000, -179.9400, 16.8199, 0, 0); //sw_bigburb_03
+CreateDynamicObject(3315, 848.0819, 371.5437, 18.2171, 0.1000, -179.9400, 16.8400, 0, 0); //sw_bigburb_03
+CreateDynamicObject(19380, 868.0175, 362.5704, 13.9832, 0.0000, 0.0000, 16.5599, 0, 0); //wall028
+CreateDynamicObject(3315, 855.8176, 373.8912, 20.1970, 0.0000, 0.0798, 16.8600, 0, 0); //sw_bigburb_03

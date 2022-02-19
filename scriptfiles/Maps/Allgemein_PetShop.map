@@ -1,0 +1,163 @@
+obj = CreateDynamicObject(19327, 1401.3767, 287.0325, 23.0114, 0.0000, 0.0000, -23.8999); //7_11_sign02
+SetDynamicObjectMaterial(obj, 0, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+obj = CreateDynamicObject(19327, 1403.4981, 286.0925, 23.0114, 0.0000, 0.0000, -23.8999); //7_11_sign02
+SetDynamicObjectMaterial(obj, 0, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+obj = CreateDynamicObject(19327, 1402.5643, 286.4295, 22.9414, 0.0000, 0.0000, -23.8999); //7_11_sign02
+SetDynamicObjectMaterialText(obj, 0, "Montgomery", 90, "Times New Roman", 50, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(19327, 1403.1501, 286.1700, 22.5214, 0.0000, 0.0000, -23.8999); //7_11_sign02
+SetDynamicObjectMaterialText(obj, 0, "Pet Shop", 90, "Times New Roman", 50, 1, 0xFF000000, 0x0, 0);
+obj = CreateDynamicObject(1572, 1403.9116, 285.2878, 19.1382, 0.0000, 0.0000, -110.1000); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+obj = CreateDynamicObject(1572, 1403.4040, 285.4737, 19.1382, 0.0000, 0.0000, -110.1000); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+obj = CreateDynamicObject(1572, 1404.4473, 285.0917, 19.1382, 0.0000, 0.0000, -110.1000); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+obj = CreateDynamicObject(1364, 1398.6505, 287.4619, 19.1445, 0.0000, 0.0000, -22.7999); //CJ_BUSH_PROP
+obj = CreateDynamicObject(644, 1408.2918, 283.3721, 18.8336, 0.0000, 0.0000, 32.9000); //pot_02
+obj = CreateDynamicObject(644, 1395.8088, 288.3367, 18.8336, 0.0000, 0.0000, 17.3999); //pot_02
+obj = CreateDynamicObject(18981, 1401.4749, 281.0026, 2124.8300, 0.0000, 0.0000, 90.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 615, "gta_tree_boak", "sm_redwood_bark", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1401.4749, 290.2625, 2124.8300, 0.0000, 90.0000, 90.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 17036, "cuntwbt", "des_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1401.4749, 299.3826, 2124.8300, 0.0000, 0.0000, 90.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 615, "gta_tree_boak", "sm_redwood_bark", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1396.8248, 287.7325, 2124.8300, 0.0000, 0.0000, 0.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 615, "gta_tree_boak", "sm_redwood_bark", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1411.6749, 287.7325, 2124.8300, 0.0000, 0.0000, 0.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 615, "gta_tree_boak", "sm_redwood_bark", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1396.8354, 287.3926, 2140.2292, 0.0000, 0.0000, 0.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 12946, "ce_bankalley1", "newindow13", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1401.4749, 290.2625, 2129.2585, 0.0000, 90.0000, 0.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 12980, "sw_block10", "sw_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1401.5650, 281.0127, 2140.2292, 0.0000, 0.0000, 90.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 12946, "ce_bankalley1", "newindow13", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1411.6269, 287.3926, 2140.2292, 0.0000, 0.0000, 0.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 12946, "ce_bankalley1", "newindow13", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1401.6951, 299.3624, 2140.2292, 0.0000, 0.0000, 90.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 12946, "ce_bankalley1", "newindow13", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1401.4749, 281.0126, 2112.8964, 0.0000, 0.0000, 90.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "ab_wood01", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1401.4749, 299.3825, 2112.8964, 0.0000, 0.0000, 90.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "ab_wood01", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1396.8339, 293.8825, 2112.8964, 0.0000, 0.0000, 0.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "ab_wood01", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 1411.6649, 293.8825, 2112.8964, 0.0000, 0.0000, 0.0000,7,17); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 14581, "ab_mafiasuitea", "ab_wood01", 0xFFFFFFFF);
+obj = CreateDynamicObject(1561, 1404.4639, 298.8440, 2125.1943, 0.0000, 0.0000, 0.0000,7,17); //Gen_doorEXT7_11R
+SetDynamicObjectMaterial(obj, 0, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14488, "dogsgym", "AH_stolewindow", 0xFFFFFFFF);
+obj = CreateDynamicObject(1561, 1405.9537, 298.8440, 2125.1943, 0.0000, 0.0000, 0.0000,7,17); //Gen_doorEXT7_11R
+SetDynamicObjectMaterial(obj, 0, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14652, "ab_trukstpa", "CJ_WOOD6", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14488, "dogsgym", "AH_stolewindow", 0xFFFFFFFF);
+obj = CreateDynamicObject(14587, 1414.0539, 278.9718, 2127.9758, 0.0000, 0.0000, 0.0000,7,17); //ab_abbatoir02
+obj = CreateDynamicObject(14575, 1411.1384, 282.7918, 2126.6389, 0.0000, 0.0000, 0.0000,7,17); //maintenance31
+obj = CreateDynamicObject(14574, 1407.8746, 302.8290, 2126.4877, 0.0000, 0.0000, 0.0000,7,17); //maintenance20
+obj = CreateDynamicObject(2543, 1410.8254, 298.1516, 2125.4582, 0.0000, 0.0000, -90.0000,7,17); //CJ_SS_4_M
+SetDynamicObjectMaterial(obj, 2, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 5, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 6, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+obj = CreateDynamicObject(2543, 1410.8254, 296.6318, 2125.4582, 0.0000, 0.0000, -90.0000,7,17); //CJ_SS_4_M
+SetDynamicObjectMaterial(obj, 2, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 5, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 6, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+obj = CreateDynamicObject(2543, 1410.8154, 297.3715, 2125.4782, 0.0000, 0.0000, -90.0000,7,17); //CJ_SS_4_M
+SetDynamicObjectMaterial(obj, 2, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 5, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 6, 915, "airconext", "cj_sheet2", 0xFFFFFFFF);
+obj = CreateDynamicObject(1572, 1403.2332, 283.1822, 2125.8830, 0.0000, 0.0000, 93.8000,7,17); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+obj = CreateDynamicObject(11500, 1403.3903, 288.7495, 2122.7631, 0.0000, 0.0000, 0.0000,7,17); //des_skelsignbush_
+obj = CreateDynamicObject(1572, 1401.3957, 298.4257, 2125.8830, 0.0000, 0.0000, 88.5001,7,17); //CJ_AIR_TROLLY
+SetDynamicObjectMaterial(obj, 1, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+obj = CreateDynamicObject(2969, 1397.7221, 294.0756, 2125.6560, 0.0000, 90.0000, 90.0000,7,17); //level_ammobox
+SetDynamicObjectMaterial(obj, 0, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(11147, 1410.3886, 264.0196, 2127.1379, 0.0000, 0.0000, 90.0000,7,17); //acpipes1_SFS
+obj = CreateDynamicObject(1431, 1411.1284, 288.8299, 2125.8859, 0.0000, 0.0000, 0.0000,7,17); //DYN_BOX_PILE
+obj = CreateDynamicObject(923, 1403.1378, 283.1339, 2125.5229, 0.0000, 0.0000, 39.9000,7,17); //Packing_carates2
+SetDynamicObjectMaterial(obj, 1, 3214, "quarry", "Was_swr_trolleycage", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 2, " ", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(18856, 1397.2135, 279.0227, 2126.2324, 0.0000, 0.0000, 0.0000,7,17); //Cage5mx5mx3m
+SetDynamicObjectMaterial(obj, 0, 14415, "carter_block_2", "mp_carter_cage", 0xFFFFFFFF);
+obj = CreateDynamicObject(14459, 1425.4180, 277.5536, 2123.5913, 0.0000, 0.0000, 180.0000,7,17); //carter-cage
+obj = CreateDynamicObject(18856, 1397.0433, 291.6627, 2125.5324, 0.0000, 0.0000, 0.0000,7,17); //Cage5mx5mx3m
+SetDynamicObjectMaterial(obj, 0, 3214, "quarry", "Was_swr_trolleycage", 0xFFFFFFFF);
+obj = CreateDynamicObject(18856, 1397.2135, 301.3425, 2125.5324, 0.0000, 0.0000, 0.0000,7,17); //Cage5mx5mx3m
+SetDynamicObjectMaterial(obj, 0, 14415, "carter_block_2", "mp_carter_cage", 0xFFFFFFFF);
+obj = CreateDynamicObject(14459, 1425.3880, 277.5536, 2122.5803, 0.0000, 0.0000, 180.0000,7,17); //carter-cage
+obj = CreateDynamicObject(18856, 1397.2135, 298.2726, 2125.5324, 0.0000, 0.0000, 0.0000,7,17); //Cage5mx5mx3m
+SetDynamicObjectMaterial(obj, 0, 14415, "carter_block_2", "mp_carter_cage", 0xFFFFFFFF);
+obj = CreateDynamicObject(18856, 1397.2135, 281.8827, 2126.2324, 0.0000, 0.0000, 0.0000,7,17); //Cage5mx5mx3m
+SetDynamicObjectMaterial(obj, 0, 14415, "carter_block_2", "mp_carter_cage", 0xFFFFFFFF);
+obj = CreateDynamicObject(1431, 1410.7980, 290.3198, 2125.8859, 0.0000, 0.0000, 90.0000,7,17); //DYN_BOX_PILE
+obj = CreateDynamicObject(2184, 1408.9614, 294.5012, 2125.3051, 0.0000, 0.0000, -87.3000,7,17); //MED_OFFICE6_DESK_2
+SetDynamicObjectMaterial(obj, 0, 1560, "7_11_door", "cj_sheetmetal2", 0xFFFFFFFF);
+obj = CreateDynamicObject(1495, 1397.9742, 294.1014, 2122.9941, 0.0000, 0.0000, 0.0000,7,17); //Gen_doorEXT01
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "redmetal", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3214, "quarry", "Was_swr_trolleycage", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 11150, "ab_acc_control", "ws_shipmetal5", 0xFFFFFFFF);
+obj = CreateDynamicObject(1495, 1398.1744, 284.3716, 2122.9941, 0.0000, 0.0000, 0.0000,7,17); //Gen_doorEXT01
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "redmetal", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3214, "quarry", "Was_swr_trolleycage", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(2969, 1397.7221, 295.8457, 2125.6560, 0.0000, 90.0000, -90.0000,7,17); //level_ammobox
+SetDynamicObjectMaterial(obj, 0, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1495, 1398.1744, 284.3616, 2125.1762, 0.0000, 0.0000, 0.0000,7,17); //Gen_doorEXT01
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "redmetal", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3214, "quarry", "Was_swr_trolleycage", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(2969, 1397.9619, 284.3255, 2125.6560, 0.0000, 90.0000, 90.0000,7,17); //level_ammobox
+SetDynamicObjectMaterial(obj, 0, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1495, 1398.1744, 295.7915, 2124.4455, 0.0000, 0.0000, 0.0000,7,17); //Gen_doorEXT01
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "redmetal", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3214, "quarry", "Was_swr_trolleycage", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1495, 1398.1644, 295.8015, 2122.9941, 0.0000, 0.0000, 0.0000,7,17); //Gen_doorEXT01
+SetDynamicObjectMaterial(obj, 0, 16640, "a51", "redmetal", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3214, "quarry", "Was_swr_trolleycage", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+obj = CreateDynamicObject(1495, 1397.9842, 294.1116, 2124.4455, 0.0000, 0.0000, 0.0000,7,17); //Gen_doorEXT01
+SetDynamicObjectMaterial(obj, 0, 10839, "aircarpkbarier_sfse", "redband_64Ha", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 3214, "quarry", "Was_swr_trolleycage", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 11150, "ab_acc_control", "ws_shipmetal5", 0xFFFFFFFF);
+obj = CreateDynamicObject(1721, 1407.5699, 292.2004, 2125.3308, 0.0000, 0.0000, -73.5000,7,17); //est_chair1
+obj = CreateDynamicObject(1721, 1407.4818, 293.9782, 2125.3308, 0.0000, 0.0000, -96.9999,7,17); //est_chair1
+obj = CreateDynamicObject(1714, 1410.8446, 292.9795, 2125.3393, 0.0000, 0.0000, -110.1000,7,17); //kb_swivelchair1
+obj = CreateDynamicObject(1514, 1409.6226, 294.1964, 2126.3454, 0.0000, 0.0000, -106.4000,7,17); //DYN_FF_TILL
+obj = CreateDynamicObject(1763, 1407.6896, 298.3874, 2125.2856, 0.0000, 0.0000, 0.0000,7,17); //LOW_COUCH_1
+obj = CreateDynamicObject(1431, 1399.8181, 287.4899, 2125.8859, 0.0000, 0.0000, 90.0000,7,17); //DYN_BOX_PILE
+obj = CreateDynamicObject(3785, 1411.0865, 285.7644, 2126.1066, 90.0000, 90.0000, 90.0000,7,17); //bulkheadlight
+obj = CreateDynamicObject(1245, 1407.8884, 289.3216, 2125.8637, 0.0000, 0.0000, 90.0000,7,17); //newramp
+obj = CreateDynamicObject(3785, 1397.4248, 296.5344, 2126.4570, 90.0000, 90.0000, -90.0000,7,17); //bulkheadlight
+obj = CreateDynamicObject(3785, 1397.4248, 290.0244, 2126.4570, 90.0000, 90.0000, -90.0000,7,17); //bulkheadlight
+obj = CreateDynamicObject(3785, 1397.4248, 283.4446, 2126.4570, 90.0000, 90.0000, -90.0000,7,17); //bulkheadlight
+obj = CreateDynamicObject(18608, 1404.3383, 290.3528, 2130.0075, 0.0000, 0.0000, 0.0000,7,17); //countS_lights01
+obj = CreateDynamicObject(14873, 1410.7937, 281.6899, 2125.1699, 0.0000, 0.0000, 0.0000,7,17); //Kylie_hay
+obj = CreateDynamicObject(19919, 1403.3605, 288.4877, 2125.3308, 0.0000, 0.0000, 0.0000,7,17); //CutscenePerch1
+obj = CreateDynamicObject(19919, 1398.6307, 282.2775, 2125.3308, 0.0000, 0.0000, 0.0000,7,17); //CutscenePerch1
+obj = CreateDynamicObject(19078, 1403.3486, 288.4035, 2126.8203, 0.0000, -90.0000, 0.0000,7,17); //TheParrot1
+obj = CreateDynamicObject(1415, 1404.1220, 282.0033, 2125.3740, 0.0000, 0.0000, 180.0000,7,17); //DYN_DUMPSTER
+obj = CreateDynamicObject(19078, 1398.4118, 283.6210, 2125.3549, 3.0999, -90.0000, -105.2999,7,17); //TheParrot1
+obj = CreateDynamicObject(19078, 1398.7873, 282.2135, 2126.8203, 3.0999, -90.0000, 17.6999,7,17); //TheParrot1
+obj = CreateDynamicObject(2611, 1401.6800, 281.6375, 2126.9584, 0.0000, 0.0000, 180.0000,7,17); //POLICE_NB1
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 18065, "ab_sfammumain", "plywood_gym", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 5, 15040, "cuntcuts", "csnewspaper", 0xFFFFFFFF);
+obj = CreateDynamicObject(2959, 1405.3266, 281.4270, 2125.2197, 0.0000, 0.0000, -90.0000,7,17); //rider1_door
+obj = CreateDynamicObject(917, 1404.7498, 282.8318, 2125.5187, 0.0000, 0.0000, 0.0000,7,17); //FRUITCRATE1
+obj = CreateDynamicObject(917, 1404.7498, 282.8318, 2125.7890, 0.0000, 0.0000, 0.0000,7,17); //FRUITCRATE1
+obj = CreateDynamicObject(917, 1404.7498, 282.8318, 2126.0292, 0.0000, 0.0000, -35.5999,7,17); //FRUITCRATE1
+obj = CreateDynamicObject(917, 1404.2979, 282.9409, 2125.5187, 0.0000, 0.0000, 91.3999,7,17); //FRUITCRATE1
+obj = CreateDynamicObject(931, 1398.3227, 287.4954, 2126.3710, 0.0000, 0.0000, 90.0000,7,17); //RACK3
+obj = CreateDynamicObject(19315, 1410.2739, 283.5804, 2125.6435, 0.0000, 0.0000, 21.8000,7,17); //deer01
+obj = CreateDynamicObject(19315, 1409.2675, 286.0965, 2125.6435, 0.0000, 0.0000, -167.7999,7,17); //deer01
+obj = CreateDynamicObject(19315, 1410.5085, 285.1368, 2125.3933, 90.0000, -90.0000, -167.7999,7,17); //deer01
+obj = CreateDynamicObject(2001, 1406.6157, 298.6436, 2125.3295, 0.0000, 0.0000, 0.0000,7,17); //nu_plant_ofc
+obj = CreateDynamicObject(2001, 1402.3460, 298.6436, 2125.3295, 0.0000, 0.0000, 0.0000,7,17); //nu_plant_ofc
+obj = CreateDynamicObject(2345, 1403.3521, 288.8810, 2127.1135, 0.0000, 0.0000, 180.0000,7,17); //Plant_Pot_23
+obj = CreateDynamicObject(2345, 1403.3521, 288.5109, 2127.1135, 0.0000, 0.0000, 0.0000,7,17); //Plant_Pot_23
+obj = CreateDynamicObject(644, 1402.4287, 289.1275, 2125.0751, 0.0000, 0.0000, 0.0000,7,17); //pot_02
+obj = CreateDynamicObject(644, 1404.2595, 288.1775, 2125.0751, 0.0000, 0.0000, 0.0000,7,17); //pot_02
+obj = CreateDynamicObject(19427, 1403.4052, 288.5823, 2125.2514, 0.0000, -90.0000, 0.0000,7,17); //wall067
+SetDynamicObjectMaterial(obj, 0, 5114, "beach_las2", "sw_sand", 0xFFFFFFFF);

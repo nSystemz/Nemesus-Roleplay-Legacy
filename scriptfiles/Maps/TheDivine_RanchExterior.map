@@ -1,0 +1,134 @@
+obj = CreateDynamicObject(1491, -753.0897, 729.8753, 18.3966, 0.0000, 90.3999, 146.2998); //Gen_doorINT01
+SetDynamicObjectMaterial(obj, 0, 13699, "cunte2_lahills", "laposhfence3", 0xFF9C8D71);
+obj = CreateDynamicObject(3276, -742.4351, 716.7896, 17.9388, 0.0000, 2.5000, -30.6998); //cxreffencesld
+obj = CreateDynamicObject(3276, -750.2241, 724.8208, 18.0097, 0.0000, -1.2999, -61.2999); //cxreffencesld
+obj = CreateDynamicObject(3276, -773.1848, 737.5737, 18.1252, 0.0000, 0.0000, -41.1996); //cxreffencesld
+obj = CreateDynamicObject(3276, -781.4337, 745.7482, 18.1252, 0.0000, 0.0000, -48.2994); //cxreffencesld
+obj = CreateDynamicObject(3276, -788.3779, 755.0543, 18.1252, 0.0000, 0.0000, -58.2994); //cxreffencesld
+obj = CreateDynamicObject(3276, -794.1884, 765.1326, 18.1746, 0.0000, 0.2998, -61.7994); //cxreffencesld
+obj = CreateDynamicObject(3276, -799.6176, 775.4494, 18.1457, 0.0000, -0.3998, -62.7994); //cxreffencesld
+obj = CreateDynamicObject(3276, -804.7009, 785.9320, 18.0743, 0.0000, 0.0000, -65.4996); //cxreffencesld
+obj = CreateDynamicObject(3276, -809.1660, 796.6917, 18.0345, 0.0000, -0.2998, -69.3992); //cxreffencesld
+obj = CreateDynamicObject(3276, -813.2683, 807.6043, 18.0634, 0.0000, 0.9998, -69.3992); //cxreffencesld
+obj = CreateDynamicObject(1491, -757.2363, 732.6516, 18.3866, 0.0000, 90.0000, -33.9000); //Gen_doorINT01
+SetDynamicObjectMaterial(obj, 0, 13699, "cunte2_lahills", "laposhfence3", 0xFF9C8D71);
+obj = CreateDynamicObject(3276, -742.5023, 716.8294, 16.1504, 0.0000, 2.5000, -30.6998); //cxreffencesld
+obj = CreateDynamicObject(3276, -763.0360, 733.2246, 18.0153, 0.0000, 1.4996, -4.9994); //cxreffencesld
+obj = CreateDynamicObject(3276, -816.9940, 818.6776, 18.3577, 0.0000, 2.2999, -73.3992); //cxreffencesld
+obj = CreateDynamicObject(3276, -820.3187, 829.8314, 18.9652, 0.0000, 3.5999, -73.3992); //cxreffencesld
+obj = CreateDynamicObject(3276, -823.4614, 841.0371, 19.9479, 0.0000, 6.4998, -75.1996); //cxreffencesld
+obj = CreateDynamicObject(3276, -826.4249, 852.2528, 21.0993, 0.0000, 4.6999, -75.1996); //cxreffencesld
+obj = CreateDynamicObject(3276, -829.3159, 863.5468, 22.0282, 0.0000, 4.6999, -75.9996); //cxreffencesld
+obj = CreateDynamicObject(3276, -823.5131, 841.2335, 18.1693, 0.0000, 6.4998, -75.1996); //cxreffencesld
+obj = CreateDynamicObject(1491, -832.8983, 998.8767, 24.7010, 0.0000, 90.0000, 95.2994); //Gen_doorINT01
+SetDynamicObjectMaterial(obj, 0, 13699, "cunte2_lahills", "laposhfence3", 0xFF9C8D71);
+obj = CreateDynamicObject(1491, -833.3792, 1003.8433, 24.7010, 0.0000, 90.0000, -84.6996); //Gen_doorINT01
+SetDynamicObjectMaterial(obj, 0, 13699, "cunte2_lahills", "laposhfence3", 0xFF9C8D71);
+obj = CreateDynamicObject(3276, -835.7498, 1009.1593, 24.2402, 0.0000, 1.5999, -65.2994); //cxreffencesld
+obj = CreateDynamicObject(3276, -838.8930, 1020.2036, 24.3899, 0.0000, -0.3000, -82.8992); //cxreffencesld
+obj = CreateDynamicObject(3276, -840.3331, 1031.7701, 24.4687, 0.0000, 1.5999, -82.8992); //cxreffencesld
+obj = CreateDynamicObject(3276, -842.0626, 1043.2331, 24.7929, 0.0000, 1.5999, -79.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -840.2097, 1053.5808, 27.3477, 0.0000, 21.2999, -121.6996); //cxreffencesld
+obj = CreateDynamicObject(3276, -836.5089, 1063.9123, 30.5118, 0.0000, 10.3000, -99.4996); //cxreffencesld
+obj = CreateDynamicObject(1893, -691.2705, 963.1444, 17.4862, 0.0000, 0.0000, 0.0000); //shoplight1
+obj = CreateDynamicObject(1893, -673.4805, 963.1444, 17.4862, 0.0000, 0.0000, 0.0000); //shoplight1
+obj = CreateDynamicObject(1893, -679.1217, 963.1444, 17.4862, 0.0000, 0.0000, 0.0000); //shoplight1
+obj = CreateDynamicObject(1893, -691.2705, 968.6251, 17.4862, 0.0000, 0.0000, 0.0000); //shoplight1
+obj = CreateDynamicObject(1893, -684.7318, 968.6251, 17.4862, 0.0000, 0.0000, 0.0000); //shoplight1
+obj = CreateDynamicObject(1893, -679.1217, 968.6251, 17.4862, 0.0000, 0.0000, 0.0000); //shoplight1
+obj = CreateDynamicObject(1893, -684.7318, 963.1444, 17.4862, 0.0000, 0.0000, 0.0000); //shoplight1
+obj = CreateDynamicObject(1893, -673.4805, 968.6251, 17.4862, 0.0000, 0.0000, 0.0000); //shoplight1
+obj = CreateDynamicObject(19843, -688.5877, 931.4467, 12.6000, 0.0000, 0.0000, 0.0000); //MetalPanel1
+SetDynamicObjectMaterial(obj, 0, 10386, "mountainsfs", "ws_stonewall", 0xFFFFFFFF);
+obj = CreateDynamicObject(19466, -687.9982, 931.9185, 11.9947, 0.0000, 0.0000, 90.0000); //window001
+SetDynamicObjectMaterial(obj, 0, 18065, "ab_sfammumain", "shelf_glas", 0xFFFFFFFF);
+obj = CreateDynamicObject(19843, -687.5971, 931.4467, 12.6000, 0.0000, 0.0000, 0.0000); //MetalPanel1
+SetDynamicObjectMaterial(obj, 0, 10386, "mountainsfs", "ws_stonewall", 0xFFFFFFFF);
+obj = CreateDynamicObject(19087, -687.3776, 931.9227, 12.9770, 0.0000, 0.0000, 0.0000); //Rope1
+SetDynamicObjectMaterial(obj, 0, 2669, "cj_chris", "cj_metalplate2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19087, -688.7777, 931.9227, 12.9770, 0.0000, 0.0000, 0.0000); //Rope1
+SetDynamicObjectMaterial(obj, 0, 2669, "cj_chris", "cj_metalplate2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19632, -688.0802, 931.6254, 12.6464, 0.0000, 0.0000, 0.0000); //FireWood1
+obj = CreateDynamicObject(19632, -688.2202, 931.6254, 12.6464, 0.0000, 0.0000, 0.0000); //FireWood1
+obj = CreateDynamicObject(19632, -687.9901, 931.6254, 12.6464, 0.0000, 0.0000, 0.0000); //FireWood1
+obj = CreateDynamicObject(1703, -692.1911, 934.1135, 12.5818, 0.0000, 0.0000, 90.0000); //kb_couch02
+obj = CreateDynamicObject(2249, -690.1118, 935.2224, 13.8156, 0.0000, 0.0000, -59.2000); //Plant_Pot_18
+SetDynamicObjectMaterial(obj, 1, 18065, "ab_sfammumain", "shelf_glas", 0xFFFFFFFF);
+obj = CreateDynamicObject(2311, -690.3015, 934.4259, 12.6854, 0.0000, 0.0000, 90.0000); //CJ_TV_TABLE2
+SetDynamicObjectMaterial(obj, 0, 14652, "ab_trukstpa", "CJ_WOOD1(EDGE)", 0xFFFFFFFF);
+obj = CreateDynamicObject(3276, -835.6411, 993.7108, 24.1644, 0.0000, 0.0000, -118.1996); //cxreffencesld
+obj = CreateDynamicObject(1491, -583.2495, 1101.7115, 11.4097, 0.0000, 90.0000, 133.8999); //Gen_doorINT01
+SetDynamicObjectMaterial(obj, 0, 13699, "cunte2_lahills", "laposhfence3", 0xFF9C8D71);
+obj = CreateDynamicObject(3276, -577.5717, 1100.4089, 11.0733, 0.0000, 1.8997, 167.9994); //cxreffencesld
+obj = CreateDynamicObject(2852, -690.2913, 935.8026, 13.1857, 0.0000, 0.0000, 0.0000); //gb_bedmags02
+obj = CreateDynamicObject(3276, -566.5899, 1096.2330, 11.2468, 0.0000, -0.6998, 150.5995); //cxreffencesld
+obj = CreateDynamicObject(3276, -587.0922, 1111.1120, 10.8437, 0.0000, 0.7997, 92.9991); //cxreffencesld
+obj = CreateDynamicObject(3276, -590.6890, 1121.7370, 10.4111, 0.0000, 3.0999, 125.1996); //cxreffencesld
+obj = CreateDynamicObject(3276, -596.6828, 1131.7751, 9.5523, 0.0000, 5.2999, 116.5000); //cxreffencesld
+obj = CreateDynamicObject(3276, -601.8748, 1142.1894, 8.5733, 0.0000, 4.0000, 116.5000); //cxreffencesld
+obj = CreateDynamicObject(3276, -606.7559, 1152.7950, 7.9920, 0.0000, 1.1000, 113.4000); //cxreffencesld
+obj = CreateDynamicObject(3276, -611.4077, 1163.5456, 8.2011, 0.0000, -3.3998, 113.4000); //cxreffencesld
+obj = CreateDynamicObject(3276, -616.0515, 1174.2761, 8.9862, 0.0000, -4.4998, 113.4000); //cxreffencesld
+obj = CreateDynamicObject(3276, -622.8145, 1183.2729, 9.9392, 0.0000, -4.4998, 140.8999); //cxreffencesld
+obj = CreateDynamicObject(3276, -556.2899, 1090.1927, 10.8900, 0.0000, -2.5000, 148.9994); //cxreffencesld
+obj = CreateDynamicObject(1491, -586.7276, 1105.2895, 11.4097, 0.0000, 90.0000, -45.9999); //Gen_doorINT01
+SetDynamicObjectMaterial(obj, 0, 13699, "cunte2_lahills", "laposhfence3", 0xFF9C8D71);
+obj = CreateDynamicObject(18632, -658.2000, 882.3665, 1.7051, 0.0000, 140.0000, -152.4998); //FishingRod
+obj = CreateDynamicObject(18632, -657.6303, 881.6489, 1.6634, 0.0000, 140.0000, -166.7998); //FishingRod
+obj = CreateDynamicObject(1437, -666.9251, 938.6962, 12.2488, 0.0000, 0.0000, 90.0000); //DYN_LADDER_2
+obj = CreateDynamicObject(1462, -667.3242, 940.4746, 11.0832, 0.0000, 0.0000, 90.0000); //DYN_woodpile
+obj = CreateDynamicObject(3262, -833.4467, 996.4758, 22.7877, 0.0000, 0.0000, -102.5000); //privatesign1
+obj = CreateDynamicObject(672, -717.2119, 752.6550, 16.3593, 0.0000, 0.0000, 0.0000); //sm_veg_tree5
+obj = CreateDynamicObject(672, -685.3319, 815.9652, 14.0291, 0.0000, 0.0000, 0.0000); //sm_veg_tree5
+obj = CreateDynamicObject(672, -698.3618, 873.6654, 12.2993, 0.0000, 0.0000, 0.0000); //sm_veg_tree5
+obj = CreateDynamicObject(617, -672.4500, 893.5941, 9.4825, 0.0000, 0.0000, 0.0000); //veg_treeb1
+obj = CreateDynamicObject(617, -677.9202, 872.3040, 6.7624, 0.0000, 0.0000, -150.6999); //veg_treeb1
+obj = CreateDynamicObject(617, -704.7589, 845.7296, 10.8625, 0.0000, 0.0000, -150.6999); //veg_treeb1
+obj = CreateDynamicObject(617, -697.1483, 792.0354, 13.2222, 0.0000, 0.0000, -150.6999); //veg_treeb1
+obj = CreateDynamicObject(616, -696.2321, 825.3339, 8.4742, 0.0000, 0.0000, 0.0000); //veg_treea1
+obj = CreateDynamicObject(617, -682.0031, 849.6251, 9.8002, 0.0000, 0.0000, 0.0000); //veg_treeb1
+obj = CreateDynamicObject(669, -691.2088, 854.0316, 11.4687, 0.0000, 0.0000, 0.0000); //sm_veg_tree4
+obj = CreateDynamicObject(617, -703.0130, 805.0349, 14.2004, 0.0000, 0.0000, 129.8999); //veg_treeb1
+obj = CreateDynamicObject(691, -705.2819, 900.4332, 11.2888, 0.0000, 0.0000, 0.0000); //sm_veg_tree4_big
+obj = CreateDynamicObject(691, -688.8217, 889.8933, 11.2888, 0.0000, 0.0000, -122.9999); //sm_veg_tree4_big
+obj = CreateDynamicObject(647, -713.8223, 855.1030, 15.0993, 0.0000, 0.0000, 0.0000); //new_bushsm
+obj = CreateDynamicObject(647, -707.2199, 881.5714, 13.8694, 0.0000, 0.0000, 107.0998); //new_bushsm
+obj = CreateDynamicObject(762, -706.2036, 818.3120, 13.0457, 0.0000, 0.0000, 0.0000); //new_bushtest
+obj = CreateDynamicObject(3262, -586.9790, 1106.3598, 9.5879, 0.0000, 0.0000, 101.8000); //privatesign1
+obj = CreateDynamicObject(669, -752.4984, 830.4113, 12.8787, 0.0000, 0.0000, 0.0000); //sm_veg_tree4
+obj = CreateDynamicObject(616, -755.4874, 784.0139, 15.9742, 0.0000, 0.0000, 0.0000); //veg_treea1
+obj = CreateDynamicObject(691, -794.0961, 879.5938, 11.2888, 0.0000, 0.0000, -51.7000); //sm_veg_tree4_big
+obj = CreateDynamicObject(672, -806.6336, 857.8253, 15.5193, 0.0000, 0.0000, 0.0000); //sm_veg_tree5
+obj = CreateDynamicObject(647, -755.1021, 848.5128, 13.2292, 0.0000, 0.0000, 0.0000); //new_bushsm
+obj = CreateDynamicObject(647, -749.1624, 803.5620, 17.1291, 0.0000, 0.0000, 0.0000); //new_bushsm
+obj = CreateDynamicObject(762, -783.2540, 843.4622, 11.8255, 0.0000, 0.0000, 0.0000); //new_bushtest
+obj = CreateDynamicObject(762, -764.2238, 892.5424, 11.8255, 0.0000, 0.0000, -148.9998); //new_bushtest
+obj = CreateDynamicObject(700, -736.1848, 887.9968, 12.3943, 0.0000, 0.0000, 0.0000); //sm_veg_tree6
+obj = CreateDynamicObject(700, -737.6749, 862.5764, 13.9743, 0.0000, 0.0000, 0.0000); //sm_veg_tree6
+obj = CreateDynamicObject(700, -739.4451, 835.5866, 14.7945, 0.0000, 0.0000, 0.0000); //sm_veg_tree6
+obj = CreateDynamicObject(700, -741.0952, 807.7863, 16.6445, 0.0000, 0.0000, 0.0000); //sm_veg_tree6
+obj = CreateDynamicObject(700, -743.6751, 781.2462, 17.7245, 0.0000, 0.0000, 0.0000); //sm_veg_tree6
+obj = CreateDynamicObject(669, -732.6784, 732.6010, 16.1686, 0.0000, 0.0000, 0.0000); //sm_veg_tree4
+obj = CreateDynamicObject(700, -749.6948, 758.6160, 17.7245, 0.0000, 0.0000, 0.0000); //sm_veg_tree6
+obj = CreateDynamicObject(700, -735.3228, 748.0974, 17.7245, 0.0000, 0.0000, -36.2000); //sm_veg_tree6
+obj = CreateDynamicObject(762, -727.2634, 743.0717, 15.0157, 0.0000, 0.0000, 0.0000); //new_bushtest
+obj = CreateDynamicObject(762, -708.6732, 772.6549, 14.7557, 0.0000, 0.0000, 81.4999); //new_bushtest
+obj = CreateDynamicObject(3262, -816.8635, 1076.3623, 33.1478, 0.0000, 0.0000, -102.5000); //privatesign1
+obj = CreateDynamicObject(3262, -758.8162, 733.1256, 16.5379, 0.0000, 0.0000, -21.0000); //privatesign1
+obj = CreateDynamicObject(691, -572.5416, 1068.9494, 8.5788, 0.0000, 0.0000, -122.9999); //sm_veg_tree4_big
+obj = CreateDynamicObject(616, -615.8173, 1048.2340, 7.3041, 0.0000, 0.0000, 0.0000); //veg_treea1
+obj = CreateDynamicObject(703, -607.2283, 1121.4881, 10.7623, 0.0000, 0.0000, 0.0000); //sm_veg_tree7_big
+obj = CreateDynamicObject(617, -639.5999, 1127.4035, 12.5022, 0.0000, 0.0000, 94.7001); //veg_treeb1
+obj = CreateDynamicObject(669, -669.3587, 1033.0911, 11.3986, 0.0000, 0.0000, 0.0000); //sm_veg_tree4
+obj = CreateDynamicObject(669, -669.3587, 1141.2110, 24.0786, 0.0000, 0.0000, 0.0000); //sm_veg_tree4
+obj = CreateDynamicObject(669, -624.4081, 1149.8713, 13.9086, 0.0000, 0.0000, 163.5999); //sm_veg_tree4
+obj = CreateDynamicObject(617, -595.1026, 1066.9915, 7.7421, 0.0000, 0.0000, 139.5001); //veg_treeb1
+obj = CreateDynamicObject(615, -677.7341, 1118.0081, 23.6243, 0.0000, 0.0000, 0.0000); //veg_tree3
+obj = CreateDynamicObject(615, -698.3239, 1095.1083, 25.4643, 0.0000, 0.0000, 0.0000); //veg_tree3
+obj = CreateDynamicObject(647, -688.3256, 1022.7135, 12.4993, 0.0000, 0.0000, 107.0998); //new_bushsm
+obj = CreateDynamicObject(647, -634.1398, 1079.7779, 13.2793, 0.0000, 0.0000, 107.0998); //new_bushsm
+obj = CreateDynamicObject(647, -639.4550, 1076.3439, 13.0393, 0.0000, 0.0000, 21.0998); //new_bushsm
+obj = CreateDynamicObject(762, -637.7639, 1031.4219, 11.8857, 0.0000, 0.0000, 0.0000); //new_bushtest
+obj = CreateDynamicObject(762, -673.1287, 1083.0742, 15.8257, 0.0000, 0.0000, 89.7999); //new_bushtest
+obj = CreateDynamicObject(691, -590.7831, 1031.5512, 8.5788, 0.0000, 0.0000, 95.5001); //sm_veg_tree4_big
+obj = CreateDynamicObject(615, -638.7189, 1028.9154, 9.7743, 0.0000, 0.0000, -40.7999); //veg_tree3

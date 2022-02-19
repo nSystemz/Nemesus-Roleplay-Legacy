@@ -1,0 +1,37 @@
+obj = CreateDynamicObject(19377, 1446.3181, 311.2903, 17.8917, 0.0000, 90.0000, -81.3999); //wall025
+SetDynamicObjectMaterial(obj, 0, 3820, "boxhses_sfsx", "ws_vic_wood1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1408, 1458.7717, 320.5928, 18.3873, 0.0000, 0.0000, -147.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1464.9361, 314.9226, 18.3873, 0.0000, 0.0000, 119.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1467.5732, 310.1648, 18.3873, 0.0000, 0.0000, 119.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1461.7661, 303.7814, 18.4141, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1457.0638, 301.0669, 18.4710, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1452.3619, 298.3523, 18.5279, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1447.6572, 295.6372, 18.5848, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1447.6572, 295.6372, 18.5848, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1442.9616, 292.9278, 18.6415, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1438.2589, 290.2131, 18.6984, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1430.6628, 292.3772, 18.8173, 0.0000, 0.0000, -57.9999); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1432.1666, 289.9332, 18.8173, 0.0000, 0.0000, -57.9999); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1435.8161, 288.8038, 18.7280, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1408, 1454.2343, 317.6463, 18.3873, 0.0000, 0.0000, -147.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(19859, 1435.3448, 313.4823, 19.5620, 0.0000, 0.0000, -170.0000); //MIHouse1Door3
+obj = CreateDynamicObject(709, 1440.6717, 270.6950, 17.5238, 0.0000, 0.0000, 0.0000); //sm_vegvbbigbrn
+obj = CreateDynamicObject(672, 1469.8626, 289.5434, 18.9337, 0.0000, 0.0000, 0.0000); //sm_veg_tree5
+obj = CreateDynamicObject(672, 1469.4919, 328.0434, 18.9337, 0.0000, 0.0000, 0.0000); //sm_veg_tree5
+obj = CreateDynamicObject(1408, 1462.2934, 319.6893, 18.3873, 0.0000, 0.0000, 119.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1344, 1431.8083, 299.6683, 18.8945, 0.0000, 0.0000, 7.0000); //CJ_Dumpster2
+obj = CreateDynamicObject(1408, 1427.7741, 296.9992, 18.8173, 0.0000, 0.0000, -57.9999); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1450, 1430.1512, 299.3273, 18.8005, 0.0000, 0.0000, 0.0000); //DYN_CRATE_3
+obj = CreateDynamicObject(1368, 1425.4564, 312.1919, 18.7054, 0.0000, 0.0000, -170.3999); //CJ_BLOCKER_BENCH
+obj = CreateDynamicObject(19377, 1443.5417, 321.4548, 17.6361, 0.0000, 87.4000, -81.7998); //wall025
+SetDynamicObjectMaterial(obj, 0, 12855, "cunte_cop", "ws_bigstones", 0xFFFFFFFF);
+obj = CreateDynamicObject(3355, 1436.0582, 305.1086, 17.9169, 0.0000, 0.0000, -170.0000); //cxrf_savhus1_
+SetDynamicObjectMaterial(obj, 0, 3374, "ce_farmxref", "sw_barnwood1", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 12862, "sw_block03", "sw_woodwall1", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 12862, "sw_block03", "sw_woodwall1", 0xFFFFFFFF);
+obj = CreateDynamicObject(3359, 1445.3752, 310.1091, 17.8752, 0.0000, 0.0000, -171.4001); //cxrf_savhusgar1_
+SetDynamicObjectMaterial(obj, 0, 12862, "sw_block03", "sw_woodwall1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 1436.8160, 309.8533, 17.8917, 0.0000, 90.0000, -81.3999); //wall025
+SetDynamicObjectMaterial(obj, 0, 3820, "boxhses_sfsx", "ws_vic_wood1", 0xFFFFFFFF);
+obj = CreateDynamicObject(1408, 1466.4709, 306.4963, 18.3873, 0.0000, 0.5999, 30.0000); //DYN_F_WOOD_2
+obj = CreateDynamicObject(1491, 1451.8829, 316.2554, 16.4715, 0.0000, 0.0000, -153.5001); //Gen_doorINT01

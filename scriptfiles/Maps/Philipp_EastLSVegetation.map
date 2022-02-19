@@ -1,0 +1,16 @@
+obj = CreateDynamicObject(714, 2163.4992, -1464.8050, 24.9059, 0.0000, 0.0000, 149.6398, -1, -1); //veg_bevtree2
+obj = CreateDynamicObject(669, 2178.2526, -1445.4875, 24.7457, 0.0000, 0.0000, -0.7200, -1, -1); //sm_veg_tree4
+obj = CreateDynamicObject(18766, 2174.4755, -1435.8366, 23.3499, 0.0000, 0.0000, 90.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 17541, "eastbeach2a_lae2", "hedge1", 0xFF917347);
+obj = CreateDynamicObject(18766, 2174.4755, -1445.8380, 23.3499, 0.0000, 0.0000, 90.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 17541, "eastbeach2a_lae2", "hedge1", 0xFF917347);
+obj = CreateDynamicObject(18766, 2174.4755, -1455.8389, 23.3499, 0.0000, 0.0000, 90.0000, -1, -1); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 17541, "eastbeach2a_lae2", "hedge1", 0xFF917347);
+obj = CreateDynamicObject(14409, 2174.4584, -1459.4886, 21.3283, 0.0000, 0.0000, 0.0000, -1, -1); //carter-stairs02
+SetDynamicObjectMaterial(obj, 0, 13081, "ce_ground13", "dustyconcrete", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 13081, "ce_ground13", "dustyconcrete", 0xFFFFFFFF);
+obj = CreateDynamicObject(713, 2181.2153, -1410.0941, 24.6137, 0.0000, 0.0000, 0.0000, -1, -1); //veg_bevtree1
+obj = CreateDynamicObject(19353, 2172.3352, -1461.1246, 22.9208, 90.0000, 0.0000, 0.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 3555, "comedhos1_la", "Bow_dryclean_bricks", 0xFFFFFFFF);
+obj = CreateDynamicObject(19353, 2173.9968, -1462.9558, 22.9218, 90.0000, 0.0000, 90.0000, -1, -1); //wall001
+SetDynamicObjectMaterial(obj, 0, 3555, "comedhos1_la", "Bow_dryclean_bricks", 0xFFFFFFFF);

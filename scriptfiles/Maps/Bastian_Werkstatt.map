@@ -1,0 +1,173 @@
+obj = CreateDynamicObject(11387, 1600.6246, -2175.3803, 15.6984, 0.0000, 0.0000, 0.0000); //oldgarage_SFS
+SetDynamicObjectMaterial(obj, 0, 1717, "cj_tv", "green_glass_64", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 17533, "eastbeach7_lae2", "shopwindowlow2_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 3905, "libertyhi2", "Pillarbrickgrey_64HV", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 3905, "libertyhi2", "Pillarbrickgrey_64HV", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 10041, "archybuild10", "rooftop_gz3", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 5, 3905, "libertyhi2", "Pillarbrickgrey_64HV", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 6, " ", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 7, 6284, "bev_law2", "comptdoor2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 9, 3905, "libertyhi2", "Pillarbrickgrey_64HV", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 11, 16136, "des_telescopestuff", "ws_palebrickwall1", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 12, 13078, "cewrehse", "corr_roof1", 0xFFFFFFFF);
+obj = CreateDynamicObject(11389, 1591.2575, -2159.3720, 15.4785, 0.0000, 0.0000, 0.0000); //hubinterior_SFS
+SetDynamicObjectMaterialText(obj, 0, " ", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 1, 6284, "bev_law2", "comptdoor2", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 2951, "a51_labdoor", "washapartwall1_256", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 4, 10101, "2notherbuildsfe", "sl_vicbrikwall01", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 6, 10101, "2notherbuildsfe", "sl_vicbrikwall01", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 7, 10101, "2notherbuildsfe", "sl_vicbrikwall01", 0xFFFFFFFF);
+obj = CreateDynamicObject(11390, 1591.1955, -2159.3720, 16.7444, 0.0000, 0.0000, 0.0000); //hubgirders_SFSE
+SetDynamicObjectMaterial(obj, 0, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14584, "ab_abbatoir01", "cj_sheetmetal", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 5, " ", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+SetDynamicObjectMaterial(obj, 6, 16640, "a51", "Metal3_128", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 9, 14526, "sweetsmain", "Metal3_64_hole", 0xFFFFFFFF);
+SetDynamicObjectMaterialText(obj, 10, " ", 90, "Arial", 24, 1, 0xFFFFFFFF, 0x0, 0);
+obj = CreateDynamicObject(11388, 1591.1955, -2159.3720, 19.1266, 0.0000, 0.0000, 0.0000); //hubintroof_SFSe
+SetDynamicObjectMaterial(obj, 0, 13078, "cewrehse", "corr_roof1", 0xFFFFFFFF);
+obj = CreateDynamicObject(6959, 1602.3337, -2164.7395, 12.5816, 0.0000, 0.0000, 0.0000); //vegasNbball1
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFFFFFFFF);
+obj = CreateDynamicObject(11359, 1586.7495, -2175.4892, 14.4443, 0.0000, 0.0000, 0.0000); //oldgrgedoor3_sfse
+SetDynamicObjectMaterial(obj, 0, 6282, "beafron2_law2", "LoadingDoorClean", 0xFFFFFFFF);
+obj = CreateDynamicObject(6959, 1602.3337, -2163.0480, 12.5825, 0.0000, 0.0000, 0.0000); //vegasNbball1
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19869, 1622.9322, -2182.0742, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1622.9322, -2176.8039, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1581.7319, -2176.9028, 12.5434, 0.0000, 0.0000, -90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1581.7319, -2182.0642, 12.5434, 0.0000, 0.0000, -90.0000); //MeshFence2
+obj = CreateDynamicObject(19464, 1631.9068, -2182.1813, 12.4289, 0.0000, 90.0000, -90.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1625.9764, -2182.1809, 12.4289, 0.0000, 90.0000, -90.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1638.2580, -2176.6611, 12.4289, 0.0000, 90.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1637.8374, -2182.1809, 12.4289, 0.0000, 90.0000, -90.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_carpark3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1638.2580, -2170.7304, 12.4289, 0.0000, 90.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1638.2580, -2164.7990, 12.4289, 0.0000, 90.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1638.2580, -2158.8676, 12.4289, 0.0000, 90.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1637.8374, -2150.3698, 12.4390, 0.0000, 90.0000, -90.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_carpark3", 0xFFFFFFFF);
+obj = CreateDynamicObject(6959, 1620.1239, -2164.7395, 12.5833, 0.0000, 0.0000, 0.0000); //vegasNbball1
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1638.2580, -2152.9365, 12.4289, 0.0000, 90.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(6959, 1620.1245, -2163.0480, 12.5798, 0.0000, 0.0000, 0.0000); //vegasNbball1
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1637.8374, -2145.5957, 12.4300, 0.0000, 90.0000, -90.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10778, "airportcpark_sfse", "ws_carpark3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19869, 1622.9322, -2171.5341, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1622.9322, -2145.7141, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1622.9322, -2150.9855, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1622.9322, -2156.2568, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19464, 1634.7369, -2146.0161, 10.0099, 0.0000, 0.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1634.7369, -2149.9492, 10.0115, 0.0000, 0.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1628.9259, -2146.0161, 10.0099, 0.0000, 0.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1623.1252, -2146.0161, 10.0099, 0.0000, 0.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1628.9255, -2149.9492, 10.0115, 0.0000, 0.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1623.1251, -2149.9492, 10.0115, 0.0000, 0.0000, 0.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 10765, "airportgnd_sfse", "white", 0xFFFFFFFF);
+obj = CreateDynamicObject(19869, 1622.4134, -2142.9916, 12.5434, 0.0000, 0.0000, 0.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1627.6839, -2142.9916, 12.5434, 0.0000, 0.0000, 0.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1632.9538, -2142.9916, 12.5434, 0.0000, 0.0000, 0.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1638.2252, -2142.9816, 12.5434, 0.0000, 0.0000, 0.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1625.5246, -2184.8125, 12.5434, 0.0000, 0.0000, 180.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1630.7945, -2184.8125, 12.5434, 0.0000, 0.0000, 180.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1636.0648, -2184.8125, 12.5434, 0.0000, 0.0000, 180.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1638.2252, -2184.8129, 12.5434, 0.0000, 0.0000, 180.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1640.8823, -2182.0742, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1640.8823, -2176.8041, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1640.8823, -2171.5329, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1640.8823, -2166.2617, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1640.8823, -2160.9914, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1640.8823, -2155.7192, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1640.8823, -2150.4492, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1640.8823, -2145.5876, 12.5434, 0.0000, 0.0000, 90.0000); //MeshFence2
+obj = CreateDynamicObject(19426, 1612.7988, -2171.1860, 12.5954, 0.0000, 90.0000, 90.0000); //wall066
+SetDynamicObjectMaterial(obj, 0, 4558, "lanlacmab_lan2", "sl_plazatile02", 0xFFFFFFFF);
+obj = CreateDynamicObject(19426, 1612.7988, -2167.6860, 12.5954, 0.0000, 90.0000, 90.0000); //wall066
+SetDynamicObjectMaterial(obj, 0, 4558, "lanlacmab_lan2", "sl_plazatile02", 0xFFFFFFFF);
+obj = CreateDynamicObject(1686, 1612.7735, -2170.3288, 12.6639, 0.0000, 0.0000, 0.0000); //petrolpumpnew
+obj = CreateDynamicObject(1686, 1612.7735, -2168.4577, 12.6639, 0.0000, 0.0000, 0.0000); //petrolpumpnew
+obj = CreateDynamicObject(19325, 1595.6588, -2165.1625, 13.0464, 0.0000, 0.0000, 90.0000); //lsmall_window01
+obj = CreateDynamicObject(19325, 1592.5084, -2171.2441, 13.0464, 0.0000, 0.0000, 0.0000); //lsmall_window01
+obj = CreateDynamicObject(1494, 1592.4903, -2166.1726, 12.5466, 0.0000, 0.0000, -90.0000); //Gen_doorINT03
+obj = CreateDynamicObject(19464, 1619.9073, -2145.5961, 12.4289, 0.0000, 90.0000, 90.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1613.9770, -2145.5961, 12.4289, 0.0000, 90.0000, 90.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19464, 1611.0068, -2145.5961, 12.4299, 0.0000, 90.0000, 90.0000); //wall104
+SetDynamicObjectMaterial(obj, 0, 7555, "bballcpark1", "ws_carparknew1", 0xFFFFFFFF);
+obj = CreateDynamicObject(19869, 1617.1430, -2142.9916, 12.5434, 0.0000, 0.0000, 0.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1611.8729, -2142.9916, 12.5434, 0.0000, 0.0000, 0.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1606.6025, -2142.9916, 12.5434, 0.0000, 0.0000, 0.0000); //MeshFence2
+obj = CreateDynamicObject(19869, 1601.3316, -2142.9916, 12.5434, 0.0000, 0.0000, 0.0000); //MeshFence2
+obj = CreateDynamicObject(1297, 1621.9234, -2151.8637, 15.8402, 0.0000, 0.0000, 0.0000); //lamppost1
+obj = CreateDynamicObject(1297, 1621.9234, -2177.7060, 15.8402, 0.0000, 0.0000, 0.0000); //lamppost1
+obj = CreateDynamicObject(1297, 1601.4737, -2151.4851, 13.7602, 0.0000, 0.0000, 180.0000); //lamppost1
+obj = CreateDynamicObject(1297, 1592.5233, -2176.4060, 13.7602, 0.0000, 0.0000, 90.0000); //lamppost1
+obj = CreateDynamicObject(19355, 1594.0277, -2169.8225, 15.9914, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1594.0277, -2166.6286, 15.9914, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1594.0277, -2173.0351, 15.9914, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1594.0277, -2173.7558, 15.9914, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1598.3508, -2166.6286, 15.9763, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1598.3508, -2169.8317, 15.9763, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1598.3508, -2173.0344, 15.9763, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1598.3508, -2173.7451, 15.9763, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1597.5400, -2166.6286, 15.9792, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1597.5400, -2169.8317, 15.9792, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1597.5400, -2173.0244, 15.9792, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(19355, 1597.5400, -2173.7448, 15.9792, 0.0000, 90.2000, 0.0000); //wall003
+SetDynamicObjectMaterial(obj, 0, 7979, "vegasairprtland", "blackshadow3", 0xFFFFFFFF);
+obj = CreateDynamicObject(942, 1599.0415, -2162.4008, 14.9598, 0.0000, 0.0000, -88.7000); //CJ_DF_UNIT_2
+obj = CreateDynamicObject(1348, 1583.1809, -2144.2255, 13.2234, 0.0000, 0.0000, 0.0000); //CJ_O2Tanks
+obj = CreateDynamicObject(910, 1582.2723, -2178.7219, 13.7633, 0.0000, 0.0000, 90.0000); //BUST_CABINET_4
+obj = CreateDynamicObject(1420, 1595.5363, -2181.2910, 15.6536, 0.0000, 0.0000, 90.0000); //DYN_AIRCON
+obj = CreateDynamicObject(10281, 1601.0955, -2185.5908, 16.2811, 0.0000, 0.0000, 0.0000); //michsign_sfe
+obj = CreateDynamicObject(970, 1613.6031, -2165.8449, 13.0859, 0.0000, 0.0000, -90.0000); //fencesmallb
+obj = CreateDynamicObject(970, 1613.6031, -2172.9877, 13.0859, 0.0000, 0.0000, -90.0000); //fencesmallb
+obj = CreateDynamicObject(970, 1611.9915, -2172.9877, 13.0859, 0.0000, 0.0000, -90.0000); //fencesmallb
+obj = CreateDynamicObject(970, 1611.9915, -2165.8449, 13.0859, 0.0000, 0.0000, -90.0000); //fencesmallb
+obj = CreateDynamicObject(2685, 1612.8046, -2166.6074, 14.2413, 0.0000, 0.0000, -180.0000); //CJ_food_post1
+obj = CreateDynamicObject(2685, 1612.7646, -2172.1027, 14.2413, 0.0000, 0.0000, 0.0000); //CJ_food_post1
+obj = CreateDynamicObject(8843, 1615.9816, -2168.7138, 12.5712, 0.0000, 0.0000, 0.0000); //arrows01_lvs
+obj = CreateDynamicObject(8843, 1609.6287, -2168.7138, 12.5712, 0.0000, 0.0000, 180.0000); //arrows01_lvs
+obj = CreateDynamicObject(638, 1606.3531, -2183.3730, 13.2296, 0.0000, 0.0000, 0.0000); //kb_planter+bush
+obj = CreateDynamicObject(3761, 1588.1979, -2144.2043, 14.5034, 0.0000, 0.0000, -90.0000); //industshelves
+obj = CreateDynamicObject(3761, 1583.0667, -2148.1057, 14.5034, 0.0000, 0.0000, 0.0000); //industshelves
+obj = CreateDynamicObject(1183, 1582.6090, -2150.7309, 12.6780, 0.0000, 0.0000, 76.3999); //rbmp_lr_bl2
+obj = CreateDynamicObject(1183, 1582.9586, -2150.8056, 12.6519, -25.9000, -0.5999, 76.3999); //rbmp_lr_bl2
+obj = CreateDynamicObject(1897, 1582.5784, -2173.3286, 12.9427, -46.6999, 0.0000, -90.0000); //wheel_support
+obj = CreateDynamicObject(1897, 1582.5660, -2174.4689, 12.9714, -46.6999, 0.0000, -90.0000); //wheel_support
+obj = CreateDynamicObject(1897, 1582.5660, -2172.1074, 12.9855, -46.6999, 0.0000, -90.0000); //wheel_support
+obj = CreateDynamicObject(19087, 1583.3610, -2172.1242, 13.6876, -89.5999, 0.0000, 0.0000); //Rope1
+obj = CreateDynamicObject(1073, 1582.8486, -2172.4108, 13.0056, 0.0000, 0.0000, 90.0000); //wheel_sr6
+obj = CreateDynamicObject(1073, 1582.8486, -2172.7312, 13.0056, 0.0000, 0.0000, 90.0000); //wheel_sr6
+obj = CreateDynamicObject(1073, 1582.8486, -2173.0615, 13.0056, 0.0000, 0.0000, 90.0000); //wheel_sr6
+obj = CreateDynamicObject(1073, 1582.8486, -2173.6320, 13.0056, 0.0000, 0.0000, 90.0000); //wheel_sr6
+obj = CreateDynamicObject(1073, 1582.8486, -2173.9423, 13.0056, 0.0000, 0.0000, 90.0000); //wheel_sr6
+obj = CreateDynamicObject(1073, 1582.8486, -2174.2626, 13.0056, 0.0000, 0.0000, 90.0000); //wheel_sr6
+obj = CreateDynamicObject(1116, 1583.3605, -2147.2512, 14.0534, 56.2000, -0.4999, -98.3000); //fbb_lr_slv2
+obj = CreateDynamicObject(1010, 1582.7902, -2146.1254, 13.3115, 0.2999, 0.0000, -55.5000); //nto_b_tw
+obj = CreateDynamicObject(1010, 1583.1656, -2145.8950, 13.3138, 0.2999, 0.0000, -55.5000); //nto_b_tw
+obj = CreateDynamicObject(1049, 1583.1517, -2149.3142, 14.1479, 0.0000, 0.0000, -88.6999); //spl_a_f_r

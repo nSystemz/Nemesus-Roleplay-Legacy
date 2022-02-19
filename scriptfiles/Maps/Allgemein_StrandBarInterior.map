@@ -1,0 +1,105 @@
+obj = CreateDynamicObject(18981, 2136.6931, -85.3095, 1850.9924, 90.0000, 90.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 17036, "cuntwbt", "des_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2124.8085, -76.7697, 1850.8322, 0.0000, 90.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 14476, "carlslounge", "AH_cheapredcarpet", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2123.8425, -78.3497, 1850.9924, 90.0000, 90.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 17036, "cuntwbt", "des_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(14738, 2146.3430, -74.0916, 1853.9549, 0.0000, 0.0000, 0.0000,-1,14); //brothelbar
+SetDynamicObjectMaterial(obj, 1, 14738, "whorebar", "AH_cheapwhoremainwall", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 3, 14738, "whorebar", "AH_cheapwhoremainwall", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2132.3327, -78.4897, 1850.9924, 90.0000, 90.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 14738, "whorebar", "AH_cheapwindow", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2123.8425, -68.2297, 1850.9924, 90.0000, 90.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 17036, "cuntwbt", "des_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2136.7124, -58.6496, 1850.9924, 90.0000, 90.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 17036, "cuntwbt", "des_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2123.7775, -76.7697, 1855.2645, 0.0000, 90.0000, 0.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 17036, "cuntwbt", "des_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19387, 2136.2812, -72.0078, 1853.0323, 0.0000, 0.0000, 0.0000,-1,14); //wall035
+SetDynamicObjectMaterial(obj, 0, 16326, "des_byoffice", "plainwoodenfence1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2136.7023, -71.5196, 1866.4132, 90.0000, 90.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 17036, "cuntwbt", "des_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(18981, 2122.2421, -75.7397, 1850.9924, 90.0000, 90.0000, 90.0000,-1,14); //Concrete1mx25mx25m
+SetDynamicObjectMaterial(obj, 0, 17036, "cuntwbt", "des_woodslats2", 0xFFFFFFFF);
+obj = CreateDynamicObject(14399, 2124.7331, -71.6709, 1851.0804, 0.0000, 0.0000, -180.0000,-1,14); //bar2
+obj = CreateDynamicObject(18766, 2127.7312, -68.2393, 1852.8911, 0.0000, 90.0000, 0.0000,-1,14); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(18766, 2128.5920, -68.2593, 1852.8911, 0.0000, 90.0000, 0.0000,-1,14); //Concrete10mx1mx5m
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 2153.9511, -73.9123, 1852.4516, 0.0000, 0.0000, 90.0000,-1,14); //wall025
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 2146.4421, -69.1623, 1852.4516, 0.0000, 0.0000, 0.0000,-1,14); //wall025
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 2153.1804, -71.9123, 1859.8222, 0.0000, 0.0000, 90.0000,-1,14); //wall025
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 2148.4499, -67.1623, 1859.8222, 0.0000, 0.0000, 0.0000,-1,14); //wall025
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 2153.6203, -67.1723, 1854.6409, 0.0000, 90.0000, 0.0000,-1,14); //wall025
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(1506, 2139.1411, -78.0054, 1851.3320, 0.0000, 0.0000, 180.0000,-1,14); //Gen_doorEXT08
+obj = CreateDynamicObject(19757, 2142.3156, -75.6473, 1851.9552, 0.0000, 0.0000, 0.0000,-1,14); //STubeSupport1
+SetDynamicObjectMaterial(obj, 0, 8463, "vgseland", "triadcarpet2", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 2151.1784, -73.9323, 1859.0437, 0.0000, 180.0000, 90.0000,-1,14); //wall025
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(19387, 2147.9704, -73.9005, 1853.0245, 0.0000, 0.0000, 90.0000,-1,14); //wall035
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(19377, 2160.7993, -73.9323, 1859.0437, 0.0000, 180.0000, 90.0000,-1,14); //wall025
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(1492, 2124.5283, -75.4646, 1851.2806, 0.0000, 0.0000, -90.0000,-1,14); //Gen_doorINT02
+obj = CreateDynamicObject(19389, 2124.4565, -76.2401, 1852.6363, 0.0000, 0.0000, 0.0000,-1,14); //wall037
+SetDynamicObjectMaterial(obj, 0, 16326, "des_byoffice", "plainwoodenfence1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19354, 2122.8627, -74.7192, 1852.6306, 0.0000, 0.0000, 90.0000,-1,14); //wall002
+SetDynamicObjectMaterial(obj, 0, 16326, "des_byoffice", "plainwoodenfence1_256", 0xFFFFFFFF);
+obj = CreateDynamicObject(19365, 2127.9204, -77.9241, 1852.5184, 0.0000, 0.0000, 90.0000,-1,14); //wall013
+SetDynamicObjectMaterial(obj, 0, 6284, "bev_law2", "shopdoor01_law", 0xFFFFFFFF);
+obj = CreateDynamicObject(19818, 2133.9387, -68.9638, 1852.4771, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(1544, 2127.5964, -73.6545, 1852.4448, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_1
+obj = CreateDynamicObject(1544, 2128.4069, -73.6545, 1852.4448, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_1
+obj = CreateDynamicObject(1544, 2133.6069, -73.6545, 1852.4448, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_1
+obj = CreateDynamicObject(1544, 2134.5776, -73.6545, 1852.4448, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_1
+obj = CreateDynamicObject(1543, 2134.5039, -73.5870, 1852.4383, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_2
+obj = CreateDynamicObject(1543, 2128.2802, -73.5870, 1852.4383, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_2
+obj = CreateDynamicObject(1543, 2128.5205, -73.5870, 1852.4383, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_2
+obj = CreateDynamicObject(1543, 2127.4995, -73.5870, 1852.4383, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_2
+obj = CreateDynamicObject(1543, 2127.4494, -73.7270, 1852.4383, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_2
+obj = CreateDynamicObject(1543, 2125.6577, -73.7270, 1852.4383, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_2
+obj = CreateDynamicObject(1543, 2125.6577, -73.5570, 1852.4383, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_2
+obj = CreateDynamicObject(1543, 2125.7678, -73.6570, 1852.4383, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_B_2
+obj = CreateDynamicObject(1541, 2126.7807, -73.0268, 1852.6491, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_TAPS_1
+obj = CreateDynamicObject(1541, 2132.2023, -73.0268, 1852.6491, 0.0000, 0.0000, 0.0000,-1,14); //CJ_BEER_TAPS_1
+obj = CreateDynamicObject(1713, 2132.3588, -77.2411, 1851.2486, 0.0000, 0.0000, 180.0000,-1,14); //kb_couch04
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14888, "gf6", "mp_millie_wood", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 2, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+obj = CreateDynamicObject(19818, 2133.9387, -68.8138, 1852.4771, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 2133.7885, -68.8138, 1852.4771, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 2133.6584, -68.8138, 1852.4771, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 2133.7585, -68.9938, 1852.4771, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 2135.6989, -68.9938, 1852.4771, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 2135.6989, -68.8538, 1852.4771, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19818, 2135.5488, -68.8538, 1852.4771, 0.0000, 0.0000, 0.0000,-1,14); //WineGlass1
+obj = CreateDynamicObject(19819, 2135.4191, -68.9500, 1853.0878, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19819, 2134.8085, -68.9500, 1853.0878, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19819, 2134.2580, -68.9500, 1853.0878, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(19819, 2133.6875, -68.9500, 1853.0878, 0.0000, 0.0000, 0.0000,-1,14); //CocktailGlass1
+obj = CreateDynamicObject(1547, 2126.7507, -73.6207, 1852.4797, 0.0000, 0.0000, 0.0000,-1,14); //CJ_B_PISH_T
+obj = CreateDynamicObject(1547, 2132.1926, -73.6207, 1852.4797, 0.0000, 0.0000, 0.0000,-1,14); //CJ_B_PISH_T
+obj = CreateDynamicObject(1548, 2130.1020, -73.4138, 1852.4591, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DRIP_TRAY
+obj = CreateDynamicObject(2428, 2135.3959, -73.8377, 1851.1964, 0.0000, 0.0000, 0.0000,-1,14); //CJ_FF_STAND1
+obj = CreateDynamicObject(2422, 2131.5700, -73.2702, 1852.3736, 0.0000, 0.0000, 0.0000,-1,14); //CJ_FF_TILL
+SetDynamicObjectMaterial(obj, 0, 14668, "711c", "cj_white_wall2", 0xFFFFFFFF);
+obj = CreateDynamicObject(2428, 2125.7722, -74.2278, 1851.1964, 0.0000, 0.0000, 180.0000,-1,14); //CJ_FF_STAND1
+obj = CreateDynamicObject(19821, 2133.6835, -68.8761, 1853.5485, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle2
+obj = CreateDynamicObject(19821, 2135.4638, -68.8761, 1853.5485, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle2
+obj = CreateDynamicObject(19820, 2133.9787, -68.8947, 1853.5440, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle1
+obj = CreateDynamicObject(19820, 2135.2700, -68.8947, 1853.5440, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle1
+obj = CreateDynamicObject(19824, 2134.5639, -68.9632, 1853.5606, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle5
+obj = CreateDynamicObject(19824, 2134.7141, -69.0132, 1853.5606, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle5
+obj = CreateDynamicObject(19823, 2136.0534, -69.3657, 1852.4124, 0.0000, 0.0000, -86.9999,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19823, 2136.0798, -69.7589, 1852.9821, 0.0000, 0.0000, -80.4000,-1,14); //AlcoholBottle4
+obj = CreateDynamicObject(19822, 2136.0568, -70.6076, 1852.3857, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle3
+obj = CreateDynamicObject(19822, 2136.0568, -70.2976, 1852.3857, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle3
+obj = CreateDynamicObject(19822, 2136.0568, -69.9677, 1852.3857, 0.0000, 0.0000, 0.0000,-1,14); //AlcoholBottle3
+obj = CreateDynamicObject(2366, 2133.9799, -76.3801, 1851.3372, 0.0000, 0.0000, 0.0000,-1,14); //CJ_DUDS_RAIL
+SetDynamicObjectMaterial(obj, 0, 14865, "gf2", "mp_bobbie_wood", 0xFFFFFFFF);
+SetDynamicObjectMaterial(obj, 1, 14853, "gen_pol_vegas", "mp_cop_wood", 0xFFFFFFFF);
