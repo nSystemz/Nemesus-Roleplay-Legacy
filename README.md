@@ -1,4 +1,4 @@
-Nemesus-Roleplay Revision 126
+Nemesus-Roleplay Revision 126 (Erstellt durch https://nemesus.de, 2021 gekauft durch Artur und 2022 released für alle!)
 
 Altes NRP-Forum: https://nrpforum.nemesus.de
 
