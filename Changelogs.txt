@@ -1,5 +1,0 @@
-[Revision 126]
-
-Vorbereitungen für den Release.
-Anpassungen bei einigen SQL Queries für die neusten Maria DB Versionen.
-Performanceanpssungen und unnötige Zeilen entfernt.
