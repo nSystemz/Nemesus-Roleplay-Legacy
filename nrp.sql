@@ -1528,7 +1528,7 @@ CREATE TABLE `einstellungen` (
   `players` int(3) DEFAULT 0,
   `binfernus` int(2) DEFAULT NULL,
   `eleklic` int(6) DEFAULT 55000,
-  `mdcpw` varchar(20) DEFAULT 'n/A',
+  `KnastOnline` int(10) DEFAULT 0,
   `mdcpw1` varchar(20) DEFAULT 'n/A'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
