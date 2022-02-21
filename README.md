@@ -40,4 +40,6 @@ Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nenn
     
 Models Download: https://bit.ly/3LHByQ2
 
+pWBB4: https://github.com/derpierre65/pWBB4
+
 Weitere Infos gibt es auf https://nemesus.de
