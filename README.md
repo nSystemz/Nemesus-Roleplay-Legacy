@@ -6,8 +6,6 @@ Info: Der Gamemode war für Linux ausgelegt, ich kann den Gamemode nur in Verwen
 
 Altes NRP-Forum: https://nrpforum.nemesus.de
 
-Altes UCP: https://nrpucp.nemesus.de
-
 Alte Werbeseite: https://nrpaboutus.nemesus.de/
 
 Youtube: https://yt.nemesus.de
