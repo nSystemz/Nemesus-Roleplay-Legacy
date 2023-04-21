@@ -1,5 +1,7 @@
 Nemesus-Roleplay Revision 126 (Erstellt durch https://nemesus.de, 2021 gekauft durch Artur und 2022 released für alle!)
 
+(Euch gefällt der Gamemode? Dann lasst doch gerne ein Stern hier auf Github da ;))
+
 Bei diesem Gamemode handelt es sich um einen Gamemode für die Multiplayer Modifikation San Andreas:Multiplayer für das Spiel GTA - San Andreas.
 
 Info: Der Gamemode war für Linux ausgelegt, ich kann den Gamemode nur in Verwendung mit einem Linux Server empfehlen. Auf Windows könnten einige Fehler auftreten, welche bei Linux nicht auftreten können. Die Windows Plugins liegen trotzdem bei.
