@@ -6,9 +6,9 @@ Bei diesem Gamemode handelt es sich um einen Gamemode für die Multiplayer Modif
 
 Info: Der Gamemode war für Linux ausgelegt, ich kann den Gamemode nur in Verwendung mit einem Linux Server empfehlen. Auf Windows könnten einige Fehler auftreten, welche bei Linux nicht auftreten können. Die Windows Plugins liegen trotzdem bei.
 
-Altes NRP-Forum: https://nrpforum.nemesus.de
+Altes NRP-Forum: https://legacy.nemesus-roleplay.net
 
-Alte Werbeseite: https://nrpaboutus.nemesus.de/
+Alte Werbeseite: https://legacy.nemesus-roleplay.net/serverwerbung
 
 Youtube: https://yt.nemesus.de
 
