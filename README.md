@@ -1,3 +1,5 @@
+🎮 Nemesus-Roleplay Legacy Gamemode für SA:MP 🎮
+
 Nemesus-Roleplay (Legacy) Revision 126 (Erstellt durch https://nemesus.de, 2021 gekauft durch Artur und 2022 released für alle!)
 
 (Euch gefällt der Gamemode? Dann lasst doch gerne ein Stern hier auf Github da ;))
