@@ -50,4 +50,4 @@ Ihr wollt uns unterstützen? https://ko-fi.com/nemesustv
 
 Weitere Infos gibt es auf https://nemesus.de
 
-PS: Ich bitte zu beachten, das sich dieser Gamemode nicht mehr aktiv in der Entwicklung befindet und Updates nur sporadisch erscheinen, Ihr könnt uns gerne auf Discord kontaktieren oder versuchen die Fehler direkt selber beheben.
+PS: Ich bitte zu beachten, das sich dieser Gamemode nicht mehr aktiv in der Entwicklung befindet und Updates nur sporadisch erscheinen, Ihr könnt uns gerne auf Discord kontaktieren oder versuchen die Fehler direkt selber zu beheben.
