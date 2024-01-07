@@ -1,3 +1,5 @@
+🎮 Nemesus-Roleplay Legacy Gamemode für SA:MP 🎮
+
 Nemesus-Roleplay (Legacy) Revision 126 (Erstellt durch https://nemesus.de, 2021 gekauft durch Artur und 2022 released für alle!)
 
 (Euch gefällt der Gamemode? Dann lasst doch gerne ein Stern hier auf Github da ;))
@@ -24,22 +26,22 @@ Hier und da gibt es natürlich noch ein paar Unschönheiten, Bugs und Unklarheit
 
 Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nennen:
 
-    Ein Fimensystem mit der Möglichkeit verschiedenen Lizenzen zu besitzen wie z.B: Speditionslizenz, Mechatronikerlizenz etc.
-    Einzigartige NPC Interaktionen sowie ein Questsystem
-    Ein vollwertiges Haus und Businessystem.
-    Ein Fahrzeugsystem mit vielen Autohäusern und Tuningmöglichkeiten.
-    Ein Möbelsystem mit mehr als 1000 verschiedenen Möbeln, um sein eigenes Haus zu verschönern.
-    Ein Partei inkl. Politiksystem.
-    Ein Grafitty System.
-    Rodeo Bullriding.
-    Muskelkraftsystem
-    Wohnwagen/Hausbootsystem
-    0.3DL Objekte/Skins und benutzerdefinierte Skins.
-    Voll ausgebautes Los-Santos und LS-County (Switchmöglichkeit)
-    Rucksack, Koffer, Duffle-Bag System
-    Einzigartiges Drogensystem
-    und vieles mehr ...
-    
+Ein Fimensystem mit der Möglichkeit verschiedenen Lizenzen zu besitzen wie z.B: Speditionslizenz, Mechatronikerlizenz etc.
+Einzigartige NPC Interaktionen sowie ein Questsystem
+Ein vollwertiges Haus und Businessystem.
+Ein Fahrzeugsystem mit vielen Autohäusern und Tuningmöglichkeiten.
+Ein Möbelsystem mit mehr als 1000 verschiedenen Möbeln, um sein eigenes Haus zu verschönern.
+Ein Partei inkl. Politiksystem.
+Ein Grafitty System.
+Rodeo Bullriding.
+Muskelkraftsystem
+Wohnwagen/Hausbootsystem
+0.3DL Objekte/Skins und benutzerdefinierte Skins.
+Voll ausgebautes Los-Santos und LS-County (Switchmöglichkeit)
+Rucksack, Koffer, Duffle-Bag System
+Einzigartiges Drogensystem
+und vieles mehr ...
+
 Models Download: https://bit.ly/3LHByQ2
 
 pWBB4: https://github.com/derpierre65/pWBB4
@@ -47,3 +49,5 @@ pWBB4: https://github.com/derpierre65/pWBB4
 Ihr wollt uns unterstützen? https://ko-fi.com/nemesustv
 
 Weitere Infos gibt es auf https://nemesus.de
+
+PS: Ich bitte zu beachten, das sich dieser Gamemode nicht mehr aktiv in der Entwicklung befindet und Updates nur sporadisch erscheinen, Ihr könnt uns gerne auf Discord kontaktieren oder versuchen die Fehler direkt selber beheben.
