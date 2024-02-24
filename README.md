@@ -2,7 +2,7 @@
 
 Nemesus-Roleplay (Legacy) Revision 126 (Erstellt durch https://nemesus.de, 2021 gekauft durch Artur und 2022 released für alle!)
 
-**Auf der Suche nach einem günstigen SA:MP Server? ZAP-Hosting: https://bit.ly/2YnfPJt und mit dem Gutschein: Nsus-a-3805 noch kräftig sparen! (Werbung)**
+**Auf der Suche nach einem günstigen SA:MP/open.mp Server? ZAP-Hosting: https://bit.ly/2YnfPJt / https://bit.ly/3ST1Jrn und mit dem Gutschein: Nsus-a-3805 noch kräftig sparen! (Werbung)**
 
 (Euch gefällt der Gamemode? Dann lasst doch gerne ein Stern hier auf Github da ;))
 
