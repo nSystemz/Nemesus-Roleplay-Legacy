@@ -26,8 +26,7 @@ Das Script von Nemesus-Roleplay wurde zwischen 2012 und 2013 entwickelt, der Rel
 
 Hier und da gibt es natürlich noch ein paar Unschönheiten, Bugs und Unklarheiten. Diese dürfte man aber mit relativ wenig Zeit entfernen können.
 
-Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nennen:
-
+**Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nennen:**
 Ein Fimensystem mit der Möglichkeit verschiedenen Lizenzen zu besitzen wie z.B: Speditionslizenz, Mechatronikerlizenz etc.
 Einzigartige NPC Interaktionen sowie ein Questsystem
 Ein vollwertiges Haus und Businessystem.
