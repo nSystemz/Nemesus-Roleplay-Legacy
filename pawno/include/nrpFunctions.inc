@@ -6689,6 +6689,33 @@ stock PreloadAnims(playerid)
 }
 
 //AddCommasToInt
+#if defined OpenMP
+stock AddCommasToInt(number)
+{
+    new tStr[16];
+    new number2 = number;
+    if(number < 0)
+	{
+		number = number * -1;
+	}
+    format(tStr, sizeof(tStr), "%d", number);
+    new iPos = strlen(tStr),iCount = 1;
+    while(iPos > 0)
+    {
+        if(strlen(tStr) < 4) break;
+		if(iCount == 4)
+		{
+	    	iCount = 0;
+	    	strins(tStr, ".", iPos);
+    	    iPos++;
+        }
+        iCount++;
+        iPos--;
+    }
+    if(number2 < 0) format(tStr, sizeof(tStr), "-%s", tStr);
+    return tStr;
+}
+#else
 stock AddCommasToInt(number)
 {
     new tStr[16];
@@ -6714,6 +6741,7 @@ stock AddCommasToInt(number)
     if(number2 < 0) format(tStr, sizeof(tStr), "-%s", tStr);
     return tStr;
 }
+#endif
 
 //Geld System
 stock GivePlayerEuro(playerid,euros)
