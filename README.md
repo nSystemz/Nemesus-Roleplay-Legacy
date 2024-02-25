@@ -2,7 +2,7 @@
 
 Nemesus-Roleplay (Legacy) Revision 126 (Erstellt durch https://nemesus.de, 2021 gekauft durch Artur und 2022 released für alle!)
 
-**Auf der Suche nach einem günstigen SA:MP Server? ZAP-Hosting: https://bit.ly/2YnfPJt und mit dem Gutschein: Nsus-a-3805 noch kräftig sparen! (Werbung)**
+**Auf der Suche nach einem günstigen SA:MP / open.mp Server? ZAP-Hosting: https://bit.ly/2YnfPJt / https://bit.ly/3ST1Jrn und mit dem Gutschein: Nsus-a-3805 noch kräftig sparen! (Werbung)**
 
 (Euch gefällt der Gamemode? Dann lasst doch gerne ein Stern hier auf Github da ;))
 
@@ -30,23 +30,22 @@ Das Script von Nemesus-Roleplay wurde zwischen 2012 und 2013 entwickelt, der Rel
 
 Hier und da gibt es natürlich noch ein paar Unschönheiten, Bugs und Unklarheiten. Diese dürfte man aber mit relativ wenig Zeit entfernen können.
 
-Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nennen:
-
-Ein Fimensystem mit der Möglichkeit verschiedenen Lizenzen zu besitzen wie z.B: Speditionslizenz, Mechatronikerlizenz etc.
-Einzigartige NPC Interaktionen sowie ein Questsystem
-Ein vollwertiges Haus und Businessystem.
-Ein Fahrzeugsystem mit vielen Autohäusern und Tuningmöglichkeiten.
-Ein Möbelsystem mit mehr als 1000 verschiedenen Möbeln, um sein eigenes Haus zu verschönern.
-Ein Partei inkl. Politiksystem.
-Ein Grafitty System.
-Rodeo Bullriding.
-Muskelkraftsystem
-Wohnwagen/Hausbootsystem
-0.3DL Objekte/Skins und benutzerdefinierte Skins.
-Voll ausgebautes Los-Santos und LS-County (Switchmöglichkeit)
-Rucksack, Koffer, Duffle-Bag System
-Einzigartiges Drogensystem
-und vieles mehr ...
+**Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nennen:**
+1. Ein Fimensystem mit der Möglichkeit verschiedenen Lizenzen zu besitzen wie z.B: Speditionslizenz, Mechatronikerlizenz etc.
+2. Einzigartige NPC Interaktionen sowie ein Questsystem
+3. Ein vollwertiges Haus und Businessystem.
+4. Ein Fahrzeugsystem mit vielen Autohäusern und Tuningmöglichkeiten.
+5. Ein Möbelsystem mit mehr als 1000 verschiedenen Möbeln, um sein eigenes Haus zu verschönern.
+6. Ein Partei inkl. Politiksystem.
+7. Ein Grafitty System.
+8. Rodeo Bullriding.
+9. Muskelkraftsystem
+10. Wohnwagen/Hausbootsystem
+11. 0.3DL Objekte/Skins und benutzerdefinierte Skins.
+12. Voll ausgebautes Los-Santos und LS-County (Switchmöglichkeit)
+13. Rucksack, Koffer, Duffle-Bag System
+14. Einzigartiges Drogensystem
+15. und vieles mehr ...
 
 Models Download: https://bit.ly/3LHByQ2
 
