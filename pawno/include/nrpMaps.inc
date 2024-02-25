@@ -2616,8 +2616,6 @@ stock MapInit()
  	{
  	    SetDynamicObjectMaterial(KW[g], 0, 11352, "stationsfse_1", "ws_sandstone2", 0xFFFFFFFF);
  	}
-	//Verona Mall
-	SendRconCommand("loadfs Verona-Mall");
 	//Kafeeladen Interior + Exterior
 	//Exterior
 	CreateDynamicObject(-2053, 758.46411, -1812.00525, 13.39920,   0.00000, 0.00000, -0.30000,-1,-1,-1,125.0,125.0);
@@ -8431,8 +8429,6 @@ stock MapInit()
  	{
   		SetDynamicObjectMaterial(HD[g],0,18007, "int_cutbar3", "ceilingtile1_128", 0);
  	}
- 	//Prison Interior
- 	SendRconCommand("loadfs Prison-MapI");
  	//Prison Interior - Extras
  	Cell[0] = CreateDynamicObject(19303, 1827.80005, -1729.19995, 5202.79980-3500.0,   0.00000, 0.00000, 0.00000,2); // 1
 	Cell[1] = CreateDynamicObject(19303, 1831.00000, -1729.19995, 5202.79980-3500.0,   0.00000, 0.00000, 0.00000,2); // 2
@@ -27520,8 +27516,6 @@ stock MapInit()
 	SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
 	obj = CreateDynamicObject(19377, 1373.91577, 11.34360, 32.38090,   0.00000, 90.00000, 42.00000);
 	SetDynamicObjectMaterial(obj, 0, 4562, "plaza1_lan2", "sl_blokpave1", 0xFFFFFFFF);
-	//Go Bank Interior+Exterior Logo
-	SendRconCommand("loadfs GoBank-Map");
 	//Go Bank Sonstige Objekte
 	Pointer[0] = CreateDynamicObject(18643, 1439.8000, -982.7000, 14.1000, 0.0000, 0.0000, 270.0000,2,0); //LaserPointer1
 	Pointer[1] = CreateDynamicObject(18643, 1439.8000, -982.7000, 14.6999, 0.0000, 0.0000, 270.0000,2,0); //LaserPointer1
@@ -27790,7 +27784,6 @@ stock MapInit()
 	obj = CreateDynamicObject(19356, -2826.7680, -2019.6971, 37.1900, 0.0000, 90.0000, 162.3000); //wall004
 	SetDynamicObjectMaterial(obj, 0, 16322, "a51_stores", "des_ghotwood1", 0xFFFFFFFF);
  	//Spedition Luch Exterior
- 	SendRconCommand("loadfs Spedition-LuchE");
  	LuchG = CreateDynamicObject(968, 1494.3641, 2383.2163, 10.6043, 0.0000, 90.0000, 0.0000); //barrierturn
  	//Schranke Haus 134
  	CreateDynamicObject(966, 173.9829, -1350.7554, 68.2508, 0.0000, 0.0000, -5.9998); //bar_gatebar01
@@ -29203,8 +29196,6 @@ stock MapInit()
 	CreateDynamicObject(1543, 1883.35901, -1870.73889, 13.33402,   0.00000, 0.00000, 0.00000);
 	CreateDynamicObject(1543, 1886.08459, -1868.93750, 13.36210,   0.00000, 0.00000, 20.00000);
 	CreateDynamicObject(1338, 1885.86316, -1862.12512, 12.75250,   0.00000, 0.00000, -60.00000);
-	//Weitere Maps als Filterscript
-	SendRconCommand("loadfs More-Maps");
 	//Arty Interior mit bewegbaren Schrank
 	SchrankDoor = CreateDynamicObject(2200, 422.7232, -848.7401, 1484.4072, 0.0000, 0.0000, -90.0000); //MED_OFFICE5_UNIT_1
 	//Peters Performance
