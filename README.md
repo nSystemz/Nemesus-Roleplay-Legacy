@@ -21,8 +21,8 @@ Forum: https://forum.nemesus.de
 Discord: https://discord.nemesus.de
 
 **Testzugangsdaten:**
-Testaccount: Testaccount - 12345
-Adminpassword: 12345
+- Testaccount: Testaccount - 12345
+- Adminpassword: 12345
 
 Nemesus-Roleplay.net ist ein einzigartiger, neuartiger, dynamischer San Andreas: Multiplayer Server. Wir legen viel Wert auf ein freundliches Miteinander und professioneller Unterhaltung unserer Spieler. Wir haben uns darauf spezialisiert der San Andreas: Multiplayer Community etwas neues, noch nie da gewesenes zu bieten. Dies verwirklichen wir durch unser über 7 Jahre lang entwickeltes Script, mit neuartigen dynamischen Elementen. Nach den bereits von uns geleiteten Servern, Dark Trigardon, Dark Trigardon Reloaded und Bayside Roleplay, wollen wir dieses mal die Messlatte noch höher legen und endlich erreichen was wir erreichen wollten. Wir wollen der "beste" deutsche SA:MP Roleplay Server werden! Ständig wird unser Server durch neue Ideen, Maps, Systeme und anderweitigen Dingen erweitert und nun möchten wir beweisen dass hinter all diesen Dingen noch mehr steckt. Unser Server hat in seiner sechsjährigen Geschichte verschiedene Höhen und Tiefen durchlebt, trotz dessen können wir stolz behaupten führend im deutschen SA:MP Roleplay Bereich zu sein. Diese Vorrangstellung wollen wir ausbauen und verbessern um möglichst vielen Spielern Zugang zu gutem Roleplay zu ermöglichen.
 
@@ -31,21 +31,21 @@ Das Script von Nemesus-Roleplay wurde zwischen 2012 und 2013 entwickelt, der Rel
 Hier und da gibt es natürlich noch ein paar Unschönheiten, Bugs und Unklarheiten. Diese dürfte man aber mit relativ wenig Zeit entfernen können.
 
 **Nemesus-Roleplay beinhaltet sehr sehr vieles Features, nur um mal einige zu nennen:**
-1. Ein Fimensystem mit der Möglichkeit verschiedenen Lizenzen zu besitzen wie z.B: Speditionslizenz, Mechatronikerlizenz etc.
-2. Einzigartige NPC Interaktionen sowie ein Questsystem
-3. Ein vollwertiges Haus und Businessystem.
-4. Ein Fahrzeugsystem mit vielen Autohäusern und Tuningmöglichkeiten.
-5. Ein Möbelsystem mit mehr als 1000 verschiedenen Möbeln, um sein eigenes Haus zu verschönern.
-6. Ein Partei inkl. Politiksystem.
-7. Ein Grafitty System.
-8. Rodeo Bullriding.
-9. Muskelkraftsystem
-10. Wohnwagen/Hausbootsystem
-11. 0.3DL Objekte/Skins und benutzerdefinierte Skins.
-12. Voll ausgebautes Los-Santos und LS-County (Switchmöglichkeit)
-13. Rucksack, Koffer, Duffle-Bag System
-14. Einzigartiges Drogensystem
-15. und vieles mehr ...
+- Ein Fimensystem mit der Möglichkeit verschiedenen Lizenzen zu besitzen wie z.B: Speditionslizenz, Mechatronikerlizenz etc.
+- Einzigartige NPC Interaktionen sowie ein Questsystem
+- Ein vollwertiges Haus und Businessystem.
+- Ein Fahrzeugsystem mit vielen Autohäusern und Tuningmöglichkeiten.
+- Ein Möbelsystem mit mehr als 1000 verschiedenen Möbeln, um sein eigenes Haus zu verschönern.
+- Ein Partei inkl. Politiksystem.
+- Ein Grafitty System.
+- Rodeo Bullriding.
+- Muskelkraftsystem
+- Wohnwagen/Hausbootsystem
+- 0.3DL Objekte/Skins und benutzerdefinierte Skins.
+- Voll ausgebautes Los-Santos und LS-County (Switchmöglichkeit)
+- Rucksack, Koffer, Duffle-Bag System
+- Einzigartiges Drogensystem
+- und vieles mehr ...
 
 Models Download: https://bit.ly/3LHByQ2
 
