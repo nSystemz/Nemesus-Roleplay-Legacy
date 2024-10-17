@@ -55,4 +55,4 @@ pWBB4: https://github.com/derpierre65/pWBB4
 
 Weitere Infos gibt es auf https://nemesus.de
 
-PS: Ich bitte zu beachten, das sich dieser Gamemode nicht mehr aktiv in der Entwicklung befindet und Updates nur sporadisch erscheinen, Ihr könnt uns gerne auf Discord kontaktieren oder versuchen die Fehler direkt selber zu beheben.
+**Für diesen Gamemode gibt es keinen aktiven Support mehr, der Gamemode befindet sich im End-of-Life (EOL) Modus.**
