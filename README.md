@@ -50,7 +50,7 @@ Hier und da gibt es natürlich noch ein paar Unschönheiten, Bugs und Unklarheit
 - und vieles mehr ...
 
 **Mögliche Fehler + Lösungen:**
-- Field 'x' doesn't have a default value - SET GLOBAL sql_mode = 'NO_ENGINE_SUBSTITUTION'; verwenden
+- Field 'x' doesn't have a default value - SET GLOBAL sql_mode = 'NO_ENGINE_SUBSTITUTION'; / SET GLOBAL sql_mode = ''; verwenden
 
 Models Download: https://bit.ly/3LHByQ2
 
