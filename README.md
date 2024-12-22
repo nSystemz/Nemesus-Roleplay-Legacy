@@ -20,7 +20,7 @@ Forum: https://forum.nemesus.de
 
 Discord: https://discord.nemesus.de
 
-Wetter-API: Ihr könnt euch eure eigene API über https://openweathermap.org/ erstellen
+Wetter-API: Ihr könnt euch eure eigene API über https://openweathermap.org/ erstellen, Ihr könnt aber auch diese verwenden: http://wettersamp.nemesus.de/data.php
 
 **Testzugangsdaten:**
 - Testaccount: Testaccount - 12345
