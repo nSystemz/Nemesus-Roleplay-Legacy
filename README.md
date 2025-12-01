@@ -14,6 +14,8 @@ Altes NRP-Forum: https://legacy.nemesus-roleplay.net
 
 Alte Werbeseite: https://legacy.nemesus-roleplay.net/serverwerbung
 
+Testserver: https://legacy.nemesus-roleplay.net/index.php/Thread/94890-Nemesus-Roleplay-Legacy-Testserver-im-Sandbox-Mode/
+
 Youtube: https://yt.nemesus.de
 
 Forum: https://forum.nemesus.de
